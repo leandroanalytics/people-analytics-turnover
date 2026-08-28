@@ -1,0 +1,1201 @@
+﻿colaborador_id,idade,genero,estado_civil,escolaridade,area,cargo,nivel_cargo,data_admissao,tempo_empresa_anos,salario_mensal,distancia_casa_km,horas_extras,viagens_negocio,satisfacao_trabalho,satisfacao_ambiente,equilibrio_vida_trabalho,avaliacao_desempenho,treinamentos_ultimo_ano,recebeu_promocao_5_anos,rotatividade,data_desligamento,motivo_desligamento
+COL-0001,38,Masculino,Casado(a),Mestrado,Atendimento,Analista de Atendimento,3,2013-12-13,12,7800.0,11,Não,Raramente,1,1,3,3,3,Sim,Sim,2023-07-28 04:45:25.596,Falta de perspectiva de crescimento
+COL-0002,61,Feminino,Casado(a),Pós-graduação,Recursos Humanos,Especialista de Pessoas,5,2025-03-07,1,12950.0,49,Não,Frequentemente,5,2,2,5,3,Não,Não,,Não se aplica
+COL-0003,51,Não binário,Casado(a),Graduação,Operações,Coordenador de Operações,4,2022-05-18,4,11400.0,39,Não,Raramente,4,5,4,3,4,Não,Não,,Não se aplica
+COL-0004,34,Feminino,União estável,Tecnólogo,Tecnologia,Analista de Dados,3,2021-05-28,4,11450.0,46,Não,Raramente,3,2,4,4,3,Não,Não,,Não se aplica
+COL-0005,46,Feminino,União estável,Pós-graduação,Financeiro,Controller,3,2015-11-10,11,9550.0,35,Não,Nunca,3,3,4,3,1,Sim,Não,,Não se aplica
+COL-0006,50,Masculino,Divorciado(a),Graduação,Operações,Coordenador de Operações,3,2019-04-09,7,9650.0,49,Sim,Raramente,1,5,5,3,2,Sim,Não,,Não se aplica
+COL-0007,35,Não binário,União estável,Graduação,Atendimento,Analista de Atendimento,3,2021-06-04,4,8450.0,16,Não,Frequentemente,1,2,2,3,1,Sim,Sim,2023-03-23 19:04:09.287,Desempenho abaixo do esperado
+COL-0008,36,Feminino,União estável,Tecnólogo,Atendimento,Assistente de Atendimento,2,2019-08-21,6,6300.0,37,Sim,Raramente,4,4,4,5,5,Não,Não,,Não se aplica
+COL-0009,40,Feminino,Divorciado(a),Graduação,Comercial,Executivo de Contas,2,2023-12-10,3,7400.0,25,Não,Raramente,5,4,4,3,6,Não,Não,,Não se aplica
+COL-0010,60,Feminino,Casado(a),Ensino médio,Marketing,Coordenador de Marketing,5,2013-06-15,12,13050.0,18,Não,Frequentemente,1,3,4,3,0,Sim,Não,,Não se aplica
+COL-0011,49,Não binário,Divorciado(a),Graduação,Atendimento,Analista de Atendimento,4,2023-11-20,3,9000.0,44,Sim,Raramente,3,3,2,4,4,Sim,Não,,Não se aplica
+COL-0012,33,Feminino,Casado(a),Graduação,Recursos Humanos,Analista de RH,2,2013-09-14,12,8100.0,34,Não,Nunca,4,3,4,4,4,Não,Não,,Não se aplica
+COL-0013,34,Feminino,Solteiro(a),Tecnólogo,Operações,Analista de Operações,2,2019-03-25,7,6800.0,24,Sim,Nunca,2,2,4,3,3,Sim,Sim,2026-01-26 00:25:05.442,Desempenho abaixo do esperado
+COL-0014,24,Masculino,Casado(a),Tecnólogo,Financeiro,Analista Financeiro,2,2019-10-02,6,8750.0,5,Sim,Nunca,3,1,1,4,3,Não,Sim,2023-01-21 05:00:27.262,Falta de perspectiva de crescimento
+COL-0015,36,Feminino,Divorciado(a),Graduação,Atendimento,Analista de Atendimento,3,2020-07-03,6,8550.0,26,Não,Raramente,3,5,4,2,4,Sim,Não,,Não se aplica
+COL-0016,32,Feminino,Casado(a),Pós-graduação,Marketing,Analista de Marketing,1,2025-01-01,1,6850.0,36,Sim,Raramente,4,2,1,4,1,Não,Não,,Não se aplica
+COL-0017,51,Feminino,Divorciado(a),Graduação,Comercial,Analista Comercial,4,2019-07-01,6,10500.0,20,Não,Raramente,4,1,3,3,3,Não,Não,,Não se aplica
+COL-0018,55,Masculino,Casado(a),Graduação,Financeiro,Especialista Financeiro,5,2013-09-04,13,13450.0,33,Sim,Nunca,2,2,2,2,6,Não,Não,,Não se aplica
+COL-0019,29,Não binário,Divorciado(a),Tecnólogo,Marketing,Analista de Marketing,1,2019-02-28,6,6050.0,8,Sim,Nunca,2,1,5,5,5,Não,Não,,Não se aplica
+COL-0020,20,Feminino,Casado(a),Mestrado,Marketing,Analista de Marketing,1,2024-11-16,1,5850.0,37,Sim,Nunca,2,1,3,3,0,Não,Não,,Não se aplica
+COL-0021,52,Feminino,Casado(a),Graduação,Recursos Humanos,Business Partner,4,2025-06-02,1,11300.0,52,Não,Nunca,1,2,5,3,5,Não,Sim,2025-11-26 09:21:43.819,Mudança de cidade
+COL-0022,58,Masculino,União estável,Ensino médio,Recursos Humanos,Business Partner,4,2014-10-17,12,10100.0,4,Sim,Frequentemente,3,3,3,3,6,Não,Sim,2025-10-27 20:44:22.542,Reestruturação organizacional
+COL-0023,33,Feminino,Casado(a),Mestrado,Financeiro,Analista Financeiro,2,2024-03-01,1,7700.0,21,Sim,Nunca,4,1,3,4,5,Não,Sim,2025-12-07 23:33:40.610,Reestruturação organizacional
+COL-0024,60,Masculino,Casado(a),Graduação,Marketing,Especialista de Marketing,4,2015-10-20,11,11000.0,41,Não,Nunca,3,4,2,3,1,Sim,Sim,2022-10-19 13:47:00.629,Falta de perspectiva de crescimento
+COL-0025,56,Feminino,Solteiro(a),Tecnólogo,Operações,Coordenador de Operações,4,2014-01-19,11,10900.0,44,Não,Raramente,5,2,5,5,2,Não,Não,,Não se aplica
+COL-0026,57,Feminino,União estável,Tecnólogo,Recursos Humanos,Business Partner,4,2018-04-02,7,10550.0,25,Não,Frequentemente,5,1,3,5,1,Não,Não,,Não se aplica
+COL-0027,59,Feminino,Casado(a),Mestrado,Operações,Coordenador de Operações,4,2014-10-21,12,10950.0,6,Não,Nunca,4,5,1,2,3,Não,Não,,Não se aplica
+COL-0028,56,Masculino,Divorciado(a),Tecnólogo,Operações,Coordenador de Operações,4,2013-05-02,12,10250.0,31,Não,Raramente,2,2,2,3,1,Sim,Não,,Não se aplica
+COL-0029,47,Masculino,União estável,Pós-graduação,Comercial,Analista Comercial,4,2025-07-22,0,11000.0,39,Não,Raramente,3,3,1,3,3,Não,Não,,Não se aplica
+COL-0030,36,Feminino,União estável,Pós-graduação,Recursos Humanos,Business Partner,3,2013-07-20,12,9750.0,40,Não,Frequentemente,2,1,3,3,3,Não,Não,,Não se aplica
+COL-0031,42,Não binário,Casado(a),Ensino médio,Marketing,Especialista de Marketing,3,2012-11-25,13,10100.0,34,Não,Raramente,1,4,1,4,6,Não,Sim,2022-04-12 22:08:05.382,Desempenho abaixo do esperado
+COL-0032,21,Masculino,Casado(a),Graduação,Marketing,Analista de Marketing,1,2024-04-27,1,5950.0,9,Sim,Nunca,5,2,3,4,2,Não,Sim,2026-03-20 00:28:56.907,Reestruturação organizacional
+COL-0033,22,Masculino,Divorciado(a),Mestrado,Comercial,Executivo de Contas,1,2022-09-16,3,5600.0,52,Não,Nunca,1,3,3,3,4,Não,Não,,Não se aplica
+COL-0034,51,Masculino,Solteiro(a),Graduação,Tecnologia,Analista de Dados,4,2021-07-14,5,12500.0,43,Sim,Frequentemente,2,5,4,4,3,Sim,Sim,2023-07-30 07:37:49.487,Desempenho abaixo do esperado
+COL-0035,54,Feminino,União estável,Graduação,Comercial,Analista Comercial,4,2024-06-20,1,10500.0,39,Não,Frequentemente,3,3,2,2,5,Não,Não,,Não se aplica
+COL-0036,52,Feminino,Divorciado(a),Pós-graduação,Recursos Humanos,Business Partner,4,2012-05-27,13,11650.0,48,Não,Raramente,2,5,2,3,3,Sim,Não,,Não se aplica
+COL-0037,39,Masculino,Solteiro(a),Tecnólogo,Comercial,Executivo de Contas,2,2012-03-22,13,8250.0,28,Sim,Frequentemente,2,3,2,3,0,Não,Não,,Não se aplica
+COL-0038,23,Masculino,Solteiro(a),Graduação,Recursos Humanos,Analista de RH,1,2024-08-06,2,6700.0,2,Sim,Raramente,2,4,4,4,3,Não,Não,,Não se aplica
+COL-0039,33,Não binário,União estável,Ensino médio,Recursos Humanos,Analista de RH,2,2013-09-11,12,7850.0,19,Sim,Raramente,4,1,1,3,4,Não,Não,,Não se aplica
+COL-0040,21,Masculino,Solteiro(a),Tecnólogo,Tecnologia,Desenvolvedor,1,2024-07-09,1,7450.0,46,Não,Frequentemente,5,5,1,4,2,Não,Não,,Não se aplica
+COL-0041,54,Masculino,Solteiro(a),Tecnólogo,Financeiro,Controller,4,2011-06-25,14,11500.0,48,Não,Raramente,2,3,1,2,0,Não,Não,,Não se aplica
+COL-0042,42,Masculino,Casado(a),Pós-graduação,Atendimento,Analista de Atendimento,3,2020-02-15,5,8500.0,49,Não,Nunca,3,1,1,4,1,Não,Não,,Não se aplica
+COL-0043,55,Masculino,Casado(a),Mestrado,Financeiro,Controller,4,2012-08-03,13,10900.0,27,Não,Nunca,5,3,5,2,3,Não,Não,,Não se aplica
+COL-0044,56,Masculino,Casado(a),Graduação,Tecnologia,Analista de Dados,3,2014-07-05,12,11050.0,13,Sim,Raramente,3,5,5,2,3,Sim,Não,,Não se aplica
+COL-0045,36,Não binário,Divorciado(a),Tecnólogo,Operações,Coordenador de Operações,3,2017-12-21,9,9050.0,19,Não,Frequentemente,2,1,1,4,1,Sim,Não,,Não se aplica
+COL-0046,57,Masculino,Casado(a),Graduação,Marketing,Coordenador de Marketing,5,2021-07-08,5,11950.0,1,Sim,Nunca,4,1,1,4,0,Não,Não,,Não se aplica
+COL-0047,35,Masculino,União estável,Pós-graduação,Comercial,Executivo de Contas,2,2026-06-11,0,7500.0,12,Sim,Nunca,1,3,5,2,4,Não,Sim,2026-09-09 00:00:00.000,Qualidade de vida
+COL-0048,47,Masculino,Casado(a),Mestrado,Financeiro,Controller,3,2018-10-13,7,10550.0,21,Sim,Frequentemente,1,2,5,4,1,Sim,Não,,Não se aplica
+COL-0049,38,Masculino,União estável,Graduação,Operações,Coordenador de Operações,3,2020-06-22,6,8600.0,50,Não,Frequentemente,2,4,4,3,1,Não,Não,,Não se aplica
+COL-0050,20,Não binário,Solteiro(a),Graduação,Comercial,Executivo de Contas,1,2025-07-06,0,5200.0,13,Não,Frequentemente,1,4,2,5,6,Não,Sim,2026-01-29 14:58:35.753,Mudança de cidade
+COL-0051,42,Não binário,Divorciado(a),Graduação,Operações,Coordenador de Operações,3,2017-07-23,9,9850.0,22,Não,Frequentemente,3,2,2,3,0,Não,Não,,Não se aplica
+COL-0052,39,Masculino,Casado(a),Graduação,Tecnologia,Analista de Dados,3,2014-10-11,11,10200.0,46,Não,Nunca,3,5,2,3,1,Sim,Sim,2026-01-14 16:26:24.409,Nova oportunidade profissional
+COL-0053,40,Feminino,Casado(a),Pós-graduação,Operações,Analista de Operações,2,2017-11-25,8,8200.0,20,Não,Raramente,4,5,2,4,2,Não,Não,,Não se aplica
+COL-0054,60,Masculino,Solteiro(a),Graduação,Financeiro,Controller,4,2012-06-01,13,12250.0,34,Não,Raramente,4,1,5,3,5,Não,Não,,Não se aplica
+COL-0055,57,Não binário,Casado(a),Graduação,Tecnologia,Analista de Dados,4,2011-10-17,14,12950.0,23,Sim,Frequentemente,4,5,2,3,6,Não,Não,,Não se aplica
+COL-0056,26,Masculino,Divorciado(a),Mestrado,Financeiro,Analista Financeiro,2,2020-05-20,5,7800.0,14,Sim,Raramente,4,4,2,4,5,Sim,Não,,Não se aplica
+COL-0057,55,Masculino,Casado(a),Graduação,Tecnologia,Engenheiro de Dados,5,2025-04-23,0,13350.0,45,Não,Raramente,2,2,1,3,1,Não,Não,,Não se aplica
+COL-0058,50,Feminino,Solteiro(a),Graduação,Tecnologia,Analista de Dados,4,2018-03-01,7,12400.0,39,Não,Raramente,1,2,5,5,1,Não,Não,,Não se aplica
+COL-0059,56,Não binário,Casado(a),Pós-graduação,Marketing,Especialista de Marketing,4,2023-05-11,2,11700.0,16,Sim,Nunca,3,5,1,3,5,Não,Não,,Não se aplica
+COL-0060,47,Feminino,União estável,Graduação,Atendimento,Analista de Atendimento,4,2021-12-16,5,9050.0,35,Não,Nunca,2,3,4,5,1,Não,Não,,Não se aplica
+COL-0061,41,Feminino,Casado(a),Graduação,Marketing,Especialista de Marketing,4,2020-05-17,5,10350.0,51,Sim,Nunca,4,1,2,3,0,Sim,Não,,Não se aplica
+COL-0062,30,Masculino,Casado(a),Graduação,Atendimento,Analista de Atendimento,3,2024-05-14,1,7850.0,29,Sim,Frequentemente,3,2,5,3,1,Não,Sim,2026-06-28 18:38:50.928,Mudança de cidade
+COL-0063,21,Masculino,Casado(a),Pós-graduação,Comercial,Executivo de Contas,1,2022-07-23,3,5800.0,40,Sim,Raramente,4,4,3,5,2,Não,Sim,2024-04-29 12:44:01.899,Mudança de cidade
+COL-0064,56,Feminino,União estável,Pós-graduação,Financeiro,Controller,4,2022-03-21,4,11200.0,5,Não,Raramente,1,5,2,4,2,Não,Não,,Não se aplica
+COL-0065,42,Não binário,Casado(a),Mestrado,Marketing,Especialista de Marketing,3,2022-05-22,3,9550.0,27,Sim,Raramente,4,2,5,5,2,Não,Não,,Não se aplica
+COL-0066,36,Feminino,Casado(a),Pós-graduação,Operações,Analista de Operações,2,2022-01-18,3,7550.0,34,Não,Frequentemente,4,2,4,5,0,Não,Não,,Não se aplica
+COL-0067,24,Feminino,Divorciado(a),Graduação,Tecnologia,Desenvolvedor,1,2020-12-27,6,7850.0,49,Não,Raramente,5,3,2,5,0,Não,Não,,Não se aplica
+COL-0068,35,Não binário,Casado(a),Mestrado,Marketing,Analista de Marketing,2,2013-12-07,12,8450.0,49,Sim,Nunca,4,3,3,4,6,Não,Não,,Não se aplica
+COL-0069,57,Feminino,Solteiro(a),Pós-graduação,Recursos Humanos,Especialista de Pessoas,5,2024-04-02,2,12700.0,5,Não,Frequentemente,2,2,4,4,1,Não,Não,,Não se aplica
+COL-0070,34,Feminino,Casado(a),Tecnólogo,Financeiro,Analista Financeiro,2,2024-08-03,1,8600.0,34,Não,Frequentemente,4,4,1,3,5,Não,Não,,Não se aplica
+COL-0071,21,Masculino,Divorciado(a),Graduação,Tecnologia,Desenvolvedor,1,2022-07-01,3,7950.0,46,Não,Raramente,1,1,5,3,4,Não,Não,,Não se aplica
+COL-0072,38,Feminino,Casado(a),Pós-graduação,Marketing,Especialista de Marketing,3,2014-03-18,11,10200.0,22,Não,Raramente,4,3,5,4,1,Não,Sim,2023-10-30 20:14:07.930,Remuneração e benefícios
+COL-0073,60,Feminino,União estável,Graduação,Atendimento,Analista de Atendimento,4,2024-06-19,1,10300.0,12,Não,Raramente,2,4,4,2,6,Não,Não,,Não se aplica
+COL-0074,57,Feminino,Divorciado(a),Graduação,Atendimento,Analista de Atendimento,4,2025-05-18,1,9700.0,26,Não,Nunca,3,3,3,3,0,Não,Não,,Não se aplica
+COL-0075,46,Feminino,Solteiro(a),Mestrado,Financeiro,Controller,4,2019-02-12,7,10800.0,37,Não,Nunca,4,1,4,2,3,Não,Não,,Não se aplica
+COL-0076,26,Feminino,Divorciado(a),Graduação,Operações,Analista de Operações,2,2023-10-27,3,7550.0,16,Sim,Raramente,3,4,4,4,5,Sim,Não,,Não se aplica
+COL-0077,25,Não binário,Solteiro(a),Graduação,Financeiro,Analista Financeiro,1,2024-11-02,2,5750.0,7,Não,Raramente,3,5,3,5,6,Sim,Não,,Não se aplica
+COL-0078,30,Masculino,Casado(a),Graduação,Comercial,Executivo de Contas,2,2020-01-12,5,8050.0,40,Não,Nunca,1,5,2,4,4,Sim,Sim,2024-02-12 19:58:20.110,Falta de perspectiva de crescimento
+COL-0079,37,Não binário,Solteiro(a),Graduação,Recursos Humanos,Analista de RH,2,2019-11-26,7,7200.0,11,Sim,Nunca,4,3,1,3,4,Não,Não,,Não se aplica
+COL-0080,26,Feminino,Divorciado(a),Ensino médio,Comercial,Executivo de Contas,1,2019-03-14,7,5700.0,49,Não,Nunca,5,4,3,3,6,Não,Não,,Não se aplica
+COL-0081,57,Masculino,Casado(a),Tecnólogo,Tecnologia,Analista de Dados,4,2018-09-04,7,12500.0,25,Não,Nunca,5,3,2,4,1,Não,Sim,2025-09-21 14:16:15.938,Falta de perspectiva de crescimento
+COL-0082,45,Masculino,Casado(a),Graduação,Marketing,Especialista de Marketing,3,2014-09-24,11,9950.0,28,Sim,Raramente,3,3,3,2,1,Não,Não,,Não se aplica
+COL-0083,57,Não binário,Casado(a),Tecnólogo,Atendimento,Analista de Atendimento,3,2023-09-25,2,7850.0,35,Sim,Frequentemente,4,1,3,3,2,Não,Não,,Não se aplica
+COL-0084,20,Masculino,Divorciado(a),Graduação,Operações,Analista de Operações,1,2025-12-24,0,5000.0,32,Não,Raramente,2,2,2,3,5,Não,Sim,2026-03-25 18:38:15.875,Qualidade de vida
+COL-0085,41,Feminino,União estável,Mestrado,Recursos Humanos,Analista de RH,2,2023-02-16,2,7350.0,21,Não,Nunca,2,4,4,3,1,Não,Não,,Não se aplica
+COL-0086,32,Não binário,Casado(a),Tecnólogo,Atendimento,Assistente de Atendimento,2,2014-06-04,11,7050.0,30,Sim,Frequentemente,1,4,3,3,1,Não,Sim,2023-09-09 08:46:47.257,Mudança de cidade
+COL-0087,56,Feminino,Casado(a),Pós-graduação,Comercial,Analista Comercial,3,2015-05-25,10,8600.0,9,Sim,Nunca,3,4,5,4,6,Sim,Não,,Não se aplica
+COL-0088,43,Não binário,Casado(a),Tecnólogo,Financeiro,Controller,4,2018-01-12,7,11400.0,22,Não,Raramente,3,4,2,3,6,Não,Não,,Não se aplica
+COL-0089,32,Feminino,Solteiro(a),Pós-graduação,Marketing,Analista de Marketing,2,2011-12-26,14,7150.0,42,Não,Nunca,1,3,2,5,4,Não,Não,,Não se aplica
+COL-0090,33,Não binário,Casado(a),Pós-graduação,Marketing,Analista de Marketing,2,2013-04-02,12,7850.0,16,Não,Frequentemente,3,2,5,3,1,Não,Não,,Não se aplica
+COL-0091,47,Feminino,Casado(a),Graduação,Atendimento,Analista de Atendimento,3,2017-10-23,9,7700.0,13,Sim,Frequentemente,3,3,3,3,3,Sim,Não,,Não se aplica
+COL-0092,36,Feminino,Casado(a),Graduação,Recursos Humanos,Business Partner,3,2025-08-26,1,9350.0,6,Não,Raramente,1,4,3,5,6,Não,Sim,2026-05-13 12:48:21.174,Nova oportunidade profissional
+COL-0093,61,Não binário,Divorciado(a),Graduação,Tecnologia,Engenheiro de Dados,5,2013-03-26,12,14650.0,42,Não,Raramente,4,1,5,3,2,Sim,Não,,Não se aplica
+COL-0094,31,Feminino,Casado(a),Pós-graduação,Recursos Humanos,Analista de RH,2,2016-08-02,9,7000.0,1,Não,Frequentemente,1,5,2,3,2,Não,Não,,Não se aplica
+COL-0095,58,Feminino,Divorciado(a),Mestrado,Operações,Coordenador de Operações,4,2019-07-10,6,10700.0,14,Sim,Raramente,2,2,3,3,4,Sim,Não,,Não se aplica
+COL-0096,44,Não binário,Casado(a),Graduação,Recursos Humanos,Business Partner,3,2019-11-18,7,9250.0,40,Sim,Frequentemente,1,4,4,3,3,Sim,Não,,Não se aplica
+COL-0097,48,Não binário,União estável,Tecnólogo,Operações,Coordenador de Operações,4,2012-03-12,13,10300.0,23,Não,Frequentemente,5,1,2,3,3,Não,Não,,Não se aplica
+COL-0098,29,Não binário,União estável,Tecnólogo,Recursos Humanos,Analista de RH,2,2019-05-12,6,7050.0,43,Não,Nunca,3,5,3,3,0,Não,Sim,2026-04-21 02:34:14.509,Desempenho abaixo do esperado
+COL-0099,54,Feminino,União estável,Graduação,Operações,Coordenador de Operações,3,2013-01-26,13,8750.0,23,Sim,Raramente,5,2,2,5,0,Não,Não,,Não se aplica
+COL-0100,25,Não binário,Casado(a),Tecnólogo,Marketing,Analista de Marketing,2,2021-12-12,4,7350.0,29,Sim,Raramente,5,1,3,3,5,Não,Não,,Não se aplica
+COL-0101,45,Masculino,União estável,Não informado,Financeiro,Controller,3,2015-07-21,10,9200.0,18,Sim,Raramente,2,5,1,5,2,Não,Não,,Não se aplica
+COL-0102,40,Não binário,Divorciado(a),Graduação,Atendimento,Assistente de Atendimento,2,2025-09-01,1,6450.0,29,Não,Nunca,4,2,2,4,2,Não,Sim,2026-05-14 12:12:11.873,Mudança de cidade
+COL-0103,45,Feminino,Solteiro(a),Pós-graduação,Marketing,Especialista de Marketing,3,2018-10-19,8,8800.0,2,Não,Não informado,4,5,5,2,2,Sim,Não,,Não se aplica
+COL-0104,49,Masculino,Casado(a),Pós-graduação,Recursos Humanos,Business Partner,3,2011-03-22,14,9300.0,48,Não,Raramente,3,1,1,3,6,Não,Não,,Não se aplica
+COL-0105,44,Não binário,Casado(a),Graduação,Recursos Humanos,Analista de RH,2,2014-10-13,11,7100.0,15,Sim,Raramente,3,3,2,3,1,Sim,Não,,Não se aplica
+COL-0106,49,Masculino,Solteiro(a),Pós-graduação,Financeiro,Controller,3,2011-08-05,14,9900.0,14,Sim,Raramente,5,1,3,2,1,Não,Não,,Não se aplica
+COL-0107,51,Masculino,Solteiro(a),Mestrado,Operações,Coordenador de Operações,3,2024-11-01,1,8450.0,9,Não,Frequentemente,4,5,3,3,0,Não,Não,,Não se aplica
+COL-0108,34,Masculino,União estável,Graduação,Tecnologia,Desenvolvedor,2,2016-12-14,10,8250.0,17,Sim,Raramente,3,2,5,3,3,Não,Sim,2022-04-09 08:53:52.463,Desempenho abaixo do esperado
+COL-0109,27,Masculino,Divorciado(a),Não informado,Marketing,Analista de Marketing,2,2025-12-07,0,7650.0,15,Não,Raramente,3,2,3,2,3,Não,Não,,Não se aplica
+COL-0110,34,Masculino,Casado(a),Graduação,Comercial,Executivo de Contas,2,2018-12-14,7,7850.0,11,Não,Nunca,5,1,4,5,3,Não,Sim,2022-02-22 07:39:33.677,Qualidade de vida
+COL-0111,32,Feminino,Divorciado(a),Tecnólogo,Tecnologia,Desenvolvedor,2,2021-12-03,4,8800.0,49,Sim,Não informado,4,4,1,3,6,Não,Não,,Não se aplica
+COL-0112,57,Masculino,União estável,Pós-graduação,Comercial,Gerente Comercial,5,2018-08-16,7,12950.0,31,Não,Raramente,3,2,4,3,1,Não,Não,,Não se aplica
+COL-0113,53,Masculino,Solteiro(a),Graduação,Recursos Humanos,Business Partner,4,2024-02-24,2,11200.0,30,Não,Nunca,4,3,3,2,5,Não,Não,,Não se aplica
+COL-0114,55,Feminino,Casado(a),Tecnólogo,Financeiro,Especialista Financeiro,5,2012-09-03,14,12900.0,29,Sim,Raramente,3,5,3,4,3,Não,Sim,2024-06-28 07:36:36.122,Nova oportunidade profissional
+COL-0115,58,Masculino,Casado(a),Ensino médio,Financeiro,Especialista Financeiro,5,2017-04-25,9,13950.0,30,Sim,Frequentemente,4,1,2,3,3,Não,Não,,Não se aplica
+COL-0116,34,Feminino,Casado(a),Graduação,Operações,Analista de Operações,2,2012-07-10,13,7450.0,35,Não,Raramente,3,1,1,5,3,Não,Não,,Não se aplica
+COL-0117,47,Masculino,Solteiro(a),Não informado,Operações,Coordenador de Operações,3,2025-07-03,0,9700.0,50,Não,Raramente,1,2,5,3,3,Não,Não,,Não se aplica
+COL-0118,44,Masculino,Casado(a),Graduação,Recursos Humanos,Analista de RH,2,2021-07-23,4,7575.0,45,Não,Raramente,1,3,1,2,1,Não,Não,,Não se aplica
+COL-0119,46,Não binário,Divorciado(a),Graduação,Marketing,Especialista de Marketing,3,2024-01-11,2,9600.0,35,Não,Não informado,1,1,4,4,2,Sim,Não,,Não se aplica
+COL-0120,53,Masculino,Casado(a),Ensino médio,Tecnologia,Analista de Dados,3,2017-08-07,8,10350.0,52,Não,Nunca,3,2,2,4,3,Não,Não,,Não se aplica
+COL-0121,47,Masculino,União estável,Mestrado,Comercial,Analista Comercial,4,2023-10-07,2,10950.0,47,Não,Frequentemente,4,3,5,3,2,Sim,Não,,Não se aplica
+COL-0122,23,Feminino,Casado(a),Graduação,Financeiro,Analista Financeiro,2,2023-05-24,3,7850.0,15,Sim,Frequentemente,2,1,3,3,6,Não,Não,,Não se aplica
+COL-0123,47,Masculino,Solteiro(a),Mestrado,Tecnologia,Analista de Dados,3,2021-05-17,4,10250.0,11,Sim,Raramente,5,4,2,3,1,Não,Não,,Não se aplica
+COL-0124,31,Masculino,Casado(a),Graduação,Operações,Analista de Operações,2,2012-03-25,13,6900.0,40,Não,Raramente,1,5,5,3,3,Não,Não,,Não se aplica
+COL-0125,58,Não binário,União estável,Não informado,Tecnologia,Engenheiro de Dados,5,2015-07-26,11,13700.0,18,Sim,Frequentemente,2,2,4,5,6,Não,Não,,Não se aplica
+COL-0126,28,Masculino,Divorciado(a),Ensino médio,Recursos Humanos,Analista de RH,2,2023-03-02,2,7575.0,50,Não,Raramente,2,5,2,2,4,Não,Não,,Não se aplica
+COL-0127,45,Feminino,Casado(a),Ensino médio,Tecnologia,Analista de Dados,3,2021-08-16,5,10300.0,14,Não,Não informado,5,5,1,4,4,Não,Não,,Não se aplica
+COL-0128,34,Não binário,Divorciado(a),Graduação,Comercial,Executivo de Contas,2,2021-11-16,4,8350.0,27,Não,Frequentemente,3,2,2,3,0,Sim,Sim,2025-05-23 23:57:16.008,Nova oportunidade profissional
+COL-0129,49,Feminino,Divorciado(a),Pós-graduação,Marketing,Especialista de Marketing,3,2023-04-25,2,9850.0,6,Sim,Raramente,1,3,5,4,4,Não,Não,,Não se aplica
+COL-0130,33,Feminino,Casado(a),Pós-graduação,Comercial,Executivo de Contas,2,2015-05-03,11,7600.0,1,Não,Raramente,5,4,3,4,0,Sim,Não,,Não se aplica
+COL-0131,21,Feminino,União estável,Mestrado,Atendimento,Assistente de Atendimento,1,2025-04-07,0,5150.0,23,Não,Nunca,5,1,4,3,3,Não,Sim,2026-07-07 03:24:11.173,Qualidade de vida
+COL-0132,45,Feminino,Casado(a),Tecnólogo,Comercial,Analista Comercial,3,2023-04-12,3,9450.0,35,Não,Nunca,3,3,1,3,2,Não,Sim,2024-04-20 16:25:38.539,Nova oportunidade profissional
+COL-0133,36,Masculino,Casado(a),Não informado,Recursos Humanos,Analista de RH,1,2023-09-26,2,5350.0,18,Sim,Raramente,4,4,5,3,3,Não,Sim,2024-12-02 20:37:46.382,Mudança de cidade
+COL-0134,22,Feminino,Divorciado(a),Ensino médio,Tecnologia,Desenvolvedor,1,2025-11-20,0,7300.0,24,Não,Raramente,1,1,5,3,5,Não,Não,,Não se aplica
+COL-0135,45,Masculino,União estável,Tecnólogo,Tecnologia,Desenvolvedor,2,2022-05-03,4,8600.0,1,Não,Não informado,5,5,5,5,1,Não,Não,,Não se aplica
+COL-0136,43,Masculino,Divorciado(a),Graduação,Marketing,Especialista de Marketing,3,2016-04-07,9,9050.0,4,Não,Frequentemente,3,1,2,3,3,Não,Não,,Não se aplica
+COL-0137,53,Masculino,Casado(a),Ensino médio,Marketing,Especialista de Marketing,4,2011-02-04,14,10650.0,7,Sim,Nunca,3,3,3,2,1,Sim,Não,,Não se aplica
+COL-0138,43,Masculino,Casado(a),Ensino médio,Atendimento,Analista de Atendimento,3,2018-07-08,8,7550.0,7,Sim,Raramente,5,3,3,3,1,Sim,Não,,Não se aplica
+COL-0139,37,Feminino,Casado(a),Pós-graduação,Tecnologia,Analista de Dados,3,2011-10-11,14,10450.0,40,Sim,Nunca,3,4,5,3,2,Não,Não,,Não se aplica
+COL-0140,35,Feminino,Solteiro(a),Mestrado,Atendimento,Assistente de Atendimento,2,2023-01-07,2,6850.0,9,Não,Nunca,1,4,5,2,3,Não,Não,,Não se aplica
+COL-0141,47,Feminino,Divorciado(a),Não informado,Comercial,Analista Comercial,4,2018-10-19,8,11300.0,30,Sim,Raramente,3,2,2,3,0,Sim,Não,,Não se aplica
+COL-0142,48,Feminino,Divorciado(a),Graduação,Recursos Humanos,Business Partner,3,2012-08-28,13,9250.0,20,Não,Nunca,4,3,1,3,4,Não,Sim,2023-01-24 22:02:04.763,Falta de perspectiva de crescimento
+COL-0143,34,Masculino,Casado(a),Pós-graduação,Tecnologia,Analista de Dados,3,2023-04-23,3,10700.0,10,Sim,Não informado,1,4,2,4,3,Não,Não,,Não se aplica
+COL-0144,38,Masculino,Divorciado(a),Mestrado,Atendimento,Analista de Atendimento,3,2025-04-10,1,8550.0,13,Não,Nunca,2,1,5,3,1,Não,Sim,2026-05-19 09:55:16.032,Remuneração e benefícios
+COL-0145,48,Feminino,Solteiro(a),Ensino médio,Financeiro,Controller,4,2013-02-06,13,11600.0,23,Sim,Raramente,2,3,1,4,1,Não,Não,,Não se aplica
+COL-0146,48,Feminino,Casado(a),Graduação,Atendimento,Analista de Atendimento,4,2023-03-08,2,9600.0,52,Não,Raramente,4,5,3,4,6,Sim,Sim,2025-12-21 03:39:06.680,Falta de perspectiva de crescimento
+COL-0147,44,Masculino,Casado(a),Tecnólogo,Atendimento,Analista de Atendimento,3,2023-04-23,3,7100.0,17,Sim,Raramente,1,4,5,3,0,Não,Sim,2026-05-06 17:40:50.206,Mudança de cidade
+COL-0148,25,Feminino,Divorciado(a),Graduação,Marketing,Analista de Marketing,1,2022-01-23,4,5800.0,17,Sim,Nunca,4,2,1,2,0,Não,Não,,Não se aplica
+COL-0149,42,Masculino,Divorciado(a),Graduação,Tecnologia,Desenvolvedor,2,2021-02-09,4,9550.0,50,Não,Raramente,1,2,5,5,1,Não,Não,,Não se aplica
+COL-0150,56,Masculino,Divorciado(a),Mestrado,Financeiro,Controller,4,2022-01-17,4,11450.0,43,Não,Frequentemente,3,4,5,3,6,Não,Não,,Não se aplica
+COL-0151,51,Masculino,Casado(a),Tecnólogo,Atendimento,Analista de Atendimento,3,2024-03-24,1,7700.0,10,Não,Raramente,5,5,5,2,6,Não,Não,,Não se aplica
+COL-0152,37,Masculino,Casado(a),Mestrado,Operações,Analista de Operações,2,2014-01-18,11,7050.0,26,Sim,Raramente,5,3,3,2,6,Sim,Não,,Não se aplica
+COL-0153,47,Masculino,Casado(a),Graduação,Financeiro,Controller,3,2024-07-02,1,9750.0,19,Sim,Raramente,3,1,3,5,6,Não,Não,,Não se aplica
+COL-0154,50,Não binário,Divorciado(a),Tecnólogo,Atendimento,Analista de Atendimento,3,2015-07-09,10,7550.0,35,Não,Raramente,4,3,2,3,0,Não,Não,,Não se aplica
+COL-0155,48,Feminino,Casado(a),Mestrado,Marketing,Especialista de Marketing,3,2020-09-10,6,8800.0,32,Não,Frequentemente,1,4,5,3,5,Não,Sim,2026-04-20 01:12:52.865,Mudança de cidade
+COL-0156,37,Feminino,Solteiro(a),Graduação,Financeiro,Controller,3,2015-06-25,11,10450.0,13,Não,Nunca,3,2,4,3,6,Não,Sim,2022-09-16 22:46:52.422,Desempenho abaixo do esperado
+COL-0157,58,Masculino,Casado(a),Ensino médio,Recursos Humanos,Business Partner,4,2023-08-18,3,11450.0,48,Não,Frequentemente,1,2,4,3,1,Não,Sim,2025-12-05 16:05:13.722,Nova oportunidade profissional
+COL-0158,41,Não binário,Casado(a),Ensino médio,Marketing,Especialista de Marketing,3,2020-08-13,6,10000.0,5,Não,Raramente,1,1,5,3,6,Sim,Não,,Não se aplica
+COL-0159,22,Masculino,Solteiro(a),Pós-graduação,Recursos Humanos,Analista de RH,2,2025-01-26,0,7000.0,50,Não,Raramente,3,4,2,5,6,Não,Sim,2026-06-16 17:41:34.278,Falta de perspectiva de crescimento
+COL-0160,31,Não binário,União estável,Graduação,Comercial,Executivo de Contas,1,2018-07-22,8,6150.0,25,Não,Raramente,5,3,3,3,6,Sim,Não,,Não se aplica
+COL-0161,31,Feminino,União estável,Mestrado,Financeiro,Analista Financeiro,2,2022-04-24,3,7650.0,22,Sim,Raramente,3,5,5,4,2,Não,Não,,Não se aplica
+COL-0162,22,Feminino,Divorciado(a),Mestrado,Marketing,Analista de Marketing,1,2023-11-18,2,6150.0,19,Sim,Raramente,2,5,5,4,0,Não,Não,,Não se aplica
+COL-0163,34,Masculino,Casado(a),Tecnólogo,Recursos Humanos,Business Partner,3,2025-02-01,0,9800.0,40,Não,Raramente,2,3,5,5,2,Não,Não,,Não se aplica
+COL-0164,32,Masculino,Solteiro(a),Pós-graduação,Operações,Analista de Operações,2,2024-07-14,1,7200.0,34,Não,Frequentemente,3,3,2,4,0,Não,Sim,2025-09-26 02:19:18.565,Desempenho abaixo do esperado
+COL-0165,55,Masculino,Solteiro(a),Mestrado,Financeiro,Controller,4,2019-12-10,6,10850.0,36,Não,Frequentemente,2,3,1,3,4,Não,Não,,Não se aplica
+COL-0166,57,Feminino,Divorciado(a),Mestrado,Marketing,Especialista de Marketing,3,2023-08-09,2,9700.0,7,Não,Raramente,1,4,2,5,4,Não,Não,,Não se aplica
+COL-0167,32,Feminino,Divorciado(a),Graduação,Financeiro,Controller,3,2013-10-25,12,9300.0,37,Não,Raramente,5,5,2,5,6,Não,Não,,Não se aplica
+COL-0168,29,Masculino,Divorciado(a),Mestrado,Operações,Analista de Operações,2,2021-04-22,4,7500.0,35,Sim,Frequentemente,1,3,5,5,6,Não,Sim,2023-04-30 13:46:12.356,Qualidade de vida
+COL-0169,22,Feminino,Divorciado(a),Graduação,Recursos Humanos,Analista de RH,1,2024-10-23,1,5450.0,34,Não,Raramente,2,3,1,4,0,Não,Não,,Não se aplica
+COL-0170,61,Não binário,Casado(a),Pós-graduação,Recursos Humanos,Especialista de Pessoas,5,2011-03-06,14,12700.0,31,Não,Nunca,2,4,5,3,0,Não,Não,,Não se aplica
+COL-0171,23,Feminino,União estável,Tecnólogo,Operações,Analista de Operações,1,2021-12-21,4,5500.0,4,Sim,Nunca,5,5,2,3,1,Não,Não,,Não se aplica
+COL-0172,54,Feminino,União estável,Pós-graduação,Recursos Humanos,Business Partner,3,2025-02-08,0,9500.0,8,Sim,Raramente,1,5,2,3,3,Não,Não,,Não se aplica
+COL-0173,58,Masculino,Casado(a),Ensino médio,Tecnologia,Engenheiro de Dados,5,2022-05-24,3,14550.0,7,Não,Raramente,1,3,4,3,0,Não,Não,,Não se aplica
+COL-0174,22,Masculino,Casado(a),Pós-graduação,Recursos Humanos,Analista de RH,1,2022-01-01,3,5850.0,37,Não,Nunca,5,2,3,5,0,Não,Não,,Não se aplica
+COL-0175,52,Não binário,Solteiro(a),Mestrado,Marketing,Especialista de Marketing,4,2014-03-25,12,11800.0,4,Não,Frequentemente,5,3,1,3,2,Sim,Não,,Não se aplica
+COL-0176,56,Não binário,Solteiro(a),Mestrado,Financeiro,Especialista Financeiro,5,2021-08-17,4,13600.0,47,Não,Raramente,4,1,1,4,4,Não,Não,,Não se aplica
+COL-0177,49,Masculino,Casado(a),Mestrado,Financeiro,Controller,3,2021-10-28,5,9250.0,52,Não,Raramente,3,5,4,3,3,Não,Sim,2023-08-03 00:27:04.818,Qualidade de vida
+COL-0178,39,Feminino,Divorciado(a),Graduação,Marketing,Especialista de Marketing,3,2016-05-18,9,9600.0,25,Não,Raramente,5,4,2,4,1,Sim,Não,,Não se aplica
+COL-0179,60,Feminino,Divorciado(a),Ensino médio,Atendimento,Supervisor de Atendimento,5,2024-07-13,1,11850.0,28,Não,Nunca,1,5,2,2,4,Não,Não,,Não se aplica
+COL-0180,58,Masculino,Divorciado(a),Tecnólogo,Recursos Humanos,Business Partner,4,2018-07-09,7,10250.0,45,Sim,Nunca,5,2,2,4,2,Não,Sim,2024-07-07 00:43:16.534,Qualidade de vida
+COL-0181,58,Feminino,Divorciado(a),Pós-graduação,Recursos Humanos,Especialista de Pessoas,5,2022-03-24,4,11700.0,33,Sim,Raramente,2,5,2,3,4,Não,Não,,Não se aplica
+COL-0182,43,Não binário,Divorciado(a),Mestrado,Financeiro,Controller,3,2023-10-27,2,9250.0,48,Não,Raramente,4,1,5,2,0,Não,Sim,2025-12-11 10:02:54.220,Qualidade de vida
+COL-0183,60,Masculino,Casado(a),Ensino médio,Comercial,Gerente Comercial,5,2017-01-24,9,12750.0,48,Não,Nunca,1,4,2,5,3,Não,Não,,Não se aplica
+COL-0184,59,Masculino,Casado(a),Graduação,Marketing,Coordenador de Marketing,5,2013-10-14,12,13450.0,41,Não,Raramente,3,4,1,4,2,Não,Não,,Não se aplica
+COL-0185,22,Masculino,União estável,Ensino médio,Marketing,Analista de Marketing,1,2024-01-28,1,6600.0,33,Não,Nunca,4,2,5,3,3,Não,Sim,2026-03-13 11:05:54.611,Qualidade de vida
+COL-0186,53,Não binário,Casado(a),Ensino médio,Financeiro,Controller,4,2024-03-05,2,11050.0,42,Sim,Raramente,2,4,3,5,5,Não,Não,,Não se aplica
+COL-0187,28,Feminino,Casado(a),Pós-graduação,Marketing,Analista de Marketing,2,2024-09-08,1,7200.0,21,Não,Nunca,3,4,3,2,0,Não,Não,,Não se aplica
+COL-0188,58,Feminino,Divorciado(a),Graduação,Comercial,Gerente Comercial,5,2020-01-19,5,12550.0,12,Sim,Raramente,1,1,4,2,0,Não,Não,,Não se aplica
+COL-0189,32,Não binário,Divorciado(a),Graduação,Operações,Analista de Operações,2,2025-07-25,0,7150.0,31,Sim,Frequentemente,2,3,5,4,2,Não,Sim,2026-05-05 11:16:20.221,Falta de perspectiva de crescimento
+COL-0190,57,Masculino,Casado(a),Pós-graduação,Atendimento,Analista de Atendimento,3,2022-06-08,3,7200.0,36,Não,Raramente,3,3,5,2,6,Sim,Não,,Não se aplica
+COL-0191,45,Não binário,Casado(a),Mestrado,Financeiro,Controller,3,2014-05-17,12,9500.0,43,Sim,Raramente,2,5,3,3,2,Não,Sim,2023-05-16 18:32:08.657,Nova oportunidade profissional
+COL-0192,27,Masculino,União estável,Pós-graduação,Operações,Analista de Operações,2,2025-06-06,1,7950.0,42,Não,Raramente,5,4,4,3,5,Não,Não,,Não se aplica
+COL-0193,20,Não binário,Solteiro(a),Mestrado,Operações,Analista de Operações,1,2025-10-07,1,6150.0,44,Sim,Nunca,3,2,1,3,0,Não,Sim,2026-04-15 19:49:01.718,Mudança de cidade
+COL-0194,39,Não binário,Casado(a),Tecnólogo,Tecnologia,Desenvolvedor,2,2015-03-06,10,8400.0,43,Sim,Raramente,5,5,5,2,5,Sim,Sim,2025-05-12 05:17:50.342,Remuneração e benefícios
+COL-0195,39,Não binário,Casado(a),Mestrado,Tecnologia,Desenvolvedor,2,2023-06-26,2,8850.0,10,Não,Raramente,3,3,1,4,4,Não,Não,,Não se aplica
+COL-0196,43,Feminino,União estável,Mestrado,Recursos Humanos,Business Partner,3,2014-11-02,12,9450.0,30,Não,Frequentemente,1,4,2,3,3,Sim,Não,,Não se aplica
+COL-0197,20,Feminino,União estável,Ensino médio,Marketing,Analista de Marketing,1,2024-06-18,1,6450.0,29,Não,Raramente,2,2,1,3,4,Não,Não,,Não se aplica
+COL-0198,30,Feminino,Divorciado(a),Graduação,Recursos Humanos,Business Partner,3,2022-11-27,4,8500.0,17,Sim,Raramente,1,1,2,4,2,Sim,Sim,2023-04-19 21:46:07.832,Nova oportunidade profissional
+COL-0199,40,Feminino,União estável,Mestrado,Tecnologia,Analista de Dados,3,2022-07-01,3,10800.0,41,Não,Raramente,3,3,4,4,0,Não,Não,,Não se aplica
+COL-0200,30,Feminino,Casado(a),Ensino médio,Tecnologia,Desenvolvedor,1,2022-05-24,4,8250.0,36,Não,Raramente,1,2,2,3,4,Sim,Não,,Não se aplica
+COL-0201,53,Feminino,Divorciado(a),Tecnólogo,Tecnologia,Analista de Dados,3,2023-12-25,2,10400.0,35,Sim,Nunca,5,5,5,4,2,Não,Não,,Não se aplica
+COL-0202,50,Feminino,Casado(a),Graduação,Recursos Humanos,Business Partner,4,2017-09-12,8,10550.0,12,Não,Frequentemente,2,2,1,4,6,Não,Sim,2024-08-30 16:36:24.692,Falta de perspectiva de crescimento
+COL-0203,37,Não binário,Solteiro(a),Graduação,Operações,Coordenador de Operações,3,2019-09-24,6,9050.0,41,Não,Raramente,4,4,2,4,3,Não,Sim,2023-12-01 09:56:03.428,Remuneração e benefícios
+COL-0204,58,Não binário,Divorciado(a),Pós-graduação,Comercial,Analista Comercial,4,2012-12-14,14,11800.0,23,Não,Nunca,4,2,4,3,4,Não,Não,,Não se aplica
+COL-0205,55,Masculino,Casado(a),Pós-graduação,Tecnologia,Analista de Dados,4,2023-01-23,2,12800.0,49,Não,Nunca,1,4,4,3,0,Não,Não,,Não se aplica
+COL-0206,56,Não binário,Solteiro(a),Graduação,Marketing,Especialista de Marketing,4,2013-01-02,12,11100.0,18,Não,Raramente,5,2,4,5,4,Não,Não,,Não se aplica
+COL-0207,26,Não binário,Casado(a),Tecnólogo,Comercial,Executivo de Contas,1,2018-08-03,7,5850.0,43,Sim,Raramente,5,1,3,3,1,Sim,Não,,Não se aplica
+COL-0208,32,Feminino,União estável,Mestrado,Comercial,Executivo de Contas,2,2023-10-16,3,8200.0,10,Não,Frequentemente,1,1,5,5,4,Não,Não,,Não se aplica
+COL-0209,48,Feminino,União estável,Graduação,Comercial,Analista Comercial,4,2025-09-16,0,11400.0,42,Não,Raramente,1,2,4,4,6,Não,Não,,Não se aplica
+COL-0210,44,Masculino,Solteiro(a),Graduação,Recursos Humanos,Analista de RH,2,2023-11-04,3,7650.0,22,Não,Nunca,2,2,5,3,3,Não,Sim,2025-09-08 06:03:17.453,Desempenho abaixo do esperado
+COL-0211,37,Feminino,União estável,Graduação,Atendimento,Assistente de Atendimento,2,2023-01-23,2,5900.0,22,Não,Raramente,4,2,4,3,3,Não,Não,,Não se aplica
+COL-0212,57,Masculino,Divorciado(a),Ensino médio,Financeiro,Especialista Financeiro,5,2014-01-08,12,13450.0,15,Sim,Frequentemente,2,2,3,3,5,Não,Não,,Não se aplica
+COL-0213,21,Feminino,Casado(a),Graduação,Marketing,Analista de Marketing,1,2024-02-23,1,6800.0,38,Não,Raramente,2,2,4,3,4,Não,Não,,Não se aplica
+COL-0214,48,Feminino,Solteiro(a),Graduação,Recursos Humanos,Business Partner,3,2023-12-02,3,8400.0,52,Sim,Nunca,3,4,1,5,5,Não,Sim,2026-05-17 20:46:59.598,Falta de perspectiva de crescimento
+COL-0215,35,Feminino,Solteiro(a),Mestrado,Marketing,Analista de Marketing,2,2025-02-14,0,8250.0,3,Não,Nunca,3,1,5,2,3,Não,Sim,2025-09-04 04:18:37.244,Qualidade de vida
+COL-0216,47,Feminino,Divorciado(a),Tecnólogo,Recursos Humanos,Business Partner,4,2012-03-26,13,11400.0,47,Não,Raramente,1,4,4,5,6,Não,Não,,Não se aplica
+COL-0217,36,Masculino,Casado(a),Mestrado,Recursos Humanos,Analista de RH,2,2018-11-11,8,7600.0,50,Sim,Raramente,4,1,4,4,4,Sim,Não,,Não se aplica
+COL-0218,34,Masculino,União estável,Graduação,Financeiro,Analista Financeiro,2,2011-05-03,14,8200.0,50,Não,Nunca,1,4,4,4,6,Não,Não,,Não se aplica
+COL-0219,60,Não binário,Solteiro(a),Mestrado,Comercial,Analista Comercial,4,2017-04-27,9,11300.0,32,Não,Raramente,5,1,5,3,5,Sim,Não,,Não se aplica
+COL-0220,46,Masculino,Casado(a),Tecnólogo,Tecnologia,Analista de Dados,3,2022-02-08,4,10550.0,15,Não,Raramente,4,3,2,4,3,Não,Não,,Não se aplica
+COL-0221,39,Feminino,Casado(a),Pós-graduação,Marketing,Analista de Marketing,2,2013-10-23,12,7650.0,39,Não,Raramente,3,3,1,4,4,Sim,Não,,Não se aplica
+COL-0222,48,Masculino,Solteiro(a),Ensino médio,Operações,Coordenador de Operações,4,2020-08-23,5,10850.0,49,Sim,Raramente,3,4,5,2,2,Sim,Não,,Não se aplica
+COL-0223,56,Feminino,Solteiro(a),Pós-graduação,Recursos Humanos,Especialista de Pessoas,5,2017-02-16,8,12250.0,45,Não,Frequentemente,4,3,1,2,3,Sim,Sim,2023-04-12 11:30:55.019,Reestruturação organizacional
+COL-0224,47,Masculino,Casado(a),Ensino médio,Atendimento,Analista de Atendimento,4,2016-07-23,9,8800.0,46,Sim,Raramente,2,5,1,4,0,Não,Sim,2024-02-04 20:26:17.094,Desempenho abaixo do esperado
+COL-0225,40,Masculino,Divorciado(a),Tecnólogo,Comercial,Executivo de Contas,2,2016-04-03,10,8150.0,49,Não,Frequentemente,2,1,2,4,2,Sim,Sim,2022-07-23 04:56:19.362,Reestruturação organizacional
+COL-0226,22,Masculino,Divorciado(a),Ensino médio,Comercial,Executivo de Contas,1,2025-06-16,0,6450.0,28,Não,Frequentemente,5,1,2,4,2,Não,Sim,2026-01-20 13:30:34.950,Falta de perspectiva de crescimento
+COL-0227,47,Não binário,União estável,Graduação,Recursos Humanos,Business Partner,4,2020-08-21,5,10450.0,12,Não,Raramente,1,1,4,2,2,Sim,Não,,Não se aplica
+COL-0228,38,Feminino,Solteiro(a),Tecnólogo,Tecnologia,Analista de Dados,3,2025-06-08,0,10850.0,30,Sim,Frequentemente,5,4,5,5,4,Não,Não,,Não se aplica
+COL-0229,56,Feminino,União estável,Graduação,Recursos Humanos,Business Partner,3,2025-08-04,0,9700.0,14,Sim,Raramente,5,2,3,2,2,Não,Sim,2026-07-08 07:05:01.996,Remuneração e benefícios
+COL-0230,34,Feminino,Casado(a),Graduação,Atendimento,Assistente de Atendimento,1,2012-02-02,13,5250.0,51,Sim,Raramente,4,3,4,2,5,Sim,Não,,Não se aplica
+COL-0231,40,Feminino,Casado(a),Graduação,Comercial,Analista Comercial,3,2018-10-27,8,8650.0,28,Sim,Raramente,2,5,2,3,2,Não,Não,,Não se aplica
+COL-0232,52,Feminino,Casado(a),Graduação,Marketing,Especialista de Marketing,4,2019-06-24,7,10400.0,40,Não,Raramente,2,5,4,4,6,Não,Não,,Não se aplica
+COL-0233,53,Masculino,União estável,Ensino médio,Financeiro,Controller,4,2023-03-24,2,11350.0,16,Não,Raramente,1,4,5,5,3,Sim,Sim,2025-07-31 06:46:16.790,Desempenho abaixo do esperado
+COL-0234,57,Masculino,Casado(a),Ensino médio,Tecnologia,Analista de Dados,4,2018-08-13,8,11950.0,47,Não,Raramente,4,3,4,4,2,Sim,Não,,Não se aplica
+COL-0235,49,Feminino,Casado(a),Tecnólogo,Operações,Coordenador de Operações,4,2013-09-28,12,10550.0,44,Sim,Frequentemente,1,5,5,3,4,Não,Não,,Não se aplica
+COL-0236,22,Não binário,Divorciado(a),Ensino médio,Atendimento,Assistente de Atendimento,1,2021-04-14,4,5250.0,11,Sim,Raramente,5,5,2,3,5,Sim,Não,,Não se aplica
+COL-0237,42,Feminino,Divorciado(a),Graduação,Operações,Analista de Operações,2,2020-05-15,5,6900.0,5,Não,Raramente,1,1,4,3,6,Não,Não,,Não se aplica
+COL-0238,46,Feminino,Solteiro(a),Graduação,Marketing,Especialista de Marketing,3,2017-09-06,9,8950.0,38,Não,Nunca,4,5,4,4,0,Sim,Não,,Não se aplica
+COL-0239,22,Feminino,Divorciado(a),Mestrado,Recursos Humanos,Analista de RH,1,2024-02-12,1,5850.0,44,Não,Raramente,2,3,1,4,5,Não,Sim,2026-03-28 03:48:31.582,Remuneração e benefícios
+COL-0240,52,Feminino,Casado(a),Tecnólogo,Comercial,Analista Comercial,3,2025-06-17,1,8600.0,10,Não,Nunca,3,5,3,3,6,Não,Não,,Não se aplica
+COL-0241,44,Masculino,Casado(a),Graduação,Financeiro,Controller,3,2012-06-20,13,9450.0,24,Não,Nunca,3,2,2,5,5,Sim,Não,,Não se aplica
+COL-0242,27,Masculino,Casado(a),Tecnólogo,Marketing,Analista de Marketing,1,2016-12-24,9,5450.0,35,Não,Nunca,2,1,2,2,3,Não,Sim,2026-05-20 14:44:20.943,Falta de perspectiva de crescimento
+COL-0243,23,Feminino,Casado(a),Mestrado,Recursos Humanos,Analista de RH,1,2021-04-08,4,6150.0,37,Não,Raramente,4,4,5,5,4,Não,Não,,Não se aplica
+COL-0244,20,Feminino,União estável,Mestrado,Recursos Humanos,Analista de RH,1,2024-07-13,2,6550.0,7,Sim,Raramente,4,3,4,5,0,Não,Não,,Não se aplica
+COL-0245,21,Masculino,Divorciado(a),Graduação,Recursos Humanos,Analista de RH,1,2024-04-23,1,5400.0,46,Sim,Raramente,1,5,3,3,1,Não,Não,,Não se aplica
+COL-0246,61,Feminino,Solteiro(a),Mestrado,Operações,Coordenador de Operações,4,2016-11-26,10,10500.0,37,Não,Raramente,4,5,4,3,0,Sim,Sim,2024-06-19 04:52:33.545,Nova oportunidade profissional
+COL-0247,54,Masculino,Solteiro(a),Graduação,Marketing,Especialista de Marketing,4,2016-01-07,10,11000.0,6,Não,Raramente,2,1,1,5,1,Não,Não,,Não se aplica
+COL-0248,26,Feminino,Casado(a),Graduação,Marketing,Analista de Marketing,2,2019-07-18,7,7150.0,23,Não,Raramente,4,1,5,5,0,Não,Sim,2023-02-19 21:30:43.446,Mudança de cidade
+COL-0249,28,Não binário,Solteiro(a),Ensino médio,Financeiro,Analista Financeiro,2,2025-05-10,0,8300.0,45,Não,Raramente,5,4,1,3,4,Não,Não,,Não se aplica
+COL-0250,48,Feminino,Divorciado(a),Graduação,Recursos Humanos,Business Partner,3,2022-01-06,3,9900.0,30,Não,Nunca,3,5,3,4,5,Sim,Não,,Não se aplica
+COL-0251,47,Feminino,Solteiro(a),Ensino médio,Financeiro,Controller,3,2015-04-28,10,9950.0,8,Não,Nunca,2,2,1,5,5,Não,Não,,Não se aplica
+COL-0252,21,Não binário,Divorciado(a),Mestrado,Tecnologia,Desenvolvedor,1,2025-02-05,0,6800.0,34,Não,Raramente,5,2,4,3,4,Não,Não,,Não se aplica
+COL-0253,45,Feminino,Casado(a),Tecnólogo,Marketing,Especialista de Marketing,3,2023-07-07,3,9250.0,6,Não,Raramente,1,1,5,4,4,Não,Sim,2025-06-11 06:11:38.408,Remuneração e benefícios
+COL-0254,24,Feminino,Casado(a),Tecnólogo,Financeiro,Analista Financeiro,2,2025-04-03,0,8100.0,25,Não,Frequentemente,3,2,5,4,2,Não,Não,,Não se aplica
+COL-0255,21,Masculino,União estável,Graduação,Marketing,Analista de Marketing,2,2025-10-21,0,7400.0,37,Não,Raramente,4,3,1,3,6,Não,Não,,Não se aplica
+COL-0256,22,Masculino,Solteiro(a),Pós-graduação,Comercial,Executivo de Contas,1,2023-11-01,3,6600.0,14,Não,Raramente,3,5,3,3,3,Não,Não,,Não se aplica
+COL-0257,40,Masculino,Divorciado(a),Mestrado,Financeiro,Controller,3,2025-05-18,1,9850.0,37,Não,Raramente,5,4,2,3,4,Não,Não,,Não se aplica
+COL-0258,57,Feminino,Divorciado(a),Ensino médio,Tecnologia,Analista de Dados,4,2011-01-11,14,11700.0,50,Não,Nunca,3,4,3,4,4,Sim,Não,,Não se aplica
+COL-0259,44,Masculino,Solteiro(a),Pós-graduação,Financeiro,Controller,4,2019-12-18,6,11350.0,16,Não,Nunca,5,5,4,3,6,Não,Não,,Não se aplica
+COL-0260,33,Masculino,Solteiro(a),Ensino médio,Financeiro,Analista Financeiro,2,2015-04-18,10,8350.0,12,Não,Raramente,5,2,3,2,5,Não,Não,,Não se aplica
+COL-0261,23,Feminino,Solteiro(a),Pós-graduação,Recursos Humanos,Analista de RH,1,2022-10-15,3,5150.0,2,Não,Nunca,5,1,3,3,2,Sim,Não,,Não se aplica
+COL-0262,39,Não binário,Casado(a),Graduação,Tecnologia,Desenvolvedor,2,2018-03-21,8,9450.0,3,Não,Raramente,3,4,3,2,4,Não,Não,,Não se aplica
+COL-0263,36,Feminino,Divorciado(a),Tecnólogo,Recursos Humanos,Business Partner,3,2024-06-27,1,8950.0,2,Não,Frequentemente,1,5,4,3,0,Não,Não,,Não se aplica
+COL-0264,53,Feminino,Divorciado(a),Mestrado,Comercial,Analista Comercial,3,2019-01-08,7,10050.0,31,Não,Frequentemente,2,5,5,3,3,Não,Não,,Não se aplica
+COL-0265,50,Masculino,Divorciado(a),Tecnólogo,Operações,Coordenador de Operações,4,2015-01-28,11,10700.0,2,Não,Frequentemente,2,2,3,5,4,Não,Não,,Não se aplica
+COL-0266,37,Masculino,União estável,Mestrado,Operações,Coordenador de Operações,3,2026-07-22,0,9100.0,3,Sim,Raramente,2,5,3,3,6,Não,Não,,Não se aplica
+COL-0267,58,Não binário,Casado(a),Tecnólogo,Tecnologia,Analista de Dados,4,2019-07-19,6,13150.0,52,Não,Frequentemente,4,4,1,4,5,Não,Não,,Não se aplica
+COL-0268,24,Masculino,União estável,Graduação,Comercial,Executivo de Contas,2,2023-09-11,2,7200.0,5,Não,Frequentemente,1,1,1,4,5,Não,Não,,Não se aplica
+COL-0269,30,Feminino,Casado(a),Ensino médio,Comercial,Executivo de Contas,1,2018-08-26,8,6200.0,2,Não,Nunca,2,4,3,4,0,Sim,Não,,Não se aplica
+COL-0270,23,Não binário,União estável,Ensino médio,Atendimento,Assistente de Atendimento,2,2023-11-24,2,5900.0,46,Não,Raramente,4,4,3,2,1,Não,Não,,Não se aplica
+COL-0271,22,Feminino,Divorciado(a),Pós-graduação,Comercial,Executivo de Contas,1,2023-06-14,2,6550.0,6,Sim,Nunca,3,5,2,3,0,Sim,Não,,Não se aplica
+COL-0272,51,Masculino,União estável,Pós-graduação,Tecnologia,Analista de Dados,4,2017-10-15,8,11600.0,49,Não,Raramente,5,3,4,3,1,Não,Não,,Não se aplica
+COL-0273,50,Masculino,União estável,Graduação,Marketing,Coordenador de Marketing,5,2022-02-21,4,13100.0,48,Não,Raramente,2,2,4,5,1,Sim,Sim,2024-08-07 23:55:43.219,Desempenho abaixo do esperado
+COL-0274,54,Feminino,Casado(a),Ensino médio,Atendimento,Analista de Atendimento,3,2017-12-10,8,8650.0,2,Não,Raramente,4,1,4,2,2,Não,Não,,Não se aplica
+COL-0275,55,Não binário,Solteiro(a),Graduação,Financeiro,Controller,3,2026-07-19,0,10450.0,48,Não,Nunca,4,3,4,4,5,Não,Não,,Não se aplica
+COL-0276,53,Feminino,Divorciado(a),Tecnólogo,Atendimento,Analista de Atendimento,3,2018-08-26,7,7600.0,32,Não,Raramente,3,1,2,2,1,Não,Não,,Não se aplica
+COL-0277,40,Masculino,Divorciado(a),Graduação,Atendimento,Assistente de Atendimento,2,2017-03-23,8,7050.0,21,Não,Raramente,4,3,2,5,3,Não,Não,,Não se aplica
+COL-0278,40,Não binário,Divorciado(a),Graduação,Operações,Coordenador de Operações,3,2016-06-04,9,8300.0,1,Sim,Nunca,1,4,3,4,0,Não,Não,,Não se aplica
+COL-0279,47,Masculino,Divorciado(a),Graduação,Financeiro,Controller,4,2020-08-25,6,12200.0,49,Não,Nunca,2,5,1,5,6,Não,Sim,2025-05-09 22:29:31.739,Remuneração e benefícios
+COL-0280,33,Feminino,Divorciado(a),Graduação,Tecnologia,Desenvolvedor,2,2018-07-27,8,8700.0,15,Sim,Nunca,2,2,5,2,6,Sim,Sim,2023-04-28 03:13:48.605,Desempenho abaixo do esperado
+COL-0281,44,Feminino,Casado(a),Graduação,Operações,Coordenador de Operações,3,2013-06-12,12,8550.0,21,Não,Nunca,2,5,3,3,2,Não,Sim,2023-03-06 04:34:23.624,Remuneração e benefícios
+COL-0282,45,Masculino,União estável,Ensino médio,Financeiro,Controller,4,2016-08-28,10,12200.0,41,Sim,Raramente,5,2,1,3,5,Sim,Não,,Não se aplica
+COL-0283,60,Masculino,Divorciado(a),Graduação,Tecnologia,Engenheiro de Dados,5,2016-04-07,9,14650.0,19,Sim,Raramente,3,1,3,3,5,Sim,Não,,Não se aplica
+COL-0284,25,Masculino,Divorciado(a),Pós-graduação,Marketing,Analista de Marketing,2,2025-05-21,0,8550.0,51,Não,Raramente,3,2,3,3,2,Não,Sim,2026-05-21 01:49:38.353,Mudança de cidade
+COL-0285,37,Não binário,Solteiro(a),Mestrado,Atendimento,Analista de Atendimento,3,2016-09-17,10,8700.0,37,Não,Nunca,5,4,1,3,5,Sim,Sim,2022-02-15 22:00:34.795,Desempenho abaixo do esperado
+COL-0286,56,Masculino,Solteiro(a),Tecnólogo,Operações,Coordenador de Operações,4,2024-02-12,1,9950.0,21,Não,Raramente,1,1,2,2,1,Não,Não,,Não se aplica
+COL-0287,29,Masculino,Divorciado(a),Mestrado,Comercial,Executivo de Contas,2,2025-09-20,1,7100.0,18,Sim,Raramente,3,2,3,5,4,Não,Não,,Não se aplica
+COL-0288,57,Não binário,União estável,Graduação,Atendimento,Supervisor de Atendimento,5,2020-12-03,5,11600.0,38,Não,Raramente,5,2,5,3,3,Não,Não,,Não se aplica
+COL-0289,43,Não binário,União estável,Tecnólogo,Recursos Humanos,Business Partner,3,2025-10-25,0,9300.0,2,Sim,Raramente,1,3,4,3,0,Não,Não,,Não se aplica
+COL-0290,50,Não binário,União estável,Mestrado,Financeiro,Controller,4,2011-07-28,14,11600.0,5,Sim,Frequentemente,3,5,5,3,3,Não,Não,,Não se aplica
+COL-0291,35,Masculino,Solteiro(a),Graduação,Tecnologia,Desenvolvedor,2,2017-05-10,8,9700.0,24,Não,Raramente,2,5,5,4,6,Sim,Não,,Não se aplica
+COL-0292,33,Masculino,Divorciado(a),Pós-graduação,Operações,Coordenador de Operações,3,2023-09-24,2,9400.0,14,Não,Raramente,1,5,5,3,2,Não,Sim,2025-09-09 18:20:58.190,Remuneração e benefícios
+COL-0293,38,Feminino,União estável,Graduação,Recursos Humanos,Analista de RH,2,2019-08-08,7,6950.0,7,Não,Raramente,3,5,2,4,1,Sim,Não,,Não se aplica
+COL-0294,41,Masculino,Solteiro(a),Pós-graduação,Recursos Humanos,Analista de RH,2,2022-12-07,4,7650.0,6,Não,Frequentemente,1,3,3,4,5,Sim,Não,,Não se aplica
+COL-0295,58,Não binário,Solteiro(a),Mestrado,Tecnologia,Analista de Dados,4,2023-02-03,2,13200.0,43,Sim,Raramente,2,4,5,2,5,Não,Não,,Não se aplica
+COL-0296,58,Feminino,Divorciado(a),Tecnólogo,Marketing,Especialista de Marketing,4,2017-08-04,9,11600.0,25,Não,Raramente,3,1,1,4,6,Sim,Não,,Não se aplica
+COL-0297,52,Masculino,Divorciado(a),Pós-graduação,Financeiro,Controller,4,2012-06-18,14,11850.0,8,Não,Frequentemente,2,4,1,5,1,Não,Sim,2024-04-02 16:06:07.545,Reestruturação organizacional
+COL-0298,52,Feminino,União estável,Graduação,Recursos Humanos,Business Partner,4,2024-06-17,1,10350.0,23,Não,Nunca,2,5,2,4,4,Não,Não,,Não se aplica
+COL-0299,36,Masculino,Divorciado(a),Tecnólogo,Tecnologia,Analista de Dados,3,2014-04-05,11,11300.0,35,Não,Raramente,1,4,5,3,0,Sim,Não,,Não se aplica
+COL-0300,57,Feminino,Divorciado(a),Mestrado,Operações,Coordenador de Operações,3,2012-08-16,13,9150.0,45,Sim,Nunca,4,4,5,5,5,Não,Sim,2024-03-15 02:52:40.832,Falta de perspectiva de crescimento
+COL-0301,55,Não binário,Divorciado(a),Graduação,Marketing,Especialista de Marketing,4,2013-07-21,13,10750.0,22,Não,Raramente,3,1,4,2,0,Sim,Não,,Não se aplica
+COL-0302,37,Feminino,Solteiro(a),Graduação,Atendimento,Assistente de Atendimento,2,2024-11-01,1,6750.0,14,Não,Nunca,3,2,2,4,4,Não,Não,,Não se aplica
+COL-0303,59,Feminino,União estável,Tecnólogo,Comercial,Gerente Comercial,5,2021-06-09,5,12300.0,31,Não,Raramente,1,2,1,3,4,Sim,Não,,Não se aplica
+COL-0304,49,Feminino,Casado(a),Graduação,Atendimento,Analista de Atendimento,3,2024-08-25,1,7250.0,37,Sim,Frequentemente,4,2,1,4,1,Não,Sim,2026-03-17 18:13:27.852,Reestruturação organizacional
+COL-0305,48,Masculino,Solteiro(a),Ensino médio,Financeiro,Controller,3,2016-06-25,9,10350.0,47,Não,Nunca,4,5,5,2,1,Sim,Não,,Não se aplica
+COL-0306,61,Masculino,Solteiro(a),Graduação,Tecnologia,Analista de Dados,4,2017-11-12,8,12850.0,38,Não,Nunca,1,5,2,5,0,Não,Sim,2022-12-21 05:03:03.543,Remuneração e benefícios
+COL-0307,42,Masculino,Divorciado(a),Graduação,Recursos Humanos,Business Partner,3,2022-05-09,3,8700.0,10,Não,Frequentemente,3,2,4,4,6,Sim,Não,,Não se aplica
+COL-0308,40,Feminino,Solteiro(a),Ensino médio,Comercial,Analista Comercial,4,2023-12-27,2,11000.0,5,Não,Frequentemente,2,2,4,2,0,Não,Não,,Não se aplica
+COL-0309,55,Masculino,União estável,Tecnólogo,Comercial,Gerente Comercial,5,2019-08-28,6,13150.0,33,Não,Raramente,3,5,4,3,5,Não,Sim,2022-06-15 09:19:25.251,Desempenho abaixo do esperado
+COL-0310,59,Não binário,Divorciado(a),Graduação,Operações,Especialista de Processos,5,2020-02-21,5,11600.0,36,Não,Frequentemente,5,5,4,3,4,Sim,Não,,Não se aplica
+COL-0311,46,Não binário,Divorciado(a),Mestrado,Marketing,Especialista de Marketing,3,2021-07-13,4,10100.0,31,Não,Raramente,2,5,4,3,2,Não,Não,,Não se aplica
+COL-0312,58,Feminino,Casado(a),Pós-graduação,Marketing,Especialista de Marketing,4,2018-02-11,8,11550.0,39,Sim,Frequentemente,3,2,1,3,3,Não,Sim,2025-09-29 07:22:34.301,Falta de perspectiva de crescimento
+COL-0313,58,Masculino,Casado(a),Graduação,Marketing,Especialista de Marketing,4,2022-08-22,4,11500.0,44,Não,Raramente,3,4,2,3,1,Sim,Não,,Não se aplica
+COL-0314,56,Feminino,Solteiro(a),Ensino médio,Atendimento,Analista de Atendimento,4,2019-07-21,6,9900.0,47,Não,Nunca,5,2,2,3,5,Não,Não,,Não se aplica
+COL-0315,29,Masculino,Divorciado(a),Mestrado,Recursos Humanos,Analista de RH,1,2021-12-07,5,5900.0,13,Sim,Frequentemente,5,1,1,3,3,Não,Sim,2024-07-17 07:25:26.951,Remuneração e benefícios
+COL-0316,48,Feminino,União estável,Pós-graduação,Comercial,Analista Comercial,4,2024-06-05,1,11350.0,2,Não,Raramente,4,1,1,3,4,Não,Não,,Não se aplica
+COL-0317,21,Masculino,União estável,Tecnólogo,Marketing,Analista de Marketing,1,2022-09-05,3,6000.0,39,Não,Frequentemente,4,2,1,3,2,Não,Não,,Não se aplica
+COL-0318,39,Masculino,Divorciado(a),Graduação,Comercial,Analista Comercial,3,2011-03-19,14,9900.0,43,Não,Raramente,1,1,3,2,4,Não,Não,,Não se aplica
+COL-0319,54,Masculino,Divorciado(a),Graduação,Operações,Especialista de Processos,5,2021-08-22,4,12100.0,5,Não,Raramente,5,3,5,4,3,Sim,Não,,Não se aplica
+COL-0320,32,Feminino,Divorciado(a),Ensino médio,Recursos Humanos,Analista de RH,1,2019-04-01,6,5950.0,20,Não,Frequentemente,3,3,2,2,3,Sim,Não,,Não se aplica
+COL-0321,52,Feminino,Solteiro(a),Graduação,Operações,Coordenador de Operações,4,2023-10-15,2,10850.0,51,Sim,Raramente,3,3,1,3,6,Sim,Sim,2025-03-16 05:36:51.735,Falta de perspectiva de crescimento
+COL-0322,56,Feminino,União estável,Ensino médio,Recursos Humanos,Business Partner,4,2025-12-14,0,11150.0,14,Não,Raramente,3,4,2,2,6,Não,Sim,2026-05-01 15:26:59.491,Qualidade de vida
+COL-0323,49,Não binário,Casado(a),Pós-graduação,Marketing,Especialista de Marketing,3,2025-01-21,0,9900.0,29,Sim,Raramente,5,4,2,3,4,Não,Não,,Não se aplica
+COL-0324,25,Não binário,União estável,Ensino médio,Operações,Analista de Operações,1,2025-07-18,0,5800.0,32,Não,Raramente,4,3,4,4,0,Não,Não,,Não se aplica
+COL-0325,42,Feminino,Solteiro(a),Mestrado,Financeiro,Controller,3,2013-01-11,12,10350.0,14,Não,Nunca,2,2,2,3,6,Sim,Não,,Não se aplica
+COL-0326,60,Feminino,União estável,Pós-graduação,Operações,Especialista de Processos,5,2023-02-04,2,11900.0,22,Sim,Raramente,1,2,4,4,0,Não,Não,,Não se aplica
+COL-0327,55,Não binário,União estável,Ensino médio,Tecnologia,Analista de Dados,4,2015-10-10,10,12650.0,49,Não,Frequentemente,2,3,5,3,1,Não,Não,,Não se aplica
+COL-0328,39,Masculino,União estável,Pós-graduação,Tecnologia,Desenvolvedor,2,2019-05-12,7,8800.0,40,Não,Nunca,2,1,4,3,2,Não,Não,,Não se aplica
+COL-0329,20,Masculino,União estável,Graduação,Marketing,Analista de Marketing,1,2023-04-18,2,5900.0,14,Não,Frequentemente,2,3,3,3,0,Não,Sim,2025-12-17 20:33:53.837,Nova oportunidade profissional
+COL-0330,50,Feminino,Casado(a),Graduação,Tecnologia,Analista de Dados,4,2012-09-13,13,13100.0,46,Não,Frequentemente,1,2,3,4,3,Não,Não,,Não se aplica
+COL-0331,53,Masculino,Solteiro(a),Mestrado,Tecnologia,Analista de Dados,4,2017-03-22,9,13000.0,23,Sim,Raramente,5,2,3,5,1,Sim,Não,,Não se aplica
+COL-0332,34,Feminino,Divorciado(a),Tecnólogo,Financeiro,Controller,3,2025-08-08,0,9650.0,27,Não,Raramente,3,5,4,5,5,Não,Sim,2026-01-24 03:02:52.155,Reestruturação organizacional
+COL-0333,42,Feminino,Casado(a),Mestrado,Financeiro,Analista Financeiro,2,2024-07-17,1,8350.0,30,Sim,Raramente,5,3,1,3,1,Não,Sim,2025-09-04 02:06:10.247,Mudança de cidade
+COL-0334,39,Masculino,Divorciado(a),Tecnólogo,Comercial,Executivo de Contas,2,2017-03-23,8,7550.0,44,Sim,Frequentemente,2,2,3,3,0,Não,Não,,Não se aplica
+COL-0335,45,Não binário,Divorciado(a),Mestrado,Comercial,Analista Comercial,3,2013-04-10,12,8700.0,22,Não,Raramente,5,5,1,3,5,Sim,Não,,Não se aplica
+COL-0336,27,Feminino,Solteiro(a),Graduação,Atendimento,Assistente de Atendimento,1,2025-09-03,1,5000.0,11,Não,Raramente,4,5,4,3,5,Não,Não,,Não se aplica
+COL-0337,31,Masculino,União estável,Graduação,Recursos Humanos,Analista de RH,2,2020-04-13,5,7950.0,34,Não,Raramente,3,2,5,3,4,Não,Sim,2022-03-10 10:06:55.175,Desempenho abaixo do esperado
+COL-0338,32,Feminino,União estável,Ensino médio,Operações,Coordenador de Operações,3,2020-01-08,6,9600.0,37,Sim,Raramente,2,1,1,3,1,Não,Não,,Não se aplica
+COL-0339,59,Não binário,União estável,Graduação,Operações,Coordenador de Operações,4,2023-04-28,2,10850.0,7,Não,Raramente,4,2,5,4,2,Não,Não,,Não se aplica
+COL-0340,20,Não binário,Casado(a),Ensino médio,Atendimento,Assistente de Atendimento,2,2025-11-20,0,6900.0,20,Sim,Raramente,2,4,2,3,2,Não,Não,,Não se aplica
+COL-0341,58,Masculino,União estável,Graduação,Comercial,Gerente Comercial,5,2022-03-21,3,12250.0,24,Não,Raramente,3,1,3,4,2,Não,Não,,Não se aplica
+COL-0342,35,Masculino,União estável,Graduação,Recursos Humanos,Business Partner,3,2019-06-07,6,9900.0,39,Sim,Nunca,5,4,2,3,4,Não,Não,,Não se aplica
+COL-0343,39,Feminino,Casado(a),Tecnólogo,Recursos Humanos,Analista de RH,2,2016-03-02,9,7350.0,42,Sim,Raramente,1,3,3,3,4,Sim,Sim,2023-04-05 04:13:14.967,Remuneração e benefícios
+COL-0344,58,Feminino,Solteiro(a),Pós-graduação,Atendimento,Supervisor de Atendimento,5,2025-06-02,1,10700.0,39,Sim,Frequentemente,4,2,1,2,1,Não,Sim,2026-07-18 01:00:17.543,Remuneração e benefícios
+COL-0345,50,Não binário,Casado(a),Graduação,Financeiro,Controller,4,2024-10-28,2,11450.0,9,Não,Nunca,1,4,2,4,3,Não,Não,,Não se aplica
+COL-0346,33,Masculino,Casado(a),Mestrado,Tecnologia,Desenvolvedor,2,2014-05-23,12,8800.0,32,Não,Raramente,2,5,1,5,6,Não,Não,,Não se aplica
+COL-0347,38,Feminino,Casado(a),Graduação,Financeiro,Controller,3,2012-12-09,13,9900.0,15,Não,Frequentemente,3,2,3,4,3,Não,Não,,Não se aplica
+COL-0348,54,Masculino,Solteiro(a),Ensino médio,Operações,Coordenador de Operações,4,2016-05-26,10,10300.0,27,Sim,Frequentemente,4,4,3,5,1,Não,Não,,Não se aplica
+COL-0349,53,Masculino,Solteiro(a),Mestrado,Atendimento,Supervisor de Atendimento,5,2013-05-13,13,11400.0,44,Sim,Frequentemente,2,1,5,5,3,Não,Sim,2024-05-31 09:35:11.731,Mudança de cidade
+COL-0350,28,Masculino,União estável,Graduação,Tecnologia,Desenvolvedor,2,2024-06-20,1,9250.0,12,Sim,Raramente,4,2,5,3,1,Não,Não,,Não se aplica
+COL-0351,26,Masculino,Solteiro(a),Pós-graduação,Financeiro,Analista Financeiro,1,2022-07-08,3,6850.0,52,Não,Nunca,2,1,2,3,1,Sim,Não,,Não se aplica
+COL-0352,43,Não binário,Casado(a),Graduação,Recursos Humanos,Business Partner,3,2018-02-24,7,9400.0,11,Sim,Raramente,2,4,2,2,2,Sim,Não,,Não se aplica
+COL-0353,40,Masculino,União estável,Tecnólogo,Financeiro,Controller,3,2020-07-24,6,9800.0,41,Não,Raramente,1,4,2,4,3,Não,Não,,Não se aplica
+COL-0354,36,Não binário,Solteiro(a),Mestrado,Financeiro,Controller,3,2016-07-24,10,9600.0,24,Não,Raramente,4,4,5,2,3,Sim,Não,,Não se aplica
+COL-0355,53,Feminino,União estável,Ensino médio,Tecnologia,Engenheiro de Dados,5,2025-11-13,0,14000.0,15,Não,Nunca,3,1,5,5,2,Não,Não,,Não se aplica
+COL-0356,23,Feminino,Solteiro(a),Pós-graduação,Atendimento,Assistente de Atendimento,2,2021-10-23,4,5550.0,11,Não,Raramente,1,2,5,5,3,Não,Sim,2024-06-15 04:12:29.644,Qualidade de vida
+COL-0357,41,Masculino,União estável,Graduação,Financeiro,Analista Financeiro,2,2017-04-01,9,8150.0,20,Sim,Raramente,3,1,2,3,4,Sim,Não,,Não se aplica
+COL-0358,51,Feminino,União estável,Graduação,Tecnologia,Analista de Dados,3,2014-06-26,12,11450.0,1,Não,Nunca,3,1,4,4,3,Não,Não,,Não se aplica
+COL-0359,28,Feminino,Casado(a),Tecnólogo,Tecnologia,Desenvolvedor,2,2023-06-17,2,8900.0,33,Não,Frequentemente,3,4,5,4,1,Não,Não,,Não se aplica
+COL-0360,24,Masculino,Divorciado(a),Ensino médio,Financeiro,Analista Financeiro,1,2020-12-24,5,6400.0,10,Sim,Raramente,3,5,1,2,6,Sim,Não,,Não se aplica
+COL-0361,39,Masculino,Casado(a),Pós-graduação,Tecnologia,Analista de Dados,3,2016-09-09,10,10200.0,41,Não,Frequentemente,3,4,2,4,3,Sim,Não,,Não se aplica
+COL-0362,24,Não binário,Casado(a),Mestrado,Atendimento,Assistente de Atendimento,2,2021-10-12,5,6250.0,17,Não,Raramente,1,1,5,4,1,Sim,Sim,2025-08-14 05:38:35.524,Nova oportunidade profissional
+COL-0363,38,Feminino,Solteiro(a),Ensino médio,Atendimento,Analista de Atendimento,3,2019-07-09,6,8100.0,24,Não,Raramente,3,2,4,2,0,Sim,Sim,2023-01-15 04:21:47.586,Nova oportunidade profissional
+COL-0364,25,Feminino,Divorciado(a),Ensino médio,Financeiro,Analista Financeiro,1,2025-05-28,0,6250.0,9,Sim,Raramente,4,1,5,4,3,Não,Não,,Não se aplica
+COL-0365,33,Masculino,União estável,Tecnólogo,Comercial,Executivo de Contas,2,2020-03-12,6,7000.0,40,Sim,Raramente,2,4,1,2,4,Não,Não,,Não se aplica
+COL-0366,48,Feminino,Divorciado(a),Ensino médio,Tecnologia,Analista de Dados,3,2019-08-27,6,10700.0,47,Sim,Raramente,3,3,5,4,5,Não,Não,,Não se aplica
+COL-0367,28,Feminino,União estável,Tecnólogo,Atendimento,Assistente de Atendimento,2,2020-10-06,5,6850.0,39,Não,Raramente,4,4,5,2,4,Não,Não,,Não se aplica
+COL-0368,24,Feminino,União estável,Tecnólogo,Comercial,Executivo de Contas,2,2025-01-22,0,7450.0,16,Sim,Raramente,2,4,1,3,0,Não,Não,,Não se aplica
+COL-0369,56,Feminino,Casado(a),Mestrado,Recursos Humanos,Especialista de Pessoas,5,2024-02-24,1,12600.0,17,Não,Raramente,3,3,3,3,3,Não,Não,,Não se aplica
+COL-0370,20,Masculino,Divorciado(a),Graduação,Atendimento,Assistente de Atendimento,1,2025-08-08,0,3750.0,22,Não,Raramente,1,1,2,5,1,Não,Não,,Não se aplica
+COL-0371,24,Feminino,Casado(a),Tecnólogo,Operações,Analista de Operações,1,2020-06-05,5,6250.0,48,Sim,Nunca,1,2,3,3,3,Não,Não,,Não se aplica
+COL-0372,57,Feminino,Casado(a),Graduação,Comercial,Analista Comercial,3,2012-09-01,13,9450.0,12,Sim,Raramente,2,2,4,3,3,Não,Sim,2022-12-16 20:55:31.076,Qualidade de vida
+COL-0373,31,Não binário,União estável,Tecnólogo,Operações,Analista de Operações,2,2016-10-15,10,8100.0,28,Não,Raramente,5,5,2,3,3,Sim,Não,,Não se aplica
+COL-0374,59,Masculino,Divorciado(a),Graduação,Atendimento,Analista de Atendimento,4,2021-03-02,4,10150.0,13,Não,Raramente,4,1,2,3,0,Sim,Não,,Não se aplica
+COL-0375,46,Não binário,Casado(a),Ensino médio,Marketing,Especialista de Marketing,3,2019-06-13,6,9500.0,17,Sim,Nunca,2,4,1,5,0,Não,Não,,Não se aplica
+COL-0376,52,Feminino,União estável,Pós-graduação,Tecnologia,Analista de Dados,3,2017-11-19,8,11450.0,4,Sim,Nunca,3,3,4,3,2,Sim,Não,,Não se aplica
+COL-0377,36,Masculino,Divorciado(a),Tecnólogo,Operações,Coordenador de Operações,3,2022-12-09,4,8700.0,15,Não,Frequentemente,5,5,3,3,0,Não,Não,,Não se aplica
+COL-0378,28,Feminino,Casado(a),Pós-graduação,Comercial,Executivo de Contas,1,2021-04-08,5,6000.0,18,Não,Raramente,5,1,3,5,5,Sim,Não,,Não se aplica
+COL-0379,58,Masculino,Solteiro(a),Graduação,Recursos Humanos,Business Partner,4,2022-05-18,3,10300.0,50,Sim,Raramente,3,4,4,5,1,Não,Sim,2024-01-31 02:23:46.929,Falta de perspectiva de crescimento
+COL-0380,25,Feminino,Solteiro(a),Graduação,Financeiro,Analista Financeiro,1,2018-02-16,7,5800.0,3,Sim,Raramente,1,5,4,4,3,Sim,Não,,Não se aplica
+COL-0381,31,Masculino,Casado(a),Graduação,Comercial,Executivo de Contas,2,2025-02-13,0,7850.0,35,Sim,Raramente,1,4,4,4,1,Não,Não,,Não se aplica
+COL-0382,33,Masculino,Casado(a),Pós-graduação,Atendimento,Assistente de Atendimento,1,2012-11-24,13,4000.0,11,Não,Frequentemente,5,4,3,5,5,Sim,Sim,2026-05-30 06:23:57.389,Nova oportunidade profissional
+COL-0383,21,Feminino,Divorciado(a),Graduação,Operações,Analista de Operações,1,2022-12-12,3,5500.0,44,Não,Raramente,5,3,4,3,0,Não,Não,,Não se aplica
+COL-0384,26,Não binário,Casado(a),Tecnólogo,Comercial,Executivo de Contas,1,2020-10-06,5,5200.0,4,Sim,Raramente,3,2,5,5,2,Sim,Não,,Não se aplica
+COL-0385,46,Feminino,Divorciado(a),Ensino médio,Recursos Humanos,Business Partner,3,2024-04-24,1,8400.0,17,Não,Frequentemente,2,1,4,5,4,Não,Não,,Não se aplica
+COL-0386,34,Não binário,Solteiro(a),Tecnólogo,Comercial,Analista Comercial,3,2016-12-10,9,9650.0,47,Não,Raramente,5,3,4,2,1,Sim,Não,,Não se aplica
+COL-0387,53,Não binário,Solteiro(a),Tecnólogo,Financeiro,Especialista Financeiro,5,2016-10-15,10,13550.0,50,Sim,Raramente,5,2,4,3,3,Sim,Não,,Não se aplica
+COL-0388,46,Masculino,Casado(a),Ensino médio,Tecnologia,Analista de Dados,3,2014-02-02,12,10050.0,25,Sim,Nunca,2,3,2,3,6,Não,Sim,2025-04-20 04:42:24.373,Reestruturação organizacional
+COL-0389,45,Masculino,Casado(a),Graduação,Comercial,Analista Comercial,3,2019-10-22,7,9650.0,52,Não,Raramente,5,2,1,3,4,Não,Não,,Não se aplica
+COL-0390,49,Masculino,Solteiro(a),Graduação,Atendimento,Analista de Atendimento,3,2014-09-08,12,8100.0,48,Não,Raramente,3,4,1,3,1,Sim,Não,,Não se aplica
+COL-0391,57,Masculino,Solteiro(a),Graduação,Recursos Humanos,Especialista de Pessoas,5,2014-06-01,11,12350.0,33,Não,Raramente,5,3,1,4,4,Não,Sim,2023-10-23 18:32:45.645,Qualidade de vida
+COL-0392,58,Não binário,Casado(a),Mestrado,Recursos Humanos,Business Partner,4,2019-01-07,6,10650.0,2,Não,Frequentemente,3,3,3,4,0,Não,Não,,Não se aplica
+COL-0393,29,Masculino,Solteiro(a),Ensino médio,Tecnologia,Desenvolvedor,1,2025-04-27,1,7050.0,42,Não,Raramente,4,2,1,3,4,Não,Não,,Não se aplica
+COL-0394,33,Feminino,União estável,Pós-graduação,Atendimento,Assistente de Atendimento,2,2018-04-04,8,6500.0,17,Não,Raramente,5,5,4,3,2,Não,Não,,Não se aplica
+COL-0395,36,Não binário,União estável,Mestrado,Recursos Humanos,Business Partner,3,2011-04-03,14,8550.0,42,Sim,Frequentemente,5,5,4,3,3,Sim,Não,,Não se aplica
+COL-0396,52,Masculino,Solteiro(a),Mestrado,Recursos Humanos,Business Partner,4,2015-11-19,10,11450.0,6,Não,Raramente,5,2,2,3,2,Não,Sim,2026-03-06 02:53:47.312,Qualidade de vida
+COL-0397,60,Feminino,Divorciado(a),Mestrado,Marketing,Especialista de Marketing,4,2025-12-12,0,10600.0,31,Sim,Raramente,4,1,5,5,5,Não,Sim,2026-06-30 11:19:02.254,Desempenho abaixo do esperado
+COL-0398,32,Masculino,Divorciado(a),Pós-graduação,Marketing,Analista de Marketing,2,2017-06-14,8,7250.0,22,Não,Raramente,5,3,3,3,4,Não,Não,,Não se aplica
+COL-0399,39,Feminino,União estável,Mestrado,Comercial,Analista Comercial,3,2011-08-08,14,9750.0,51,Sim,Raramente,3,2,1,3,3,Não,Sim,2026-07-26 08:02:53.106,Nova oportunidade profissional
+COL-0400,32,Feminino,União estável,Ensino médio,Operações,Coordenador de Operações,3,2014-01-17,12,9550.0,35,Não,Raramente,2,1,2,4,5,Sim,Não,,Não se aplica
+COL-0401,29,Masculino,União estável,Tecnólogo,Tecnologia,Desenvolvedor,1,2014-03-17,11,8050.0,29,Sim,Raramente,4,2,4,4,1,Sim,Não,,Não se aplica
+COL-0402,49,Masculino,Divorciado(a),Graduação,Tecnologia,Analista de Dados,3,2020-11-23,5,10400.0,43,Não,Raramente,2,5,5,2,3,Não,Não,,Não se aplica
+COL-0403,43,Masculino,Casado(a),Pós-graduação,Atendimento,Analista de Atendimento,3,2017-01-15,8,7700.0,34,Não,Frequentemente,2,3,3,4,0,Não,Sim,2026-03-21 01:19:40.345,Remuneração e benefícios
+COL-0404,43,Feminino,União estável,Pós-graduação,Recursos Humanos,Business Partner,3,2016-06-07,10,9550.0,39,Não,Raramente,3,4,5,3,4,Não,Sim,2025-06-29 10:02:00.479,Remuneração e benefícios
+COL-0405,51,Masculino,União estável,Mestrado,Tecnologia,Analista de Dados,4,2020-12-15,5,11850.0,44,Não,Raramente,2,1,2,5,2,Sim,Não,,Não se aplica
+COL-0406,47,Feminino,Divorciado(a),Tecnólogo,Recursos Humanos,Business Partner,3,2022-06-15,3,8650.0,5,Não,Raramente,2,2,4,2,5,Não,Não,,Não se aplica
+COL-0407,23,Masculino,União estável,Ensino médio,Financeiro,Analista Financeiro,2,2025-01-09,0,8150.0,47,Não,Frequentemente,3,3,1,4,3,Não,Sim,2025-07-31 18:27:11.618,Reestruturação organizacional
+COL-0408,37,Masculino,União estável,Tecnólogo,Operações,Coordenador de Operações,3,2020-11-04,5,8200.0,37,Não,Frequentemente,5,5,1,4,0,Não,Não,,Não se aplica
+COL-0409,29,Masculino,Casado(a),Pós-graduação,Tecnologia,Desenvolvedor,2,2025-10-12,0,8800.0,26,Sim,Raramente,1,5,3,4,2,Não,Não,,Não se aplica
+COL-0410,59,Masculino,União estável,Graduação,Financeiro,Especialista Financeiro,5,2025-09-02,1,13000.0,35,Não,Nunca,1,2,4,3,3,Não,Não,,Não se aplica
+COL-0411,24,Feminino,Casado(a),Mestrado,Marketing,Analista de Marketing,2,2021-05-01,4,8550.0,42,Não,Nunca,3,2,1,5,6,Não,Não,,Não se aplica
+COL-0412,61,Feminino,Casado(a),Pós-graduação,Comercial,Gerente Comercial,5,2015-02-01,10,12950.0,28,Não,Raramente,3,2,5,3,6,Não,Sim,2023-09-17 15:25:55.238,Qualidade de vida
+COL-0413,42,Não binário,União estável,Graduação,Recursos Humanos,Analista de RH,2,2025-08-28,1,8300.0,44,Sim,Nunca,2,1,3,4,2,Não,Não,,Não se aplica
+COL-0414,44,Feminino,Divorciado(a),Graduação,Marketing,Especialista de Marketing,3,2018-07-23,7,9950.0,19,Sim,Raramente,5,3,5,3,3,Não,Sim,2025-09-11 02:38:51.227,Falta de perspectiva de crescimento
+COL-0415,49,Masculino,Solteiro(a),Mestrado,Recursos Humanos,Business Partner,3,2012-11-04,14,8550.0,15,Não,Nunca,1,5,3,3,2,Sim,Não,,Não se aplica
+COL-0416,53,Não binário,Casado(a),Pós-graduação,Tecnologia,Analista de Dados,4,2024-09-04,1,13150.0,41,Sim,Raramente,2,2,3,5,4,Não,Não,,Não se aplica
+COL-0417,46,Feminino,Casado(a),Graduação,Operações,Coordenador de Operações,3,2011-10-27,14,9050.0,15,Sim,Frequentemente,3,2,5,3,4,Não,Não,,Não se aplica
+COL-0418,49,Masculino,Casado(a),Pós-graduação,Atendimento,Analista de Atendimento,3,2016-08-05,9,7500.0,50,Não,Raramente,3,3,2,2,5,Sim,Não,,Não se aplica
+COL-0419,27,Feminino,Casado(a),Mestrado,Recursos Humanos,Analista de RH,2,2016-11-16,9,8200.0,28,Sim,Nunca,2,2,5,3,6,Não,Não,,Não se aplica
+COL-0420,53,Feminino,Casado(a),Tecnólogo,Financeiro,Controller,4,2013-01-18,12,11350.0,42,Sim,Nunca,4,2,5,3,2,Sim,Não,,Não se aplica
+COL-0421,52,Masculino,Solteiro(a),Ensino médio,Recursos Humanos,Business Partner,3,2025-05-13,0,9200.0,42,Não,Nunca,5,5,4,4,6,Não,Não,,Não se aplica
+COL-0422,42,Masculino,Casado(a),Graduação,Operações,Analista de Operações,2,2024-02-04,2,7250.0,32,Não,Frequentemente,1,4,3,4,6,Não,Sim,2024-05-22 11:06:23.018,Desempenho abaixo do esperado
+COL-0423,55,Não binário,Divorciado(a),Graduação,Comercial,Analista Comercial,4,2025-11-19,0,10650.0,21,Sim,Nunca,1,3,5,3,1,Não,Não,,Não se aplica
+COL-0424,26,Feminino,União estável,Ensino médio,Atendimento,Assistente de Atendimento,2,2018-08-17,8,6600.0,45,Não,Raramente,1,1,4,5,1,Não,Não,,Não se aplica
+COL-0425,47,Masculino,Solteiro(a),Mestrado,Comercial,Analista Comercial,3,2015-05-18,10,9000.0,12,Sim,Raramente,2,4,3,4,3,Não,Não,,Não se aplica
+COL-0426,43,Masculino,Casado(a),Graduação,Comercial,Executivo de Contas,2,2017-05-26,8,7900.0,40,Sim,Nunca,4,2,1,4,3,Não,Não,,Não se aplica
+COL-0427,36,Feminino,União estável,Mestrado,Recursos Humanos,Analista de RH,2,2024-04-13,1,7250.0,7,Não,Frequentemente,1,2,3,3,2,Não,Sim,2025-07-07 11:12:33.343,Falta de perspectiva de crescimento
+COL-0428,41,Masculino,União estável,Graduação,Recursos Humanos,Analista de RH,2,2022-11-20,4,6800.0,13,Não,Raramente,4,5,2,5,1,Não,Não,,Não se aplica
+COL-0429,45,Feminino,Casado(a),Ensino médio,Atendimento,Analista de Atendimento,3,2018-11-02,8,8450.0,23,Sim,Raramente,3,2,2,2,2,Sim,Sim,2024-02-03 17:04:45.715,Remuneração e benefícios
+COL-0430,30,Masculino,União estável,Mestrado,Financeiro,Analista Financeiro,2,2025-09-22,0,8800.0,8,Sim,Raramente,5,5,1,2,4,Não,Não,,Não se aplica
+COL-0431,45,Feminino,União estável,Graduação,Comercial,Analista Comercial,4,2016-11-18,10,11250.0,40,Não,Nunca,2,2,4,4,4,Não,Não,,Não se aplica
+COL-0432,37,Masculino,Divorciado(a),Ensino médio,Comercial,Analista Comercial,3,2022-06-27,4,9000.0,27,Não,Raramente,5,5,2,5,3,Não,Sim,2023-01-07 20:03:53.145,Remuneração e benefícios
+COL-0433,56,Masculino,Casado(a),Mestrado,Financeiro,Especialista Financeiro,5,2024-04-01,1,13400.0,34,Não,Nunca,2,1,3,2,3,Não,Sim,2024-11-14 20:55:47.868,Nova oportunidade profissional
+COL-0434,34,Não binário,Solteiro(a),Pós-graduação,Tecnologia,Desenvolvedor,2,2013-10-27,12,8800.0,44,Não,Frequentemente,3,2,2,4,3,Sim,Não,,Não se aplica
+COL-0435,58,Não binário,União estável,Pós-graduação,Comercial,Analista Comercial,4,2019-09-11,6,10550.0,23,Não,Frequentemente,3,1,5,4,0,Não,Não,,Não se aplica
+COL-0436,27,Masculino,Casado(a),Graduação,Recursos Humanos,Analista de RH,1,2020-03-07,5,6150.0,36,Não,Nunca,3,4,1,4,3,Não,Não,,Não se aplica
+COL-0437,46,Feminino,União estável,Mestrado,Marketing,Especialista de Marketing,4,2025-08-24,0,11900.0,30,Não,Frequentemente,5,2,3,4,6,Não,Não,,Não se aplica
+COL-0438,43,Não binário,Casado(a),Mestrado,Operações,Coordenador de Operações,4,2017-03-26,9,10800.0,5,Não,Nunca,3,2,1,4,4,Não,Não,,Não se aplica
+COL-0439,51,Feminino,Casado(a),Mestrado,Financeiro,Controller,3,2014-04-14,11,9500.0,31,Não,Frequentemente,1,3,3,3,4,Não,Sim,2022-09-23 01:30:42.499,Mudança de cidade
+COL-0440,39,Masculino,Casado(a),Mestrado,Recursos Humanos,Business Partner,3,2017-07-10,9,9900.0,52,Não,Frequentemente,5,4,5,3,3,Não,Não,,Não se aplica
+COL-0441,46,Feminino,Casado(a),Pós-graduação,Marketing,Especialista de Marketing,3,2012-11-27,13,8600.0,21,Não,Frequentemente,5,4,5,4,1,Sim,Não,,Não se aplica
+COL-0442,50,Feminino,Divorciado(a),Ensino médio,Comercial,Analista Comercial,4,2016-09-14,10,10400.0,29,Sim,Frequentemente,2,5,1,4,0,Não,Não,,Não se aplica
+COL-0443,41,Masculino,Casado(a),Mestrado,Marketing,Especialista de Marketing,3,2019-03-18,6,10150.0,38,Não,Raramente,5,5,5,3,6,Não,Não,,Não se aplica
+COL-0444,25,Masculino,Casado(a),Pós-graduação,Operações,Analista de Operações,2,2024-07-24,2,7050.0,18,Não,Raramente,1,4,1,3,5,Não,Sim,2026-05-27 05:47:24.830,Remuneração e benefícios
+COL-0445,47,Feminino,União estável,Graduação,Operações,Coordenador de Operações,3,2020-08-13,5,9400.0,35,Sim,Frequentemente,2,4,4,4,2,Não,Não,,Não se aplica
+COL-0446,22,Masculino,Casado(a),Ensino médio,Financeiro,Analista Financeiro,1,2025-09-22,0,6600.0,34,Sim,Raramente,1,3,1,4,0,Não,Sim,2026-06-16 10:45:30.058,Nova oportunidade profissional
+COL-0447,54,Feminino,Solteiro(a),Graduação,Atendimento,Analista de Atendimento,4,2014-01-11,12,8950.0,30,Sim,Raramente,3,2,1,5,6,Sim,Não,,Não se aplica
+COL-0448,57,Feminino,Casado(a),Mestrado,Atendimento,Supervisor de Atendimento,5,2020-02-03,5,10450.0,51,Não,Raramente,3,3,3,5,5,Não,Sim,2023-07-29 13:56:31.505,Qualidade de vida
+COL-0449,20,Masculino,Solteiro(a),Graduação,Operações,Analista de Operações,2,2024-09-21,1,7250.0,51,Não,Raramente,3,5,4,2,3,Não,Não,,Não se aplica
+COL-0450,29,Feminino,Casado(a),Pós-graduação,Comercial,Executivo de Contas,2,2021-03-19,4,7550.0,31,Não,Raramente,5,1,1,5,5,Sim,Sim,2024-12-04 12:07:53.300,Mudança de cidade
+COL-0451,44,Masculino,Solteiro(a),Pós-graduação,Tecnologia,Analista de Dados,3,2017-12-02,9,10100.0,50,Não,Raramente,4,5,1,4,6,Não,Não,,Não se aplica
+COL-0452,26,Masculino,Divorciado(a),Ensino médio,Operações,Analista de Operações,2,2019-09-24,6,6600.0,1,Não,Frequentemente,2,4,4,4,0,Não,Não,,Não se aplica
+COL-0453,60,Feminino,Solteiro(a),Ensino médio,Comercial,Gerente Comercial,5,2022-10-21,4,12750.0,27,Não,Nunca,5,5,5,3,6,Sim,Não,,Não se aplica
+COL-0454,20,Masculino,União estável,Graduação,Financeiro,Analista Financeiro,1,2025-02-09,0,6700.0,9,Sim,Frequentemente,3,4,5,3,5,Não,Sim,2026-07-03 06:10:51.201,Mudança de cidade
+COL-0455,59,Feminino,Solteiro(a),Tecnólogo,Atendimento,Supervisor de Atendimento,5,2018-08-20,8,11600.0,21,Não,Raramente,3,5,4,4,5,Sim,Não,,Não se aplica
+COL-0456,57,Feminino,União estável,Ensino médio,Financeiro,Especialista Financeiro,5,2013-11-27,12,13050.0,11,Não,Frequentemente,3,3,3,3,5,Sim,Não,,Não se aplica
+COL-0457,49,Feminino,Casado(a),Mestrado,Recursos Humanos,Business Partner,4,2014-02-12,12,10050.0,47,Sim,Raramente,5,4,2,2,2,Não,Sim,2026-05-24 01:30:25.355,Desempenho abaixo do esperado
+COL-0458,26,Feminino,Casado(a),Ensino médio,Comercial,Executivo de Contas,2,2023-04-01,2,7850.0,16,Não,Raramente,5,2,3,2,0,Não,Sim,2023-11-11 20:38:55.342,Nova oportunidade profissional
+COL-0459,45,Masculino,Divorciado(a),Graduação,Operações,Coordenador de Operações,4,2023-10-20,3,10300.0,48,Não,Raramente,5,2,4,4,4,Não,Sim,2025-04-21 21:55:11.011,Desempenho abaixo do esperado
+COL-0460,30,Feminino,Solteiro(a),Ensino médio,Comercial,Executivo de Contas,1,2014-03-08,12,6150.0,49,Sim,Frequentemente,2,1,2,3,5,Não,Sim,2022-02-13 04:52:51.478,Nova oportunidade profissional
+COL-0461,42,Feminino,Casado(a),Graduação,Atendimento,Assistente de Atendimento,2,2020-12-14,5,5450.0,18,Não,Raramente,5,5,1,2,6,Não,Sim,2025-09-10 13:57:30.525,Qualidade de vida
+COL-0462,26,Masculino,Solteiro(a),Mestrado,Operações,Analista de Operações,1,2021-03-06,4,5350.0,50,Não,Raramente,4,1,4,4,2,Não,Sim,2022-12-02 21:23:03.734,Remuneração e benefícios
+COL-0463,50,Feminino,Casado(a),Graduação,Operações,Coordenador de Operações,3,2020-10-22,6,8800.0,9,Não,Raramente,1,3,2,3,4,Não,Sim,2025-06-30 13:36:12.678,Desempenho abaixo do esperado
+COL-0464,38,Feminino,Divorciado(a),Ensino médio,Atendimento,Analista de Atendimento,3,2018-04-16,7,8700.0,13,Sim,Frequentemente,2,5,1,4,6,Não,Sim,2024-01-22 08:47:47.350,Reestruturação organizacional
+COL-0465,48,Feminino,Solteiro(a),Tecnólogo,Marketing,Especialista de Marketing,4,2025-09-28,0,10400.0,13,Não,Raramente,1,5,2,4,2,Não,Não,,Não se aplica
+COL-0466,23,Não binário,Casado(a),Mestrado,Recursos Humanos,Analista de RH,2,2023-03-13,2,7250.0,38,Não,Nunca,5,5,3,3,1,Não,Não,,Não se aplica
+COL-0467,39,Masculino,Divorciado(a),Ensino médio,Comercial,Executivo de Contas,2,2014-11-24,12,7000.0,46,Não,Raramente,1,5,5,4,5,Não,Sim,2022-05-08 03:18:28.543,Reestruturação organizacional
+COL-0468,46,Masculino,Casado(a),Pós-graduação,Recursos Humanos,Business Partner,3,2021-06-22,5,9600.0,6,Não,Nunca,4,2,1,2,6,Não,Não,,Não se aplica
+COL-0469,31,Masculino,União estável,Graduação,Tecnologia,Desenvolvedor,2,2023-02-25,2,9900.0,48,Não,Nunca,5,3,2,3,0,Não,Não,,Não se aplica
+COL-0470,21,Não binário,Solteiro(a),Graduação,Marketing,Analista de Marketing,1,2025-05-06,1,5500.0,11,Não,Raramente,1,1,4,3,1,Não,Sim,2025-11-23 06:14:34.594,Reestruturação organizacional
+COL-0471,54,Feminino,Divorciado(a),Mestrado,Recursos Humanos,Business Partner,3,2024-09-24,1,8400.0,42,Sim,Nunca,3,2,2,5,2,Não,Não,,Não se aplica
+COL-0472,31,Masculino,Divorciado(a),Graduação,Marketing,Analista de Marketing,1,2016-05-17,9,6100.0,23,Sim,Frequentemente,4,3,3,3,2,Não,Sim,2022-08-10 22:09:42.593,Reestruturação organizacional
+COL-0473,36,Masculino,Divorciado(a),Mestrado,Comercial,Analista Comercial,3,2013-05-03,12,9300.0,46,Não,Frequentemente,2,2,4,4,4,Não,Não,,Não se aplica
+COL-0474,52,Masculino,Casado(a),Graduação,Comercial,Analista Comercial,4,2024-12-01,1,11000.0,37,Sim,Raramente,4,3,3,4,0,Não,Não,,Não se aplica
+COL-0475,53,Masculino,Divorciado(a),Mestrado,Marketing,Especialista de Marketing,4,2024-04-27,2,11000.0,24,Não,Raramente,4,2,1,2,4,Não,Sim,2024-10-27 17:47:04.573,Mudança de cidade
+COL-0476,20,Feminino,Solteiro(a),Pós-graduação,Operações,Analista de Operações,1,2023-06-14,2,5850.0,38,Não,Nunca,5,1,4,4,3,Sim,Não,,Não se aplica
+COL-0477,40,Feminino,Casado(a),Pós-graduação,Financeiro,Analista Financeiro,2,2011-12-02,14,8250.0,43,Não,Raramente,2,1,1,4,5,Não,Sim,2025-10-27 13:20:50.836,Desempenho abaixo do esperado
+COL-0478,33,Não binário,União estável,Mestrado,Recursos Humanos,Analista de RH,2,2019-04-24,6,7150.0,12,Sim,Raramente,3,1,1,3,1,Sim,Não,,Não se aplica
+COL-0479,41,Masculino,Casado(a),Tecnólogo,Comercial,Executivo de Contas,2,2016-09-26,9,8250.0,20,Sim,Raramente,2,4,2,4,5,Não,Sim,2025-02-21 23:28:40.653,Mudança de cidade
+COL-0480,40,Feminino,União estável,Ensino médio,Recursos Humanos,Analista de RH,2,2016-06-19,9,8350.0,23,Não,Frequentemente,3,4,2,3,1,Sim,Não,,Não se aplica
+COL-0481,30,Feminino,Casado(a),Tecnólogo,Atendimento,Assistente de Atendimento,1,2016-08-25,9,4350.0,28,Não,Raramente,3,1,3,5,6,Não,Não,,Não se aplica
+COL-0482,59,Feminino,Divorciado(a),Mestrado,Recursos Humanos,Business Partner,4,2017-04-04,8,10350.0,24,Não,Frequentemente,4,5,1,3,1,Sim,Não,,Não se aplica
+COL-0483,26,Feminino,União estável,Tecnólogo,Operações,Analista de Operações,2,2018-09-20,7,7600.0,47,Sim,Nunca,4,4,5,4,1,Sim,Não,,Não se aplica
+COL-0484,48,Masculino,Divorciado(a),Tecnólogo,Operações,Coordenador de Operações,4,2018-04-16,7,11000.0,23,Não,Raramente,4,4,2,3,3,Sim,Não,,Não se aplica
+COL-0485,56,Masculino,União estável,Pós-graduação,Atendimento,Analista de Atendimento,3,2025-04-05,0,7750.0,13,Não,Raramente,4,1,4,3,3,Não,Não,,Não se aplica
+COL-0486,28,Masculino,Casado(a),Mestrado,Marketing,Analista de Marketing,2,2021-05-13,4,6950.0,1,Sim,Raramente,2,1,2,2,0,Não,Não,,Não se aplica
+COL-0487,41,Feminino,Divorciado(a),Graduação,Recursos Humanos,Business Partner,3,2017-10-17,8,9700.0,51,Sim,Raramente,1,2,5,3,3,Não,Não,,Não se aplica
+COL-0488,22,Feminino,Casado(a),Graduação,Tecnologia,Desenvolvedor,1,2023-09-27,3,6650.0,17,Não,Raramente,5,2,1,5,3,Não,Não,,Não se aplica
+COL-0489,43,Feminino,Divorciado(a),Tecnólogo,Atendimento,Analista de Atendimento,4,2022-03-14,3,9700.0,42,Não,Raramente,4,3,4,5,6,Não,Não,,Não se aplica
+COL-0490,52,Feminino,Solteiro(a),Mestrado,Recursos Humanos,Business Partner,4,2017-06-17,9,11650.0,47,Sim,Raramente,2,2,5,3,6,Não,Não,,Não se aplica
+COL-0491,37,Feminino,Solteiro(a),Graduação,Comercial,Analista Comercial,3,2020-07-26,5,9100.0,26,Não,Raramente,5,3,1,2,5,Não,Não,,Não se aplica
+COL-0492,55,Feminino,União estável,Tecnólogo,Atendimento,Analista de Atendimento,4,2012-11-28,14,10400.0,30,Não,Frequentemente,5,1,4,4,2,Não,Não,,Não se aplica
+COL-0493,20,Masculino,Divorciado(a),Graduação,Marketing,Analista de Marketing,1,2024-01-06,1,6050.0,5,Sim,Nunca,5,1,3,4,3,Não,Não,,Não se aplica
+COL-0494,32,Masculino,Divorciado(a),Graduação,Operações,Analista de Operações,2,2013-05-09,12,7550.0,23,Não,Raramente,3,5,2,4,5,Não,Sim,2023-08-27 23:41:10.064,Desempenho abaixo do esperado
+COL-0495,55,Masculino,Divorciado(a),Graduação,Recursos Humanos,Business Partner,3,2020-10-08,5,8550.0,32,Não,Raramente,5,1,4,5,1,Não,Não,,Não se aplica
+COL-0496,42,Feminino,Casado(a),Mestrado,Recursos Humanos,Business Partner,3,2024-07-13,1,8550.0,7,Não,Frequentemente,3,3,1,3,4,Não,Não,,Não se aplica
+COL-0497,57,Masculino,Solteiro(a),Tecnólogo,Recursos Humanos,Business Partner,4,2025-09-05,1,11000.0,21,Não,Raramente,3,2,4,2,5,Não,Não,,Não se aplica
+COL-0498,21,Feminino,Casado(a),Pós-graduação,Operações,Analista de Operações,1,2022-08-10,3,5900.0,39,Não,Raramente,3,5,4,3,5,Sim,Não,,Não se aplica
+COL-0499,33,Masculino,Casado(a),Pós-graduação,Marketing,Analista de Marketing,2,2013-06-07,12,7600.0,20,Sim,Nunca,5,3,4,3,3,Não,Não,,Não se aplica
+COL-0500,21,Não binário,União estável,Pós-graduação,Tecnologia,Desenvolvedor,1,2023-06-10,3,6750.0,1,Não,Raramente,5,3,5,4,1,Não,Não,,Não se aplica
+COL-0501,21,Não binário,União estável,Pós-graduação,Recursos Humanos,Analista de RH,1,2023-06-22,2,6100.0,19,Não,Raramente,4,3,5,5,2,Sim,Não,,Não se aplica
+COL-0502,26,Masculino,Divorciado(a),Pós-graduação,Recursos Humanos,Analista de RH,2,2023-05-20,2,7000.0,12,Não,Frequentemente,3,1,3,3,2,Sim,Não,,Não se aplica
+COL-0503,52,Feminino,Casado(a),Graduação,Marketing,Especialista de Marketing,4,2018-03-09,8,11250.0,19,Não,Nunca,5,3,2,3,0,Não,Não,,Não se aplica
+COL-0504,20,Não binário,Casado(a),Ensino médio,Comercial,Executivo de Contas,1,2025-12-22,0,5750.0,20,Não,Nunca,2,3,3,3,2,Não,Não,,Não se aplica
+COL-0505,56,Feminino,Casado(a),Ensino médio,Tecnologia,Engenheiro de Dados,5,2015-11-26,10,14200.0,33,Não,Frequentemente,3,3,2,5,5,Sim,Sim,2024-02-24 10:55:21.708,Falta de perspectiva de crescimento
+COL-0506,34,Feminino,Casado(a),Pós-graduação,Financeiro,Analista Financeiro,1,2016-08-13,9,6900.0,2,Não,Raramente,4,2,1,5,3,Não,Não,,Não se aplica
+COL-0507,30,Masculino,União estável,Pós-graduação,Marketing,Analista de Marketing,1,2018-01-15,7,6850.0,8,Não,Frequentemente,2,1,4,5,1,Não,Sim,2022-01-27 12:02:13.876,Reestruturação organizacional
+COL-0508,54,Não binário,Solteiro(a),Graduação,Tecnologia,Analista de Dados,4,2012-01-11,13,12950.0,8,Não,Raramente,4,5,2,2,1,Não,Não,,Não se aplica
+COL-0509,32,Feminino,Casado(a),Mestrado,Tecnologia,Analista de Dados,3,2020-06-07,5,10350.0,12,Não,Nunca,5,1,3,4,2,Não,Não,,Não se aplica
+COL-0510,59,Feminino,Casado(a),Tecnólogo,Operações,Coordenador de Operações,4,2022-06-15,4,9850.0,51,Sim,Frequentemente,3,4,3,3,0,Não,Não,,Não se aplica
+COL-0511,35,Feminino,Casado(a),Tecnólogo,Operações,Analista de Operações,2,2019-09-04,6,6900.0,50,Não,Frequentemente,2,5,3,3,0,Sim,Não,,Não se aplica
+COL-0512,33,Não binário,Casado(a),Ensino médio,Operações,Coordenador de Operações,3,2014-07-19,11,9700.0,2,Não,Frequentemente,4,1,4,3,0,Não,Não,,Não se aplica
+COL-0513,58,Masculino,Solteiro(a),Pós-graduação,Comercial,Gerente Comercial,5,2023-01-20,2,12000.0,16,Não,Nunca,3,4,1,4,1,Não,Não,,Não se aplica
+COL-0514,35,Masculino,Casado(a),Graduação,Recursos Humanos,Analista de RH,2,2024-12-04,2,8000.0,8,Não,Nunca,2,5,5,2,3,Sim,Não,,Não se aplica
+COL-0515,60,Masculino,Casado(a),Mestrado,Comercial,Gerente Comercial,5,2018-12-20,8,12550.0,34,Não,Nunca,3,1,2,3,5,Sim,Não,,Não se aplica
+COL-0516,60,Feminino,Casado(a),Graduação,Recursos Humanos,Especialista de Pessoas,5,2025-04-24,1,12550.0,17,Não,Frequentemente,5,2,2,3,6,Não,Não,,Não se aplica
+COL-0517,45,Masculino,União estável,Graduação,Recursos Humanos,Business Partner,3,2023-09-28,2,8700.0,48,Sim,Raramente,5,1,4,3,2,Sim,Não,,Não se aplica
+COL-0518,26,Feminino,Casado(a),Graduação,Operações,Analista de Operações,2,2021-02-24,4,6750.0,45,Sim,Raramente,4,1,2,4,2,Sim,Não,,Não se aplica
+COL-0519,51,Não binário,Divorciado(a),Graduação,Tecnologia,Analista de Dados,4,2014-08-22,11,12650.0,11,Não,Frequentemente,2,4,1,2,1,Sim,Não,,Não se aplica
+COL-0520,26,Não binário,Casado(a),Mestrado,Operações,Analista de Operações,1,2020-06-09,6,6050.0,1,Não,Nunca,5,4,5,4,4,Não,Não,,Não se aplica
+COL-0521,61,Masculino,União estável,Mestrado,Financeiro,Especialista Financeiro,5,2014-07-01,12,13650.0,5,Sim,Raramente,1,4,5,4,0,Não,Sim,2022-09-08 23:42:17.283,Reestruturação organizacional
+COL-0522,42,Não binário,Casado(a),Graduação,Marketing,Especialista de Marketing,4,2018-02-17,8,11850.0,9,Sim,Raramente,5,2,4,3,4,Não,Não,,Não se aplica
+COL-0523,52,Masculino,Solteiro(a),Tecnólogo,Comercial,Analista Comercial,3,2023-12-28,2,9950.0,37,Não,Frequentemente,3,4,1,3,6,Sim,Não,,Não se aplica
+COL-0524,26,Masculino,Divorciado(a),Graduação,Marketing,Analista de Marketing,1,2021-02-11,5,5450.0,32,Não,Nunca,2,1,3,3,2,Não,Sim,2024-04-20 23:15:11.932,Nova oportunidade profissional
+COL-0525,25,Masculino,Solteiro(a),Tecnólogo,Recursos Humanos,Analista de RH,2,2021-07-08,5,6900.0,38,Não,Raramente,5,1,1,3,4,Sim,Não,,Não se aplica
+COL-0526,25,Feminino,Casado(a),Ensino médio,Comercial,Executivo de Contas,1,2018-12-10,7,5450.0,31,Sim,Raramente,4,5,1,3,5,Sim,Sim,2025-04-01 05:11:41.470,Falta de perspectiva de crescimento
+COL-0527,40,Não binário,União estável,Graduação,Atendimento,Assistente de Atendimento,2,2016-11-21,9,6850.0,37,Não,Nunca,3,1,2,4,2,Sim,Sim,2026-06-28 14:04:44.701,Desempenho abaixo do esperado
+COL-0528,45,Não binário,Casado(a),Tecnólogo,Operações,Coordenador de Operações,3,2021-09-01,5,9750.0,44,Sim,Nunca,2,1,2,4,0,Não,Não,,Não se aplica
+COL-0529,57,Não binário,Solteiro(a),Graduação,Comercial,Analista Comercial,4,2018-08-09,7,11650.0,42,Não,Frequentemente,2,5,1,3,6,Não,Sim,2023-09-07 12:38:07.611,Reestruturação organizacional
+COL-0530,51,Masculino,União estável,Graduação,Recursos Humanos,Business Partner,4,2024-12-15,1,11250.0,16,Não,Raramente,5,3,5,4,6,Não,Não,,Não se aplica
+COL-0531,51,Feminino,Casado(a),Mestrado,Tecnologia,Analista de Dados,3,2025-12-18,0,10450.0,33,Não,Raramente,2,5,3,4,1,Não,Não,,Não se aplica
+COL-0532,53,Não binário,Casado(a),Graduação,Tecnologia,Analista de Dados,3,2022-05-10,4,10200.0,52,Sim,Raramente,5,5,1,3,6,Não,Sim,2024-04-03 15:14:52.364,Desempenho abaixo do esperado
+COL-0533,20,Não binário,Casado(a),Graduação,Atendimento,Assistente de Atendimento,1,2025-05-04,1,4600.0,49,Não,Raramente,2,5,1,4,2,Não,Não,,Não se aplica
+COL-0534,49,Masculino,Casado(a),Mestrado,Financeiro,Controller,4,2018-08-21,7,10650.0,49,Sim,Raramente,1,4,5,3,0,Sim,Não,,Não se aplica
+COL-0535,38,Não binário,Solteiro(a),Ensino médio,Marketing,Especialista de Marketing,3,2025-08-22,0,9350.0,34,Sim,Raramente,5,3,4,5,0,Não,Não,,Não se aplica
+COL-0536,56,Masculino,Casado(a),Ensino médio,Marketing,Coordenador de Marketing,5,2020-05-01,5,12650.0,46,Não,Frequentemente,2,1,2,3,4,Não,Sim,2025-02-09 03:00:33.189,Falta de perspectiva de crescimento
+COL-0537,47,Não binário,União estável,Tecnólogo,Recursos Humanos,Business Partner,3,2023-11-07,2,9300.0,10,Não,Raramente,3,1,1,4,3,Não,Não,,Não se aplica
+COL-0538,37,Masculino,Solteiro(a),Pós-graduação,Marketing,Especialista de Marketing,3,2023-10-24,2,10100.0,31,Sim,Frequentemente,2,5,2,3,6,Não,Sim,2026-01-22 01:44:23.489,Qualidade de vida
+COL-0539,33,Feminino,Divorciado(a),Mestrado,Financeiro,Controller,3,2013-06-10,13,9250.0,10,Sim,Raramente,4,4,5,4,4,Não,Não,,Não se aplica
+COL-0540,40,Feminino,Divorciado(a),Pós-graduação,Marketing,Especialista de Marketing,3,2015-11-26,11,9050.0,17,Sim,Raramente,5,3,4,2,1,Não,Sim,2026-06-02 07:56:33.439,Nova oportunidade profissional
+COL-0541,54,Masculino,União estável,Ensino médio,Comercial,Analista Comercial,4,2016-05-20,9,11000.0,29,Não,Raramente,4,1,1,3,5,Não,Não,,Não se aplica
+COL-0542,32,Masculino,Solteiro(a),Mestrado,Operações,Coordenador de Operações,3,2016-01-07,9,8400.0,20,Não,Raramente,1,3,1,3,2,Não,Não,,Não se aplica
+COL-0543,29,Não binário,União estável,Mestrado,Financeiro,Analista Financeiro,2,2024-11-08,1,8900.0,10,Não,Frequentemente,2,3,1,2,4,Não,Sim,2026-04-04 02:50:39.478,Remuneração e benefícios
+COL-0544,58,Não binário,Casado(a),Graduação,Recursos Humanos,Especialista de Pessoas,5,2014-07-17,11,12950.0,46,Não,Frequentemente,1,2,3,4,2,Sim,Não,,Não se aplica
+COL-0545,26,Não binário,Solteiro(a),Ensino médio,Tecnologia,Desenvolvedor,1,2017-05-14,8,7000.0,21,Sim,Frequentemente,1,1,2,3,5,Não,Não,,Não se aplica
+COL-0546,44,Masculino,Solteiro(a),Pós-graduação,Comercial,Analista Comercial,4,2025-02-21,1,11200.0,27,Não,Raramente,3,5,4,3,1,Não,Não,,Não se aplica
+COL-0547,50,Feminino,Casado(a),Pós-graduação,Financeiro,Controller,4,2022-09-25,3,11850.0,31,Não,Raramente,4,4,4,3,2,Não,Não,,Não se aplica
+COL-0548,55,Feminino,Solteiro(a),Ensino médio,Atendimento,Analista de Atendimento,4,2024-11-16,2,9700.0,12,Não,Raramente,5,2,3,3,3,Sim,Sim,2025-08-07 13:12:51.365,Falta de perspectiva de crescimento
+COL-0549,36,Masculino,Casado(a),Mestrado,Comercial,Executivo de Contas,2,2022-03-04,4,8050.0,11,Sim,Nunca,2,5,1,3,3,Não,Não,,Não se aplica
+COL-0550,21,Masculino,Casado(a),Mestrado,Financeiro,Analista Financeiro,1,2022-01-11,3,6600.0,43,Sim,Raramente,3,1,2,4,3,Sim,Não,,Não se aplica
+COL-0551,44,Masculino,Divorciado(a),Graduação,Comercial,Executivo de Contas,2,2019-11-28,7,7100.0,36,Sim,Raramente,1,2,5,5,3,Sim,Sim,2023-01-10 05:48:48.605,Nova oportunidade profissional
+COL-0552,40,Não binário,Divorciado(a),Mestrado,Financeiro,Controller,3,2016-01-20,9,10600.0,50,Não,Nunca,2,5,5,3,1,Não,Não,,Não se aplica
+COL-0553,45,Feminino,Casado(a),Mestrado,Comercial,Analista Comercial,3,2021-03-09,4,8450.0,31,Não,Nunca,4,5,3,2,0,Não,Não,,Não se aplica
+COL-0554,29,Feminino,Solteiro(a),Pós-graduação,Operações,Analista de Operações,2,2016-05-11,10,7600.0,34,Não,Frequentemente,5,4,5,3,4,Não,Não,,Não se aplica
+COL-0555,35,Masculino,União estável,Graduação,Comercial,Analista Comercial,3,2016-12-28,10,8700.0,50,Sim,Raramente,2,3,2,3,6,Não,Não,,Não se aplica
+COL-0556,20,Masculino,Divorciado(a),Graduação,Comercial,Executivo de Contas,1,2024-01-24,2,5300.0,9,Sim,Raramente,2,1,2,3,0,Sim,Sim,2026-01-02 20:47:00.965,Qualidade de vida
+COL-0557,48,Não binário,Casado(a),Graduação,Comercial,Analista Comercial,4,2017-03-28,8,11050.0,26,Sim,Raramente,3,3,2,3,1,Não,Não,,Não se aplica
+COL-0558,40,Feminino,Casado(a),Mestrado,Comercial,Analista Comercial,3,2023-01-17,2,9500.0,37,Sim,Raramente,5,2,3,2,6,Sim,Sim,2023-10-27 00:15:55.693,Nova oportunidade profissional
+COL-0559,25,Não binário,Casado(a),Ensino médio,Comercial,Executivo de Contas,1,2021-05-16,5,6300.0,44,Sim,Raramente,5,4,2,5,6,Não,Não,,Não se aplica
+COL-0560,32,Masculino,Casado(a),Mestrado,Atendimento,Assistente de Atendimento,1,2021-08-07,5,4600.0,28,Não,Raramente,1,2,5,4,0,Não,Não,,Não se aplica
+COL-0561,26,Feminino,Solteiro(a),Pós-graduação,Financeiro,Analista Financeiro,1,2018-02-17,7,6700.0,17,Não,Raramente,5,2,1,3,6,Não,Não,,Não se aplica
+COL-0562,58,Masculino,União estável,Tecnólogo,Marketing,Coordenador de Marketing,5,2015-12-16,11,12250.0,3,Não,Raramente,5,5,3,3,5,Não,Não,,Não se aplica
+COL-0563,27,Feminino,Divorciado(a),Ensino médio,Comercial,Executivo de Contas,1,2019-08-28,7,5350.0,21,Não,Nunca,4,2,1,2,0,Sim,Não,,Não se aplica
+COL-0564,56,Feminino,Solteiro(a),Tecnólogo,Atendimento,Analista de Atendimento,3,2025-05-02,0,7850.0,37,Não,Frequentemente,4,4,4,3,3,Não,Sim,2026-05-21 23:03:20.155,Reestruturação organizacional
+COL-0565,20,Feminino,Divorciado(a),Pós-graduação,Tecnologia,Desenvolvedor,1,2024-02-25,2,7600.0,16,Sim,Raramente,5,3,4,4,2,Sim,Não,,Não se aplica
+COL-0566,58,Não binário,Casado(a),Graduação,Tecnologia,Engenheiro de Dados,5,2015-11-08,10,13850.0,48,Não,Raramente,4,1,5,3,4,Não,Sim,2022-05-06 11:01:35.342,Nova oportunidade profissional
+COL-0567,54,Feminino,Casado(a),Ensino médio,Tecnologia,Analista de Dados,4,2019-01-19,6,13150.0,14,Não,Raramente,3,4,5,3,0,Não,Não,,Não se aplica
+COL-0568,60,Masculino,Casado(a),Mestrado,Marketing,Coordenador de Marketing,5,2014-10-10,12,13400.0,40,Não,Raramente,1,2,4,3,5,Não,Não,,Não se aplica
+COL-0569,52,Masculino,Solteiro(a),Pós-graduação,Atendimento,Supervisor de Atendimento,5,2022-06-11,4,10450.0,30,Não,Raramente,3,3,5,3,4,Não,Não,,Não se aplica
+COL-0570,20,Masculino,Casado(a),Tecnólogo,Marketing,Analista de Marketing,1,2024-10-11,2,5550.0,25,Sim,Nunca,5,4,3,4,0,Sim,Não,,Não se aplica
+COL-0571,24,Não binário,União estável,Graduação,Recursos Humanos,Analista de RH,2,2023-08-08,2,7200.0,35,Sim,Raramente,2,3,1,2,4,Não,Sim,2025-11-27 12:19:28.369,Nova oportunidade profissional
+COL-0572,22,Não binário,Solteiro(a),Ensino médio,Comercial,Executivo de Contas,1,2025-09-25,1,6850.0,28,Não,Raramente,5,5,2,3,1,Não,Não,,Não se aplica
+COL-0573,53,Feminino,Solteiro(a),Mestrado,Atendimento,Supervisor de Atendimento,5,2025-12-15,1,11700.0,26,Não,Raramente,2,2,4,4,4,Não,Não,,Não se aplica
+COL-0574,52,Masculino,Casado(a),Pós-graduação,Marketing,Especialista de Marketing,4,2018-11-06,7,11100.0,26,Não,Frequentemente,2,1,2,5,1,Não,Sim,2023-08-27 19:05:41.016,Desempenho abaixo do esperado
+COL-0575,58,Não binário,Solteiro(a),Mestrado,Tecnologia,Engenheiro de Dados,5,2020-05-26,5,14600.0,48,Sim,Nunca,1,4,3,3,0,Sim,Sim,2024-08-05 15:59:58.199,Falta de perspectiva de crescimento
+COL-0576,37,Masculino,Casado(a),Tecnólogo,Recursos Humanos,Analista de RH,2,2017-08-16,8,7850.0,33,Não,Raramente,4,4,1,3,1,Sim,Não,,Não se aplica
+COL-0577,50,Feminino,Divorciado(a),Graduação,Tecnologia,Analista de Dados,4,2016-10-11,9,12350.0,26,Não,Raramente,2,1,4,3,1,Não,Não,,Não se aplica
+COL-0578,45,Feminino,Casado(a),Tecnólogo,Recursos Humanos,Business Partner,3,2025-03-27,0,9350.0,39,Não,Nunca,3,3,4,2,5,Não,Não,,Não se aplica
+COL-0579,43,Masculino,União estável,Graduação,Atendimento,Analista de Atendimento,3,2017-12-21,9,8350.0,45,Sim,Raramente,1,3,5,2,3,Não,Não,,Não se aplica
+COL-0580,58,Não binário,União estável,Graduação,Atendimento,Analista de Atendimento,4,2012-12-16,13,9100.0,8,Sim,Nunca,3,3,4,4,3,Não,Não,,Não se aplica
+COL-0581,58,Feminino,Divorciado(a),Graduação,Operações,Especialista de Processos,5,2023-10-02,3,12750.0,11,Não,Nunca,1,4,5,4,0,Não,Sim,2025-12-17 19:49:54.532,Nova oportunidade profissional
+COL-0582,22,Masculino,Divorciado(a),Graduação,Operações,Analista de Operações,1,2024-06-05,1,5650.0,46,Não,Frequentemente,2,2,4,4,3,Não,Não,,Não se aplica
+COL-0583,21,Não binário,União estável,Pós-graduação,Comercial,Executivo de Contas,2,2026-06-17,0,7700.0,31,Não,Raramente,3,3,5,2,2,Não,Não,,Não se aplica
+COL-0584,24,Feminino,União estável,Graduação,Operações,Analista de Operações,1,2021-11-21,5,5100.0,29,Sim,Nunca,5,4,5,2,1,Não,Não,,Não se aplica
+COL-0585,47,Não binário,Casado(a),Graduação,Atendimento,Analista de Atendimento,3,2013-12-08,12,8750.0,50,Não,Raramente,3,2,4,4,2,Não,Sim,2023-11-29 07:39:48.684,Remuneração e benefícios
+COL-0586,23,Masculino,União estável,Pós-graduação,Recursos Humanos,Analista de RH,1,2023-06-03,2,6700.0,52,Não,Raramente,4,4,2,3,6,Não,Sim,2026-07-04 05:15:04.554,Remuneração e benefícios
+COL-0587,61,Feminino,Divorciado(a),Mestrado,Marketing,Coordenador de Marketing,5,2012-03-10,14,13400.0,47,Não,Frequentemente,4,2,3,4,0,Não,Não,,Não se aplica
+COL-0588,27,Feminino,Casado(a),Mestrado,Financeiro,Analista Financeiro,2,2020-01-15,5,7400.0,16,Não,Nunca,1,1,4,3,1,Sim,Não,,Não se aplica
+COL-0589,30,Não binário,Divorciado(a),Tecnólogo,Marketing,Especialista de Marketing,3,2023-05-18,3,8700.0,26,Não,Raramente,2,2,4,3,6,Não,Sim,2025-11-24 12:20:08.745,Mudança de cidade
+COL-0590,51,Masculino,Casado(a),Mestrado,Operações,Coordenador de Operações,3,2018-03-28,7,9650.0,46,Sim,Nunca,4,3,1,4,4,Sim,Não,,Não se aplica
+COL-0591,33,Não binário,Divorciado(a),Ensino médio,Operações,Coordenador de Operações,3,2018-04-17,7,9650.0,7,Sim,Nunca,4,5,5,4,4,Não,Não,,Não se aplica
+COL-0592,26,Feminino,Casado(a),Ensino médio,Marketing,Analista de Marketing,2,2018-04-05,7,7600.0,3,Não,Nunca,2,2,5,2,4,Não,Não,,Não se aplica
+COL-0593,24,Masculino,Casado(a),Mestrado,Recursos Humanos,Analista de RH,1,2024-05-24,1,6400.0,5,Não,Raramente,4,1,2,2,0,Não,Não,,Não se aplica
+COL-0594,34,Feminino,Solteiro(a),Tecnólogo,Marketing,Analista de Marketing,2,2021-09-20,4,8000.0,29,Não,Raramente,3,1,2,4,3,Não,Sim,2022-05-11 07:58:17.045,Qualidade de vida
+COL-0595,61,Masculino,União estável,Graduação,Marketing,Coordenador de Marketing,5,2014-02-22,12,13000.0,36,Não,Raramente,3,3,4,3,3,Não,Sim,2025-03-26 17:47:41.589,Desempenho abaixo do esperado
+COL-0596,39,Não binário,Casado(a),Ensino médio,Atendimento,Assistente de Atendimento,2,2025-08-19,0,7050.0,7,Não,Raramente,4,2,5,4,4,Não,Não,,Não se aplica
+COL-0597,40,Masculino,Divorciado(a),Pós-graduação,Recursos Humanos,Analista de RH,2,2018-02-13,8,7650.0,50,Não,Frequentemente,4,2,3,4,5,Sim,Não,,Não se aplica
+COL-0598,33,Não binário,União estável,Pós-graduação,Recursos Humanos,Analista de RH,2,2019-05-28,6,8050.0,10,Sim,Raramente,3,3,2,5,5,Não,Não,,Não se aplica
+COL-0599,28,Masculino,União estável,Mestrado,Marketing,Analista de Marketing,2,2019-04-18,6,7200.0,29,Sim,Nunca,5,5,1,2,0,Sim,Não,,Não se aplica
+COL-0600,58,Não binário,Solteiro(a),Tecnólogo,Financeiro,Controller,4,2021-02-03,5,12150.0,3,Não,Raramente,5,1,1,4,5,Não,Não,,Não se aplica
+COL-0601,23,Feminino,Casado(a),Mestrado,Tecnologia,Desenvolvedor,1,2024-03-08,2,6850.0,5,Não,Nunca,4,5,2,3,6,Não,Não,,Não se aplica
+COL-0602,51,Não binário,Solteiro(a),Tecnólogo,Operações,Coordenador de Operações,3,2018-06-04,8,9650.0,51,Sim,Raramente,5,3,3,5,6,Sim,Sim,2022-04-09 15:55:56.055,Desempenho abaixo do esperado
+COL-0603,33,Masculino,Solteiro(a),Ensino médio,Comercial,Analista Comercial,3,2022-12-27,3,10000.0,51,Não,Nunca,5,5,1,3,4,Não,Não,,Não se aplica
+COL-0604,41,Masculino,Divorciado(a),Mestrado,Financeiro,Controller,3,2015-07-04,10,10200.0,30,Não,Raramente,3,5,2,5,1,Não,Não,,Não se aplica
+COL-0605,39,Masculino,União estável,Ensino médio,Atendimento,Analista de Atendimento,3,2012-06-25,13,7800.0,17,Não,Nunca,5,4,2,3,0,Não,Sim,2025-10-24 17:16:11.443,Nova oportunidade profissional
+COL-0606,34,Masculino,Solteiro(a),Graduação,Tecnologia,Desenvolvedor,1,2018-01-25,7,7350.0,39,Não,Nunca,2,5,1,4,3,Não,Não,,Não se aplica
+COL-0607,41,Masculino,Divorciado(a),Graduação,Recursos Humanos,Business Partner,3,2024-10-09,1,9050.0,1,Não,Raramente,5,5,5,2,0,Não,Não,,Não se aplica
+COL-0608,47,Feminino,Divorciado(a),Graduação,Marketing,Especialista de Marketing,3,2012-02-11,13,9450.0,50,Sim,Nunca,3,1,3,3,1,Não,Não,,Não se aplica
+COL-0609,46,Masculino,União estável,Ensino médio,Financeiro,Controller,4,2025-01-22,0,12150.0,16,Não,Nunca,4,4,4,4,6,Não,Não,,Não se aplica
+COL-0610,49,Feminino,Solteiro(a),Ensino médio,Financeiro,Controller,4,2025-03-05,0,10850.0,33,Não,Raramente,3,2,1,3,6,Não,Sim,2025-12-26 19:16:33.197,Mudança de cidade
+COL-0611,41,Não binário,Divorciado(a),Mestrado,Atendimento,Assistente de Atendimento,2,2017-01-11,9,5850.0,25,Não,Raramente,5,4,5,3,1,Não,Não,,Não se aplica
+COL-0612,47,Feminino,Divorciado(a),Ensino médio,Operações,Coordenador de Operações,4,2022-02-17,3,10050.0,17,Não,Frequentemente,5,1,4,3,2,Não,Não,,Não se aplica
+COL-0613,32,Masculino,Divorciado(a),Pós-graduação,Atendimento,Analista de Atendimento,3,2014-12-18,11,7300.0,25,Sim,Nunca,3,5,2,3,1,Sim,Não,,Não se aplica
+COL-0614,37,Feminino,Casado(a),Graduação,Marketing,Especialista de Marketing,3,2012-11-03,14,10150.0,26,Não,Frequentemente,3,2,3,3,3,Não,Não,,Não se aplica
+COL-0615,50,Não binário,Divorciado(a),Tecnólogo,Tecnologia,Analista de Dados,3,2015-09-15,11,10450.0,44,Sim,Raramente,5,2,3,3,2,Sim,Não,,Não se aplica
+COL-0616,51,Feminino,Casado(a),Graduação,Operações,Coordenador de Operações,4,2025-08-12,0,10000.0,2,Sim,Raramente,2,2,3,3,1,Não,Sim,2026-06-21 00:06:48.034,Falta de perspectiva de crescimento
+COL-0617,25,Masculino,Casado(a),Graduação,Marketing,Analista de Marketing,1,2022-10-28,4,6500.0,17,Não,Nunca,1,5,4,3,4,Não,Não,,Não se aplica
+COL-0618,40,Masculino,Casado(a),Mestrado,Tecnologia,Analista de Dados,3,2025-09-20,0,10000.0,34,Não,Nunca,5,4,5,3,1,Não,Não,,Não se aplica
+COL-0619,33,Feminino,Casado(a),Graduação,Comercial,Executivo de Contas,1,2018-10-12,7,6200.0,9,Não,Raramente,3,2,3,3,2,Não,Sim,2024-06-10 22:01:33.711,Desempenho abaixo do esperado
+COL-0620,54,Masculino,Casado(a),Graduação,Financeiro,Especialista Financeiro,5,2017-12-19,8,12500.0,29,Não,Raramente,1,2,3,4,1,Sim,Não,,Não se aplica
+COL-0621,61,Masculino,Solteiro(a),Tecnólogo,Marketing,Especialista de Marketing,4,2023-12-02,3,11050.0,51,Não,Frequentemente,4,4,5,3,3,Não,Não,,Não se aplica
+COL-0622,55,Não binário,Solteiro(a),Pós-graduação,Financeiro,Controller,3,2015-06-12,11,10000.0,38,Não,Frequentemente,3,5,1,5,6,Não,Não,,Não se aplica
+COL-0623,35,Masculino,União estável,Graduação,Financeiro,Controller,3,2024-11-02,1,10600.0,8,Não,Raramente,1,5,4,4,0,Não,Sim,2025-10-23 09:46:14.532,Mudança de cidade
+COL-0624,58,Feminino,Casado(a),Pós-graduação,Comercial,Analista Comercial,4,2025-10-12,0,10450.0,33,Não,Raramente,5,1,1,3,0,Não,Sim,2026-07-07 22:59:41.549,Qualidade de vida
+COL-0625,20,Feminino,Casado(a),Pós-graduação,Marketing,Analista de Marketing,1,2025-03-18,0,5750.0,23,Não,Frequentemente,2,4,4,2,2,Não,Não,,Não se aplica
+COL-0626,57,Feminino,Casado(a),Pós-graduação,Tecnologia,Engenheiro de Dados,5,2018-12-11,7,13250.0,51,Não,Raramente,4,4,4,3,4,Não,Sim,2025-08-01 22:58:52.882,Mudança de cidade
+COL-0627,56,Não binário,União estável,Graduação,Recursos Humanos,Business Partner,4,2020-07-26,5,11250.0,50,Não,Raramente,1,5,2,3,2,Sim,Sim,2023-03-26 19:45:57.277,Qualidade de vida
+COL-0628,47,Masculino,Casado(a),Mestrado,Recursos Humanos,Business Partner,4,2025-12-25,1,10800.0,5,Não,Frequentemente,1,4,5,3,3,Não,Não,,Não se aplica
+COL-0629,26,Masculino,Solteiro(a),Pós-graduação,Comercial,Executivo de Contas,2,2021-05-13,5,8200.0,16,Não,Nunca,2,2,2,5,4,Sim,Não,,Não se aplica
+COL-0630,56,Feminino,Casado(a),Ensino médio,Recursos Humanos,Especialista de Pessoas,5,2019-09-13,6,12100.0,50,Sim,Raramente,3,4,2,2,5,Não,Sim,2022-01-09 19:21:00.043,Reestruturação organizacional
+COL-0631,42,Feminino,União estável,Tecnólogo,Tecnologia,Analista de Dados,3,2011-01-19,14,10700.0,18,Não,Raramente,1,3,2,4,1,Não,Sim,2024-10-30 11:54:32.471,Qualidade de vida
+COL-0632,54,Feminino,Divorciado(a),Graduação,Marketing,Especialista de Marketing,4,2012-09-20,13,11350.0,46,Não,Frequentemente,4,3,4,3,5,Sim,Não,,Não se aplica
+COL-0633,38,Masculino,União estável,Tecnólogo,Operações,Coordenador de Operações,3,2021-02-07,5,8300.0,42,Não,Raramente,1,1,5,2,5,Sim,Não,,Não se aplica
+COL-0634,28,Masculino,União estável,Graduação,Financeiro,Analista Financeiro,2,2016-09-28,9,8350.0,51,Não,Frequentemente,4,4,5,3,6,Não,Não,,Não se aplica
+COL-0635,23,Feminino,Casado(a),Tecnólogo,Comercial,Executivo de Contas,1,2023-12-08,2,5200.0,45,Não,Raramente,4,1,2,4,0,Não,Não,,Não se aplica
+COL-0636,24,Masculino,Casado(a),Mestrado,Marketing,Analista de Marketing,1,2024-03-01,2,6450.0,35,Sim,Nunca,3,2,4,4,5,Não,Sim,2025-01-17 05:28:58.221,Reestruturação organizacional
+COL-0637,39,Masculino,Casado(a),Graduação,Recursos Humanos,Business Partner,3,2019-11-24,7,9650.0,44,Não,Raramente,5,3,2,3,5,Não,Não,,Não se aplica
+COL-0638,52,Feminino,União estável,Graduação,Comercial,Gerente Comercial,5,2013-03-02,12,12550.0,6,Sim,Raramente,3,5,5,2,1,Não,Não,,Não se aplica
+COL-0639,26,Feminino,Divorciado(a),Tecnólogo,Recursos Humanos,Analista de RH,1,2023-06-14,2,5150.0,6,Sim,Raramente,2,2,4,4,6,Não,Não,,Não se aplica
+COL-0640,51,Feminino,Divorciado(a),Pós-graduação,Operações,Coordenador de Operações,4,2016-12-11,10,11400.0,10,Não,Frequentemente,4,2,3,4,3,Sim,Não,,Não se aplica
+COL-0641,32,Feminino,Casado(a),Pós-graduação,Financeiro,Analista Financeiro,1,2020-07-14,5,6850.0,5,Sim,Frequentemente,4,3,4,3,0,Não,Não,,Não se aplica
+COL-0642,31,Feminino,Divorciado(a),Tecnólogo,Financeiro,Controller,3,2019-04-01,7,9600.0,32,Não,Raramente,1,1,3,4,0,Não,Não,,Não se aplica
+COL-0643,42,Masculino,Solteiro(a),Ensino médio,Recursos Humanos,Analista de RH,2,2026-05-10,0,7700.0,47,Sim,Raramente,3,3,2,3,4,Não,Não,,Não se aplica
+COL-0644,45,Masculino,Divorciado(a),Pós-graduação,Marketing,Especialista de Marketing,4,2013-07-13,12,11700.0,26,Não,Raramente,5,3,1,3,3,Não,Não,,Não se aplica
+COL-0645,21,Masculino,Casado(a),Graduação,Tecnologia,Desenvolvedor,1,2022-01-17,3,7250.0,21,Sim,Raramente,5,4,5,4,6,Sim,Não,,Não se aplica
+COL-0646,20,Não binário,União estável,Graduação,Atendimento,Assistente de Atendimento,1,2024-06-11,2,4500.0,22,Não,Frequentemente,3,4,1,3,6,Não,Sim,2025-01-18 11:37:39.915,Reestruturação organizacional
+COL-0647,57,Masculino,Solteiro(a),Graduação,Recursos Humanos,Business Partner,4,2016-04-12,9,11000.0,16,Não,Raramente,5,3,5,4,1,Não,Não,,Não se aplica
+COL-0648,38,Masculino,Casado(a),Graduação,Operações,Coordenador de Operações,3,2025-05-02,0,8250.0,16,Sim,Raramente,5,1,4,3,4,Não,Sim,2025-09-11 08:49:16.010,Remuneração e benefícios
+COL-0649,26,Masculino,Solteiro(a),Tecnólogo,Tecnologia,Desenvolvedor,2,2019-12-25,7,9900.0,32,Não,Raramente,4,2,4,3,3,Sim,Não,,Não se aplica
+COL-0650,26,Masculino,Casado(a),Ensino médio,Tecnologia,Desenvolvedor,2,2019-01-02,6,8850.0,21,Sim,Raramente,1,4,5,2,0,Não,Não,,Não se aplica
+COL-0651,28,Feminino,Casado(a),Mestrado,Financeiro,Analista Financeiro,1,2018-05-27,7,6700.0,45,Sim,Frequentemente,3,4,1,3,6,Sim,Não,,Não se aplica
+COL-0652,58,Masculino,Casado(a),Tecnólogo,Marketing,Especialista de Marketing,4,2011-09-17,14,11650.0,43,Não,Raramente,3,4,5,4,2,Não,Não,,Não se aplica
+COL-0653,43,Masculino,Solteiro(a),Graduação,Comercial,Analista Comercial,3,2013-01-10,12,8800.0,23,Não,Nunca,3,4,4,3,0,Não,Não,,Não se aplica
+COL-0654,55,Masculino,União estável,Ensino médio,Tecnologia,Analista de Dados,4,2021-10-13,4,13100.0,36,Sim,Raramente,1,4,1,3,4,Não,Não,,Não se aplica
+COL-0655,25,Masculino,Solteiro(a),Graduação,Marketing,Analista de Marketing,2,2021-04-25,4,8200.0,51,Não,Nunca,3,3,5,3,6,Sim,Não,,Não se aplica
+COL-0656,58,Feminino,Casado(a),Pós-graduação,Tecnologia,Engenheiro de Dados,5,2020-08-09,6,14750.0,3,Não,Raramente,5,5,1,5,2,Não,Não,,Não se aplica
+COL-0657,58,Masculino,Divorciado(a),Mestrado,Financeiro,Controller,4,2025-10-22,0,11650.0,18,Não,Nunca,1,5,5,3,0,Não,Sim,2026-03-17 23:33:38.926,Remuneração e benefícios
+COL-0658,22,Feminino,Casado(a),Graduação,Comercial,Executivo de Contas,1,2023-05-04,2,6300.0,1,Sim,Raramente,5,3,3,5,2,Não,Não,,Não se aplica
+COL-0659,36,Masculino,Casado(a),Tecnólogo,Operações,Analista de Operações,2,2011-05-01,14,6900.0,49,Não,Raramente,3,4,4,3,2,Sim,Não,,Não se aplica
+COL-0660,39,Masculino,União estável,Mestrado,Operações,Coordenador de Operações,3,2019-04-13,6,9800.0,3,Sim,Frequentemente,5,5,2,3,1,Não,Não,,Não se aplica
+COL-0661,57,Masculino,União estável,Graduação,Operações,Coordenador de Operações,3,2013-05-26,12,9600.0,27,Não,Raramente,4,2,1,4,1,Sim,Não,,Não se aplica
+COL-0662,61,Masculino,União estável,Pós-graduação,Financeiro,Controller,4,2011-06-18,14,11900.0,25,Sim,Raramente,3,4,5,2,2,Não,Sim,2026-02-11 13:37:55.699,Nova oportunidade profissional
+COL-0663,52,Feminino,Solteiro(a),Tecnólogo,Atendimento,Supervisor de Atendimento,5,2022-07-12,4,10550.0,32,Não,Raramente,3,2,1,3,1,Sim,Sim,2024-02-11 08:16:48.720,Mudança de cidade
+COL-0664,54,Masculino,União estável,Graduação,Recursos Humanos,Especialista de Pessoas,5,2023-11-12,3,12750.0,46,Sim,Nunca,4,4,5,3,3,Não,Não,,Não se aplica
+COL-0665,38,Feminino,Casado(a),Pós-graduação,Recursos Humanos,Business Partner,3,2012-04-07,14,8450.0,11,Sim,Raramente,2,5,5,3,1,Sim,Sim,2024-05-04 12:44:22.319,Remuneração e benefícios
+COL-0666,38,Não binário,Solteiro(a),Pós-graduação,Operações,Analista de Operações,2,2017-02-20,8,7850.0,40,Sim,Raramente,4,2,3,4,4,Não,Não,,Não se aplica
+COL-0667,55,Masculino,União estável,Mestrado,Financeiro,Especialista Financeiro,5,2019-11-08,6,13050.0,42,Sim,Nunca,3,1,4,3,1,Não,Não,,Não se aplica
+COL-0668,51,Não binário,Casado(a),Graduação,Comercial,Analista Comercial,4,2020-05-19,5,10200.0,3,Não,Raramente,2,4,3,3,1,Sim,Não,,Não se aplica
+COL-0669,56,Masculino,União estável,Graduação,Operações,Coordenador de Operações,4,2021-03-22,5,11500.0,19,Não,Nunca,3,4,4,3,5,Não,Não,,Não se aplica
+COL-0670,29,Não binário,Solteiro(a),Mestrado,Operações,Coordenador de Operações,3,2015-01-21,10,9200.0,17,Sim,Raramente,5,5,2,4,3,Não,Não,,Não se aplica
+COL-0671,22,Feminino,Divorciado(a),Ensino médio,Atendimento,Assistente de Atendimento,1,2022-09-19,3,4700.0,4,Não,Nunca,2,4,4,3,2,Sim,Sim,2023-07-11 12:22:44.745,Mudança de cidade
+COL-0672,52,Feminino,Divorciado(a),Tecnólogo,Marketing,Especialista de Marketing,3,2024-05-10,1,9200.0,30,Não,Raramente,5,2,4,2,5,Não,Não,,Não se aplica
+COL-0673,55,Não binário,Casado(a),Graduação,Comercial,Gerente Comercial,5,2023-05-05,2,12650.0,24,Não,Frequentemente,5,3,1,4,1,Não,Sim,2025-05-11 06:17:35.206,Desempenho abaixo do esperado
+COL-0674,35,Não binário,Divorciado(a),Graduação,Tecnologia,Desenvolvedor,2,2025-10-12,0,9050.0,31,Não,Nunca,4,4,5,3,0,Não,Não,,Não se aplica
+COL-0675,48,Masculino,Solteiro(a),Pós-graduação,Financeiro,Controller,3,2016-10-05,9,9150.0,34,Não,Raramente,3,3,3,3,1,Não,Não,,Não se aplica
+COL-0676,45,Masculino,União estável,Graduação,Tecnologia,Analista de Dados,4,2023-12-24,2,12500.0,22,Sim,Raramente,1,3,1,5,2,Sim,Sim,2025-04-23 00:54:48.336,Reestruturação organizacional
+COL-0677,44,Feminino,Divorciado(a),Pós-graduação,Tecnologia,Analista de Dados,3,2015-07-28,10,10850.0,5,Não,Nunca,3,4,1,3,3,Não,Não,,Não se aplica
+COL-0678,60,Masculino,Casado(a),Ensino médio,Atendimento,Analista de Atendimento,4,2022-12-26,4,8850.0,22,Sim,Raramente,3,2,2,4,0,Não,Não,,Não se aplica
+COL-0679,25,Masculino,Solteiro(a),Graduação,Tecnologia,Desenvolvedor,1,2019-05-13,6,7500.0,22,Não,Nunca,4,3,5,4,3,Sim,Não,,Não se aplica
+COL-0680,34,Masculino,Casado(a),Pós-graduação,Recursos Humanos,Analista de RH,2,2024-10-03,1,7550.0,29,Não,Frequentemente,1,5,1,3,3,Não,Sim,2025-10-11 10:29:25.636,Nova oportunidade profissional
+COL-0681,60,Masculino,Divorciado(a),Graduação,Marketing,Coordenador de Marketing,5,2022-06-11,3,12650.0,3,Sim,Nunca,3,1,3,4,5,Não,Não,,Não se aplica
+COL-0682,38,Feminino,Casado(a),Ensino médio,Marketing,Analista de Marketing,2,2018-04-02,7,8450.0,35,Não,Nunca,4,4,4,3,1,Sim,Não,,Não se aplica
+COL-0683,58,Masculino,Solteiro(a),Mestrado,Tecnologia,Engenheiro de Dados,5,2026-04-05,0,13900.0,36,Não,Raramente,2,2,3,3,1,Não,Sim,2026-07-14 08:38:06.189,Mudança de cidade
+COL-0684,61,Masculino,Divorciado(a),Ensino médio,Comercial,Gerente Comercial,5,2013-05-10,12,12650.0,19,Sim,Nunca,4,3,2,2,2,Não,Sim,2023-04-12 11:23:04.197,Reestruturação organizacional
+COL-0685,26,Masculino,Solteiro(a),Pós-graduação,Atendimento,Assistente de Atendimento,1,2017-07-28,8,4250.0,33,Não,Nunca,4,3,2,4,1,Não,Não,,Não se aplica
+COL-0686,54,Não binário,Divorciado(a),Graduação,Financeiro,Controller,3,2026-07-13,0,9500.0,12,Não,Raramente,1,4,2,4,3,Não,Não,,Não se aplica
+COL-0687,55,Não binário,Casado(a),Graduação,Tecnologia,Analista de Dados,4,2018-11-18,7,13050.0,34,Sim,Raramente,1,5,1,5,6,Não,Não,,Não se aplica
+COL-0688,44,Feminino,União estável,Tecnólogo,Comercial,Analista Comercial,4,2015-12-09,11,11550.0,20,Sim,Raramente,3,4,5,2,2,Não,Sim,2023-11-03 19:25:58.435,Mudança de cidade
+COL-0689,22,Masculino,Solteiro(a),Graduação,Tecnologia,Desenvolvedor,1,2022-01-11,4,7400.0,44,Sim,Raramente,3,2,2,2,4,Sim,Não,,Não se aplica
+COL-0690,34,Feminino,Casado(a),Pós-graduação,Operações,Analista de Operações,2,2025-08-08,0,7950.0,21,Não,Frequentemente,4,1,1,5,5,Não,Não,,Não se aplica
+COL-0691,38,Feminino,Casado(a),Graduação,Recursos Humanos,Analista de RH,2,2012-03-22,13,7200.0,18,Não,Nunca,4,3,3,4,1,Não,Não,,Não se aplica
+COL-0692,36,Feminino,União estável,Pós-graduação,Marketing,Analista de Marketing,2,2018-01-05,8,7350.0,22,Sim,Raramente,4,3,3,5,4,Não,Não,,Não se aplica
+COL-0693,43,Masculino,Casado(a),Ensino médio,Atendimento,Analista de Atendimento,3,2025-11-26,0,8450.0,42,Não,Raramente,3,1,2,3,3,Não,Não,,Não se aplica
+COL-0694,43,Não binário,Divorciado(a),Tecnólogo,Marketing,Especialista de Marketing,3,2015-09-22,11,9350.0,45,Não,Nunca,3,3,5,4,5,Não,Não,,Não se aplica
+COL-0695,58,Masculino,Casado(a),Pós-graduação,Operações,Especialista de Processos,5,2014-11-12,12,11900.0,3,Não,Nunca,4,2,3,4,4,Não,Não,,Não se aplica
+COL-0696,27,Feminino,Solteiro(a),Ensino médio,Marketing,Analista de Marketing,2,2017-09-15,8,7500.0,47,Não,Raramente,4,1,5,4,4,Não,Não,,Não se aplica
+COL-0697,49,Feminino,Casado(a),Pós-graduação,Tecnologia,Analista de Dados,4,2024-05-03,1,12900.0,36,Não,Frequentemente,3,2,4,4,4,Não,Não,,Não se aplica
+COL-0698,31,Masculino,União estável,Pós-graduação,Atendimento,Assistente de Atendimento,1,2022-04-03,3,3900.0,46,Não,Raramente,3,3,4,4,1,Não,Não,,Não se aplica
+COL-0699,31,Não binário,Casado(a),Graduação,Recursos Humanos,Business Partner,3,2015-07-24,10,9550.0,4,Sim,Raramente,3,1,2,3,1,Não,Não,,Não se aplica
+COL-0700,21,Masculino,Casado(a),Ensino médio,Financeiro,Analista Financeiro,1,2025-03-17,0,6150.0,38,Não,Nunca,3,4,5,4,6,Não,Não,,Não se aplica
+COL-0701,60,Masculino,Casado(a),Pós-graduação,Atendimento,Analista de Atendimento,4,2020-01-08,6,9250.0,47,Não,Nunca,3,1,4,3,1,Não,Não,,Não se aplica
+COL-0702,33,Feminino,Solteiro(a),Ensino médio,Financeiro,Analista Financeiro,2,2013-11-10,12,7350.0,11,Sim,Nunca,5,4,4,3,5,Não,Não,,Não se aplica
+COL-0703,44,Masculino,Casado(a),Ensino médio,Recursos Humanos,Business Partner,3,2012-04-02,14,9100.0,42,Sim,Frequentemente,5,4,4,3,4,Sim,Não,,Não se aplica
+COL-0704,49,Feminino,Casado(a),Tecnólogo,Operações,Coordenador de Operações,3,2022-01-21,3,8900.0,5,Não,Raramente,2,4,2,4,1,Não,Não,,Não se aplica
+COL-0705,39,Feminino,União estável,Mestrado,Marketing,Analista de Marketing,2,2023-02-21,2,8500.0,42,Não,Raramente,4,2,4,3,6,Não,Sim,2024-05-30 15:06:06.698,Reestruturação organizacional
+COL-0706,30,Feminino,Casado(a),Mestrado,Operações,Analista de Operações,1,2024-05-19,1,4950.0,4,Não,Frequentemente,1,3,1,2,1,Não,Sim,2024-12-29 07:58:10.062,Remuneração e benefícios
+COL-0707,30,Masculino,Solteiro(a),Tecnólogo,Atendimento,Assistente de Atendimento,1,2026-01-25,0,4450.0,1,Não,Raramente,3,5,3,3,0,Não,Não,,Não se aplica
+COL-0708,23,Masculino,União estável,Pós-graduação,Financeiro,Analista Financeiro,1,2024-02-24,2,5700.0,27,Não,Frequentemente,1,1,3,4,2,Não,Não,,Não se aplica
+COL-0709,52,Feminino,Solteiro(a),Ensino médio,Financeiro,Controller,3,2016-12-03,9,9400.0,33,Sim,Frequentemente,5,2,5,2,1,Não,Não,,Não se aplica
+COL-0710,23,Não binário,Casado(a),Tecnólogo,Recursos Humanos,Analista de RH,2,2021-03-05,4,8350.0,23,Não,Nunca,4,2,4,4,2,Sim,Não,,Não se aplica
+COL-0711,48,Masculino,Solteiro(a),Tecnólogo,Tecnologia,Analista de Dados,4,2020-06-08,5,12150.0,9,Não,Nunca,3,3,1,3,5,Sim,Não,,Não se aplica
+COL-0712,44,Feminino,Solteiro(a),Mestrado,Tecnologia,Desenvolvedor,2,2024-07-22,1,9700.0,47,Não,Nunca,1,5,5,4,4,Não,Não,,Não se aplica
+COL-0713,24,Masculino,Casado(a),Pós-graduação,Operações,Analista de Operações,1,2024-11-26,2,5950.0,44,Não,Frequentemente,4,2,5,3,5,Não,Não,,Não se aplica
+COL-0714,35,Masculino,Divorciado(a),Tecnólogo,Financeiro,Analista Financeiro,2,2020-02-13,5,8600.0,21,Não,Raramente,2,3,4,4,2,Não,Sim,2022-06-13 20:50:53.138,Nova oportunidade profissional
+COL-0715,39,Feminino,Casado(a),Graduação,Atendimento,Assistente de Atendimento,2,2013-08-25,12,6600.0,38,Não,Nunca,3,2,2,5,5,Não,Não,,Não se aplica
+COL-0716,60,Masculino,Divorciado(a),Graduação,Tecnologia,Engenheiro de Dados,5,2012-11-24,13,13200.0,37,Não,Frequentemente,4,1,2,3,1,Sim,Não,,Não se aplica
+COL-0717,25,Masculino,Casado(a),Tecnólogo,Atendimento,Assistente de Atendimento,2,2023-04-13,2,6650.0,15,Não,Frequentemente,4,1,4,5,1,Não,Sim,2024-12-15 23:21:23.419,Reestruturação organizacional
+COL-0718,52,Masculino,União estável,Tecnólogo,Operações,Coordenador de Operações,3,2013-10-28,12,9750.0,15,Não,Raramente,5,5,5,3,0,Sim,Sim,2025-03-26 02:57:03.699,Mudança de cidade
+COL-0719,58,Não binário,Casado(a),Ensino médio,Comercial,Gerente Comercial,5,2020-04-18,5,11950.0,35,Não,Frequentemente,1,2,3,3,6,Não,Não,,Não se aplica
+COL-0720,33,Masculino,União estável,Ensino médio,Operações,Coordenador de Operações,3,2012-11-10,14,8300.0,8,Sim,Frequentemente,2,3,2,5,3,Sim,Não,,Não se aplica
+COL-0721,20,Masculino,Casado(a),Graduação,Tecnologia,Desenvolvedor,1,2024-08-14,1,7900.0,52,Não,Nunca,3,4,4,3,4,Não,Sim,2026-05-23 07:55:28.714,Reestruturação organizacional
+COL-0722,53,Não binário,União estável,Ensino médio,Operações,Coordenador de Operações,3,2022-01-16,3,8450.0,20,Sim,Raramente,2,4,2,3,3,Sim,Sim,2026-03-31 10:44:53.184,Qualidade de vida
+COL-0723,32,Feminino,Casado(a),Tecnólogo,Tecnologia,Desenvolvedor,1,2023-01-10,3,8000.0,43,Não,Raramente,1,3,5,4,1,Não,Não,,Não se aplica
+COL-0724,33,Feminino,Casado(a),Mestrado,Marketing,Analista de Marketing,2,2024-02-11,1,8300.0,41,Não,Nunca,5,4,5,5,4,Não,Sim,2026-06-25 04:00:30.198,Remuneração e benefícios
+COL-0725,38,Não binário,Casado(a),Pós-graduação,Marketing,Analista de Marketing,2,2018-08-05,8,7600.0,44,Não,Raramente,1,4,1,4,3,Não,Não,,Não se aplica
+COL-0726,60,Feminino,Solteiro(a),Mestrado,Tecnologia,Analista de Dados,4,2025-08-09,1,11650.0,49,Sim,Nunca,3,5,1,2,3,Não,Não,,Não se aplica
+COL-0727,27,Não binário,Solteiro(a),Pós-graduação,Comercial,Executivo de Contas,1,2018-02-07,7,5550.0,31,Sim,Raramente,3,1,3,2,2,Não,Não,,Não se aplica
+COL-0728,28,Masculino,União estável,Mestrado,Atendimento,Assistente de Atendimento,1,2026-06-22,0,4450.0,46,Não,Frequentemente,1,2,1,3,6,Não,Não,,Não se aplica
+COL-0729,39,Masculino,Casado(a),Ensino médio,Tecnologia,Desenvolvedor,2,2022-01-07,4,8400.0,7,Sim,Raramente,5,2,2,4,6,Não,Não,,Não se aplica
+COL-0730,56,Não binário,União estável,Graduação,Comercial,Analista Comercial,4,2025-09-01,0,10950.0,12,Não,Raramente,4,1,2,2,1,Não,Não,,Não se aplica
+COL-0731,57,Não binário,Solteiro(a),Graduação,Recursos Humanos,Business Partner,4,2015-03-08,11,11200.0,8,Sim,Raramente,3,2,3,4,5,Não,Não,,Não se aplica
+COL-0732,49,Feminino,União estável,Ensino médio,Marketing,Especialista de Marketing,4,2024-07-01,1,11800.0,41,Não,Raramente,4,2,1,4,3,Não,Sim,2025-03-05 23:30:55.445,Falta de perspectiva de crescimento
+COL-0733,44,Feminino,Casado(a),Ensino médio,Comercial,Analista Comercial,3,2014-05-21,11,9350.0,26,Não,Raramente,5,3,3,3,5,Sim,Não,,Não se aplica
+COL-0734,55,Feminino,Divorciado(a),Graduação,Comercial,Analista Comercial,3,2019-07-24,6,8800.0,1,Não,Frequentemente,3,3,2,5,2,Não,Não,,Não se aplica
+COL-0735,55,Feminino,Solteiro(a),Pós-graduação,Tecnologia,Engenheiro de Dados,5,2026-06-25,0,14150.0,3,Não,Raramente,1,1,2,3,3,Não,Não,,Não se aplica
+COL-0736,54,Masculino,União estável,Ensino médio,Financeiro,Controller,4,2022-11-15,3,12100.0,24,Não,Frequentemente,2,3,1,2,6,Não,Não,,Não se aplica
+COL-0737,51,Feminino,Solteiro(a),Pós-graduação,Tecnologia,Analista de Dados,3,2024-12-06,1,11150.0,22,Não,Raramente,5,1,3,2,1,Não,Não,,Não se aplica
+COL-0738,58,Masculino,Casado(a),Graduação,Atendimento,Supervisor de Atendimento,5,2019-11-04,7,10500.0,27,Sim,Nunca,1,2,4,3,5,Não,Sim,2022-11-16 00:39:12.656,Qualidade de vida
+COL-0739,45,Feminino,União estável,Tecnólogo,Comercial,Analista Comercial,4,2011-11-26,14,10400.0,43,Sim,Nunca,4,2,4,2,0,Não,Não,,Não se aplica
+COL-0740,41,Feminino,Solteiro(a),Mestrado,Operações,Analista de Operações,2,2025-08-12,1,7700.0,43,Sim,Nunca,3,5,2,3,5,Não,Sim,2026-05-17 19:07:04.163,Mudança de cidade
+COL-0741,53,Não binário,Casado(a),Pós-graduação,Tecnologia,Analista de Dados,4,2012-11-26,13,13050.0,23,Não,Frequentemente,2,2,5,3,0,Não,Sim,2023-09-04 08:23:58.787,Nova oportunidade profissional
+COL-0742,29,Não binário,Solteiro(a),Graduação,Comercial,Executivo de Contas,1,2015-07-16,10,6300.0,30,Não,Raramente,2,3,3,3,3,Sim,Sim,2024-07-10 23:47:59.832,Desempenho abaixo do esperado
+COL-0743,24,Feminino,Divorciado(a),Tecnólogo,Atendimento,Assistente de Atendimento,1,2021-08-02,4,4650.0,43,Não,Nunca,3,3,1,3,6,Não,Não,,Não se aplica
+COL-0744,22,Masculino,Divorciado(a),Mestrado,Operações,Analista de Operações,2,2021-10-12,4,8150.0,20,Sim,Frequentemente,5,5,2,4,4,Não,Não,,Não se aplica
+COL-0745,54,Masculino,União estável,Tecnólogo,Atendimento,Analista de Atendimento,4,2016-07-08,10,10350.0,10,Não,Nunca,1,2,1,4,6,Sim,Não,,Não se aplica
+COL-0746,23,Masculino,União estável,Graduação,Recursos Humanos,Analista de RH,1,2021-03-20,4,5850.0,15,Sim,Raramente,3,1,1,3,0,Não,Sim,2022-06-30 13:19:10.362,Falta de perspectiva de crescimento
+COL-0747,42,Masculino,Casado(a),Graduação,Atendimento,Analista de Atendimento,3,2017-11-25,9,8550.0,39,Não,Raramente,1,3,4,5,0,Não,Sim,2023-03-22 08:42:29.514,Qualidade de vida
+COL-0748,31,Masculino,Solteiro(a),Graduação,Marketing,Analista de Marketing,2,2020-05-27,5,7200.0,12,Sim,Frequentemente,3,1,4,3,2,Não,Não,,Não se aplica
+COL-0749,40,Masculino,Solteiro(a),Mestrado,Tecnologia,Desenvolvedor,2,2022-08-11,4,8250.0,11,Não,Raramente,1,4,2,3,3,Não,Não,,Não se aplica
+COL-0750,52,Masculino,União estável,Graduação,Atendimento,Analista de Atendimento,4,2021-08-06,4,10400.0,6,Sim,Raramente,2,4,3,3,4,Não,Não,,Não se aplica
+COL-0751,55,Masculino,Casado(a),Mestrado,Recursos Humanos,Business Partner,3,2017-02-23,8,8500.0,21,Não,Frequentemente,2,5,1,4,0,Não,Sim,2023-08-23 02:03:39.414,Falta de perspectiva de crescimento
+COL-0752,59,Feminino,Casado(a),Ensino médio,Operações,Especialista de Processos,5,2018-11-21,7,11750.0,40,Não,Nunca,3,5,4,5,2,Sim,Não,,Não se aplica
+COL-0753,43,Masculino,Casado(a),Mestrado,Marketing,Especialista de Marketing,3,2017-12-04,8,9450.0,8,Não,Frequentemente,3,3,3,5,0,Não,Não,,Não se aplica
+COL-0754,57,Masculino,Casado(a),Mestrado,Comercial,Analista Comercial,4,2019-12-04,6,11250.0,29,Não,Frequentemente,5,4,4,3,4,Não,Não,,Não se aplica
+COL-0755,57,Não binário,Casado(a),Graduação,Comercial,Gerente Comercial,5,2020-03-07,5,13400.0,48,Não,Frequentemente,1,2,3,3,1,Não,Não,,Não se aplica
+COL-0756,25,Feminino,Casado(a),Graduação,Marketing,Analista de Marketing,1,2019-03-12,6,5950.0,24,Não,Nunca,4,2,3,4,1,Não,Não,,Não se aplica
+COL-0757,58,Masculino,Casado(a),Tecnólogo,Financeiro,Especialista Financeiro,5,2019-11-16,7,13550.0,5,Não,Raramente,2,1,2,3,4,Não,Não,,Não se aplica
+COL-0758,48,Feminino,Solteiro(a),Graduação,Atendimento,Analista de Atendimento,4,2025-06-22,0,8750.0,46,Sim,Raramente,4,2,1,5,3,Não,Sim,2026-07-17 11:30:45.212,Mudança de cidade
+COL-0759,23,Masculino,União estável,Tecnólogo,Marketing,Analista de Marketing,1,2023-04-09,3,5350.0,20,Não,Raramente,3,3,5,3,3,Sim,Não,,Não se aplica
+COL-0760,58,Feminino,Solteiro(a),Ensino médio,Tecnologia,Analista de Dados,4,2014-04-01,12,11750.0,32,Não,Nunca,1,1,3,4,3,Não,Não,,Não se aplica
+COL-0761,61,Feminino,Divorciado(a),Pós-graduação,Recursos Humanos,Especialista de Pessoas,5,2015-12-15,10,12900.0,22,Não,Frequentemente,5,3,2,4,5,Sim,Não,,Não se aplica
+COL-0762,41,Masculino,União estável,Graduação,Comercial,Executivo de Contas,2,2020-03-20,6,8050.0,10,Não,Nunca,3,2,5,3,2,Não,Não,,Não se aplica
+COL-0763,59,Feminino,Solteiro(a),Graduação,Atendimento,Supervisor de Atendimento,5,2013-11-22,12,11150.0,30,Sim,Nunca,5,2,1,4,6,Não,Sim,2024-12-16 01:55:00.982,Mudança de cidade
+COL-0764,36,Masculino,Solteiro(a),Graduação,Atendimento,Assistente de Atendimento,2,2013-02-26,12,6650.0,23,Não,Raramente,4,3,5,2,2,Não,Não,,Não se aplica
+COL-0765,24,Feminino,Casado(a),Graduação,Financeiro,Analista Financeiro,1,2020-11-01,6,5950.0,37,Não,Nunca,3,1,5,2,0,Não,Sim,2024-04-03 23:56:17.426,Nova oportunidade profissional
+COL-0766,30,Feminino,Solteiro(a),Ensino médio,Marketing,Analista de Marketing,2,2017-04-23,8,8450.0,38,Não,Raramente,4,2,3,4,3,Não,Não,,Não se aplica
+COL-0767,50,Feminino,União estável,Tecnólogo,Financeiro,Controller,4,2014-12-22,11,11300.0,24,Não,Raramente,4,3,1,5,3,Não,Sim,2024-03-02 03:08:19.420,Nova oportunidade profissional
+COL-0768,51,Feminino,Divorciado(a),Graduação,Comercial,Analista Comercial,4,2021-02-24,4,10150.0,52,Não,Frequentemente,1,4,2,3,2,Não,Não,,Não se aplica
+COL-0769,29,Masculino,União estável,Pós-graduação,Atendimento,Assistente de Atendimento,2,2015-05-28,11,6300.0,28,Sim,Raramente,3,2,3,3,3,Sim,Não,,Não se aplica
+COL-0770,49,Não binário,Divorciado(a),Ensino médio,Recursos Humanos,Business Partner,4,2018-07-02,7,11600.0,26,Não,Raramente,3,4,3,3,6,Não,Não,,Não se aplica
+COL-0771,48,Não binário,Casado(a),Graduação,Recursos Humanos,Business Partner,3,2013-07-25,12,9200.0,51,Não,Raramente,1,3,4,3,2,Sim,Não,,Não se aplica
+COL-0772,31,Não binário,Casado(a),Ensino médio,Atendimento,Analista de Atendimento,3,2025-02-13,0,7100.0,49,Não,Frequentemente,1,3,5,3,6,Não,Sim,2025-12-05 17:22:41.383,Reestruturação organizacional
+COL-0773,34,Feminino,União estável,Graduação,Atendimento,Analista de Atendimento,3,2012-07-15,14,7450.0,19,Não,Frequentemente,2,3,3,2,1,Sim,Não,,Não se aplica
+COL-0774,40,Feminino,Casado(a),Pós-graduação,Financeiro,Analista Financeiro,2,2012-08-17,13,8100.0,26,Sim,Nunca,2,1,4,3,6,Não,Sim,2024-07-06 07:21:43.583,Qualidade de vida
+COL-0775,38,Masculino,Divorciado(a),Pós-graduação,Recursos Humanos,Business Partner,3,2013-01-04,12,8900.0,10,Não,Frequentemente,3,5,5,2,3,Não,Não,,Não se aplica
+COL-0776,40,Feminino,União estável,Tecnólogo,Atendimento,Assistente de Atendimento,2,2019-03-26,7,6350.0,18,Não,Nunca,1,4,2,4,4,Não,Sim,2023-03-21 16:10:55.453,Reestruturação organizacional
+COL-0777,36,Masculino,Casado(a),Pós-graduação,Operações,Coordenador de Operações,3,2019-02-12,7,9500.0,50,Sim,Nunca,3,1,4,4,2,Não,Sim,2025-12-27 13:44:29.441,Remuneração e benefícios
+COL-0778,26,Feminino,Solteiro(a),Graduação,Comercial,Executivo de Contas,1,2018-02-21,7,5400.0,1,Sim,Nunca,3,1,5,3,0,Sim,Não,,Não se aplica
+COL-0779,61,Feminino,Divorciado(a),Ensino médio,Comercial,Gerente Comercial,5,2012-12-08,13,12300.0,8,Não,Frequentemente,2,1,5,5,3,Não,Não,,Não se aplica
+COL-0780,37,Não binário,Divorciado(a),Graduação,Tecnologia,Analista de Dados,3,2013-11-16,12,11000.0,38,Não,Nunca,1,2,3,4,0,Não,Não,,Não se aplica
+COL-0781,59,Feminino,União estável,Graduação,Atendimento,Analista de Atendimento,4,2015-07-17,11,9300.0,37,Sim,Raramente,2,4,3,4,6,Não,Sim,2023-12-31 01:20:23.564,Mudança de cidade
+COL-0782,30,Feminino,Divorciado(a),Mestrado,Recursos Humanos,Business Partner,3,2017-01-21,9,8600.0,20,Sim,Frequentemente,4,4,3,3,5,Não,Não,,Não se aplica
+COL-0783,32,Masculino,União estável,Mestrado,Marketing,Analista de Marketing,2,2014-10-22,12,7450.0,18,Sim,Nunca,3,5,3,4,1,Sim,Não,,Não se aplica
+COL-0784,48,Não binário,União estável,Mestrado,Tecnologia,Analista de Dados,3,2017-06-20,8,9850.0,10,Não,Raramente,3,3,4,4,6,Sim,Não,,Não se aplica
+COL-0785,47,Masculino,Casado(a),Ensino médio,Atendimento,Analista de Atendimento,3,2018-11-01,7,7250.0,36,Sim,Raramente,3,3,5,4,3,Não,Não,,Não se aplica
+COL-0786,54,Masculino,Divorciado(a),Ensino médio,Tecnologia,Engenheiro de Dados,5,2013-09-01,13,13200.0,49,Sim,Frequentemente,1,3,4,2,4,Sim,Não,,Não se aplica
+COL-0787,45,Masculino,Divorciado(a),Graduação,Recursos Humanos,Business Partner,3,2016-02-04,10,8550.0,43,Sim,Frequentemente,1,5,5,3,4,Não,Não,,Não se aplica
+COL-0788,26,Não binário,Solteiro(a),Graduação,Recursos Humanos,Analista de RH,2,2018-10-19,8,8000.0,45,Sim,Raramente,3,4,1,3,3,Sim,Sim,2025-04-02 09:27:31.752,Remuneração e benefícios
+COL-0789,22,Feminino,Casado(a),Ensino médio,Tecnologia,Desenvolvedor,1,2023-11-18,2,6800.0,38,Não,Nunca,5,4,1,3,1,Não,Sim,2025-11-12 05:15:22.044,Remuneração e benefícios
+COL-0790,42,Masculino,Solteiro(a),Graduação,Atendimento,Analista de Atendimento,4,2014-04-13,12,9700.0,38,Não,Nunca,4,5,3,3,4,Não,Sim,2022-06-26 04:26:30.315,Nova oportunidade profissional
+COL-0791,46,Feminino,Casado(a),Ensino médio,Operações,Coordenador de Operações,3,2022-01-23,4,9100.0,41,Não,Raramente,5,5,1,4,6,Não,Sim,2025-06-09 20:06:30.228,Desempenho abaixo do esperado
+COL-0792,55,Não binário,União estável,Ensino médio,Financeiro,Controller,4,2011-04-07,14,12200.0,44,Não,Frequentemente,3,5,5,5,6,Não,Não,,Não se aplica
+COL-0793,48,Não binário,Solteiro(a),Mestrado,Operações,Coordenador de Operações,3,2013-07-20,12,8900.0,52,Sim,Frequentemente,1,2,1,4,3,Sim,Sim,2026-05-25 02:00:50.527,Qualidade de vida
+COL-0794,52,Feminino,União estável,Mestrado,Marketing,Especialista de Marketing,4,2014-07-23,12,11000.0,19,Sim,Nunca,3,1,5,3,3,Não,Não,,Não se aplica
+COL-0795,41,Feminino,Casado(a),Graduação,Recursos Humanos,Business Partner,3,2011-10-26,14,8400.0,4,Sim,Frequentemente,2,3,3,3,3,Não,Não,,Não se aplica
+COL-0796,24,Feminino,Casado(a),Graduação,Comercial,Executivo de Contas,2,2021-07-07,5,7250.0,39,Sim,Raramente,4,5,2,4,2,Não,Não,,Não se aplica
+COL-0797,51,Masculino,Casado(a),Graduação,Comercial,Analista Comercial,3,2013-02-15,12,9450.0,32,Sim,Raramente,5,2,2,3,3,Sim,Não,,Não se aplica
+COL-0798,21,Feminino,Casado(a),Mestrado,Operações,Analista de Operações,1,2024-04-10,2,6400.0,28,Não,Raramente,4,5,5,4,1,Não,Não,,Não se aplica
+COL-0799,44,Masculino,União estável,Pós-graduação,Atendimento,Analista de Atendimento,3,2015-04-14,10,7350.0,40,Sim,Nunca,1,5,2,4,1,Não,Não,,Não se aplica
+COL-0800,41,Feminino,Solteiro(a),Tecnólogo,Marketing,Analista de Marketing,2,2014-07-25,12,6950.0,48,Não,Nunca,3,2,5,3,5,Não,Não,,Não se aplica
+COL-0801,27,Não binário,Casado(a),Tecnólogo,Tecnologia,Desenvolvedor,1,2019-07-02,7,7000.0,2,Sim,Raramente,1,3,4,4,0,Não,Sim,2023-12-26 21:46:39.822,Falta de perspectiva de crescimento
+COL-0802,60,Feminino,Casado(a),Pós-graduação,Operações,Especialista de Processos,5,2017-05-18,8,12250.0,35,Sim,Nunca,5,1,5,4,0,Sim,Sim,2022-01-17 07:16:21.977,Falta de perspectiva de crescimento
+COL-0803,20,Masculino,União estável,Pós-graduação,Operações,Analista de Operações,2,2024-05-06,1,7400.0,24,Sim,Raramente,5,4,3,5,1,Não,Não,,Não se aplica
+COL-0804,24,Feminino,Divorciado(a),Mestrado,Tecnologia,Desenvolvedor,1,2023-09-19,2,7000.0,17,Sim,Raramente,2,5,1,3,2,Sim,Não,,Não se aplica
+COL-0805,36,Não binário,Solteiro(a),Mestrado,Recursos Humanos,Business Partner,3,2019-11-10,6,9900.0,38,Sim,Raramente,5,1,5,3,0,Sim,Não,,Não se aplica
+COL-0806,26,Masculino,União estável,Graduação,Tecnologia,Desenvolvedor,1,2025-01-11,0,7450.0,26,Não,Raramente,3,3,3,3,4,Não,Não,,Não se aplica
+COL-0807,21,Feminino,Divorciado(a),Tecnólogo,Marketing,Analista de Marketing,1,2025-06-07,1,5300.0,22,Não,Raramente,3,5,5,4,5,Não,Não,,Não se aplica
+COL-0808,34,Não binário,Casado(a),Graduação,Comercial,Executivo de Contas,2,2012-10-13,13,8500.0,38,Não,Raramente,1,1,5,2,1,Sim,Não,,Não se aplica
+COL-0809,42,Masculino,Solteiro(a),Pós-graduação,Operações,Coordenador de Operações,3,2016-05-06,9,9350.0,22,Não,Raramente,2,1,3,5,5,Não,Sim,2024-03-15 22:54:47.190,Remuneração e benefícios
+COL-0810,48,Masculino,Solteiro(a),Mestrado,Recursos Humanos,Business Partner,4,2011-04-18,14,11500.0,41,Não,Raramente,3,2,2,5,2,Não,Sim,2026-01-29 01:56:07.495,Nova oportunidade profissional
+COL-0811,55,Não binário,Casado(a),Graduação,Financeiro,Especialista Financeiro,5,2020-07-06,6,13400.0,38,Sim,Frequentemente,4,1,2,3,0,Não,Não,,Não se aplica
+COL-0812,51,Feminino,Casado(a),Mestrado,Recursos Humanos,Business Partner,4,2021-09-10,4,10500.0,35,Sim,Nunca,4,3,5,3,5,Não,Não,,Não se aplica
+COL-0813,61,Masculino,União estável,Pós-graduação,Financeiro,Controller,4,2013-09-28,12,10600.0,47,Sim,Frequentemente,5,4,1,4,5,Sim,Sim,2025-09-12 00:54:58.343,Nova oportunidade profissional
+COL-0814,52,Feminino,Casado(a),Pós-graduação,Atendimento,Analista de Atendimento,4,2021-10-02,4,10400.0,38,Não,Frequentemente,3,2,3,4,3,Sim,Não,,Não se aplica
+COL-0815,54,Masculino,União estável,Pós-graduação,Marketing,Especialista de Marketing,3,2021-05-12,5,9250.0,19,Não,Nunca,2,5,5,5,3,Não,Não,,Não se aplica
+COL-0816,24,Feminino,Casado(a),Mestrado,Financeiro,Analista Financeiro,1,2021-12-09,5,6900.0,5,Sim,Frequentemente,3,3,1,3,6,Não,Não,,Não se aplica
+COL-0817,23,Feminino,Divorciado(a),Tecnólogo,Atendimento,Assistente de Atendimento,2,2024-09-01,1,5500.0,41,Não,Raramente,1,4,2,4,1,Não,Sim,2025-04-09 18:34:25.118,Qualidade de vida
+COL-0818,26,Feminino,Casado(a),Pós-graduação,Comercial,Executivo de Contas,1,2024-04-19,1,6250.0,21,Sim,Nunca,5,5,1,2,1,Não,Não,,Não se aplica
+COL-0819,22,Feminino,Casado(a),Graduação,Operações,Analista de Operações,2,2026-07-12,0,6700.0,3,Sim,Raramente,4,4,3,5,6,Não,Não,,Não se aplica
+COL-0820,58,Feminino,Solteiro(a),Graduação,Comercial,Gerente Comercial,5,2025-04-27,0,12650.0,8,Sim,Raramente,4,4,2,3,6,Não,Sim,2025-11-02 07:44:15.880,Desempenho abaixo do esperado
+COL-0821,34,Feminino,União estável,Ensino médio,Operações,Analista de Operações,2,2014-06-16,12,6750.0,20,Não,Raramente,4,4,3,5,3,Não,Não,,Não se aplica
+COL-0822,28,Masculino,Casado(a),Tecnólogo,Marketing,Analista de Marketing,2,2021-01-06,4,7450.0,47,Não,Raramente,4,2,2,4,5,Sim,Não,,Não se aplica
+COL-0823,53,Feminino,Casado(a),Ensino médio,Tecnologia,Analista de Dados,4,2014-05-27,12,13150.0,26,Sim,Raramente,4,4,4,2,3,Não,Não,,Não se aplica
+COL-0824,38,Feminino,Casado(a),Graduação,Marketing,Especialista de Marketing,3,2025-05-15,1,9850.0,52,Sim,Raramente,1,5,3,2,1,Não,Não,,Não se aplica
+COL-0825,22,Feminino,Casado(a),Pós-graduação,Atendimento,Assistente de Atendimento,1,2022-04-18,4,4250.0,5,Não,Raramente,1,2,1,2,1,Sim,Não,,Não se aplica
+COL-0826,23,Feminino,Solteiro(a),Graduação,Atendimento,Assistente de Atendimento,1,2025-07-22,0,4650.0,2,Não,Raramente,4,2,2,3,4,Não,Sim,2026-03-17 12:08:39.135,Mudança de cidade
+COL-0827,58,Feminino,Casado(a),Tecnólogo,Financeiro,Especialista Financeiro,5,2016-02-22,10,13650.0,37,Sim,Raramente,5,5,1,3,3,Não,Não,,Não se aplica
+COL-0828,61,Não binário,Casado(a),Graduação,Tecnologia,Engenheiro de Dados,5,2017-11-17,9,13550.0,47,Não,Raramente,5,2,5,4,5,Sim,Não,,Não se aplica
+COL-0829,51,Masculino,Casado(a),Graduação,Financeiro,Controller,3,2016-08-27,10,9350.0,18,Não,Raramente,4,2,5,5,4,Não,Não,,Não se aplica
+COL-0830,38,Masculino,Solteiro(a),Mestrado,Atendimento,Assistente de Atendimento,2,2018-03-28,7,6350.0,31,Sim,Frequentemente,1,4,3,4,6,Não,Não,,Não se aplica
+COL-0831,40,Feminino,Divorciado(a),Graduação,Comercial,Executivo de Contas,2,2024-04-15,1,7200.0,8,Sim,Raramente,3,4,4,3,1,Não,Não,,Não se aplica
+COL-0832,44,Não binário,Casado(a),Mestrado,Recursos Humanos,Business Partner,4,2017-07-20,8,11050.0,15,Não,Frequentemente,1,2,5,2,2,Não,Não,,Não se aplica
+COL-0833,36,Feminino,União estável,Mestrado,Atendimento,Assistente de Atendimento,2,2012-06-13,14,6750.0,9,Não,Raramente,5,3,2,3,1,Sim,Não,,Não se aplica
+COL-0834,37,Masculino,Casado(a),Graduação,Comercial,Executivo de Contas,2,2013-05-18,12,7250.0,9,Sim,Nunca,3,1,5,4,2,Sim,Não,,Não se aplica
+COL-0835,46,Masculino,Solteiro(a),Graduação,Recursos Humanos,Business Partner,3,2012-05-10,13,10000.0,5,Não,Nunca,4,3,2,3,6,Não,Não,,Não se aplica
+COL-0836,36,Masculino,Casado(a),Graduação,Recursos Humanos,Analista de RH,1,2012-03-01,13,6300.0,30,Não,Raramente,2,5,2,5,0,Não,Sim,2024-01-19 02:49:46.883,Desempenho abaixo do esperado
+COL-0837,47,Não binário,União estável,Tecnólogo,Tecnologia,Analista de Dados,3,2017-09-09,8,10400.0,16,Não,Raramente,4,5,5,3,0,Não,Não,,Não se aplica
+COL-0838,31,Feminino,Solteiro(a),Ensino médio,Atendimento,Assistente de Atendimento,1,2016-12-24,10,5250.0,20,Sim,Raramente,2,2,2,4,0,Não,Sim,2022-11-04 22:03:38.518,Qualidade de vida
+COL-0839,46,Masculino,Divorciado(a),Ensino médio,Marketing,Especialista de Marketing,4,2012-04-01,13,10750.0,47,Não,Nunca,1,4,3,4,3,Não,Não,,Não se aplica
+COL-0840,23,Não binário,Casado(a),Pós-graduação,Comercial,Executivo de Contas,2,2025-04-09,1,7750.0,14,Não,Nunca,1,3,5,5,4,Não,Não,,Não se aplica
+COL-0841,38,Feminino,União estável,Tecnólogo,Operações,Analista de Operações,2,2015-01-24,11,7350.0,44,Não,Raramente,2,1,1,3,5,Não,Sim,2025-12-13 05:01:26.416,Qualidade de vida
+COL-0842,20,Masculino,Solteiro(a),Ensino médio,Comercial,Executivo de Contas,1,2023-09-11,2,5850.0,34,Sim,Frequentemente,4,2,5,4,1,Sim,Não,,Não se aplica
+COL-0843,28,Feminino,Solteiro(a),Tecnólogo,Tecnologia,Desenvolvedor,2,2017-08-02,8,9200.0,10,Sim,Nunca,1,5,2,5,4,Sim,Não,,Não se aplica
+COL-0844,56,Feminino,Solteiro(a),Tecnólogo,Financeiro,Controller,4,2013-07-10,13,11300.0,50,Não,Frequentemente,2,4,5,4,0,Não,Sim,2024-02-26 21:00:57.866,Remuneração e benefícios
+COL-0845,26,Feminino,Divorciado(a),Mestrado,Operações,Analista de Operações,1,2018-08-24,7,6500.0,48,Não,Raramente,5,4,1,2,1,Não,Sim,2025-12-22 10:32:26.934,Falta de perspectiva de crescimento
+COL-0846,39,Não binário,Divorciado(a),Pós-graduação,Financeiro,Analista Financeiro,2,2026-06-07,0,7750.0,43,Sim,Raramente,4,5,4,2,3,Não,Não,,Não se aplica
+COL-0847,55,Masculino,Divorciado(a),Graduação,Operações,Coordenador de Operações,3,2023-05-27,2,8350.0,36,Sim,Raramente,2,5,5,5,5,Não,Não,,Não se aplica
+COL-0848,46,Masculino,União estável,Graduação,Marketing,Especialista de Marketing,4,2018-05-02,7,10400.0,12,Sim,Nunca,1,1,2,3,2,Não,Sim,2023-02-23 07:12:51.551,Desempenho abaixo do esperado
+COL-0849,22,Não binário,Casado(a),Ensino médio,Comercial,Executivo de Contas,1,2024-01-05,2,5700.0,28,Não,Raramente,4,5,5,4,1,Sim,Não,,Não se aplica
+COL-0850,52,Não binário,União estável,Tecnólogo,Recursos Humanos,Especialista de Pessoas,5,2024-12-10,2,12900.0,43,Não,Frequentemente,1,5,3,5,0,Não,Não,,Não se aplica
+COL-0851,56,Não binário,Casado(a),Graduação,Recursos Humanos,Especialista de Pessoas,5,2022-09-17,4,12650.0,36,Não,Frequentemente,3,1,4,3,2,Sim,Não,,Não se aplica
+COL-0852,23,Masculino,Casado(a),Graduação,Operações,Analista de Operações,1,2024-08-06,1,5750.0,22,Não,Raramente,4,1,1,5,6,Não,Sim,2026-01-18 10:38:13.867,Qualidade de vida
+COL-0853,22,Não binário,União estável,Tecnólogo,Atendimento,Assistente de Atendimento,1,2025-05-02,0,5400.0,19,Sim,Frequentemente,1,3,4,5,0,Não,Sim,2026-03-21 09:39:58.325,Reestruturação organizacional
+COL-0854,45,Feminino,Divorciado(a),Tecnólogo,Operações,Coordenador de Operações,3,2021-04-22,5,9550.0,16,Sim,Raramente,1,3,5,3,1,Não,Não,,Não se aplica
+COL-0855,44,Masculino,Casado(a),Ensino médio,Comercial,Analista Comercial,4,2016-07-02,10,11350.0,26,Não,Frequentemente,4,5,1,4,0,Não,Não,,Não se aplica
+COL-0856,58,Feminino,União estável,Ensino médio,Atendimento,Analista de Atendimento,4,2020-10-12,5,9850.0,4,Não,Raramente,2,4,5,3,5,Não,Sim,2023-03-12 02:17:23.416,Reestruturação organizacional
+COL-0857,54,Masculino,Solteiro(a),Tecnólogo,Comercial,Analista Comercial,3,2024-07-08,1,8950.0,14,Não,Nunca,3,1,5,4,2,Não,Sim,2025-04-09 07:24:09.543,Reestruturação organizacional
+COL-0858,21,Feminino,Casado(a),Ensino médio,Atendimento,Assistente de Atendimento,1,2024-10-25,1,4150.0,45,Não,Raramente,1,5,4,4,0,Não,Não,,Não se aplica
+COL-0859,52,Feminino,Solteiro(a),Mestrado,Marketing,Especialista de Marketing,4,2022-10-06,4,11600.0,1,Sim,Raramente,4,4,3,5,1,Sim,Sim,2026-03-12 00:33:54.343,Mudança de cidade
+COL-0860,37,Masculino,Divorciado(a),Tecnólogo,Tecnologia,Desenvolvedor,2,2019-11-28,7,9450.0,13,Sim,Raramente,5,4,2,3,5,Não,Não,,Não se aplica
+COL-0861,28,Feminino,Divorciado(a),Ensino médio,Comercial,Executivo de Contas,1,2026-02-24,0,5350.0,24,Não,Raramente,2,5,3,3,0,Não,Sim,2026-06-05 07:27:34.685,Falta de perspectiva de crescimento
+COL-0862,40,Masculino,Casado(a),Mestrado,Operações,Coordenador de Operações,3,2026-01-08,0,9200.0,28,Não,Frequentemente,2,2,5,4,6,Não,Sim,2026-05-05 00:26:35.105,Qualidade de vida
+COL-0863,54,Feminino,Solteiro(a),Mestrado,Atendimento,Analista de Atendimento,4,2016-12-28,9,8700.0,5,Não,Raramente,2,2,5,3,5,Não,Não,,Não se aplica
+COL-0864,34,Feminino,Solteiro(a),Tecnólogo,Operações,Coordenador de Operações,3,2013-05-19,12,9250.0,3,Sim,Frequentemente,3,5,2,4,4,Não,Não,,Não se aplica
+COL-0865,55,Feminino,Casado(a),Graduação,Marketing,Especialista de Marketing,4,2011-07-16,14,10300.0,2,Não,Frequentemente,1,1,1,4,2,Não,Não,,Não se aplica
+COL-0866,38,Masculino,União estável,Ensino médio,Comercial,Analista Comercial,3,2016-08-02,10,9750.0,6,Não,Raramente,5,4,3,4,6,Sim,Não,,Não se aplica
+COL-0867,58,Feminino,Casado(a),Mestrado,Recursos Humanos,Especialista de Pessoas,5,2018-03-05,8,11800.0,39,Sim,Raramente,1,5,2,4,1,Não,Não,,Não se aplica
+COL-0868,46,Feminino,Casado(a),Mestrado,Marketing,Especialista de Marketing,3,2022-12-26,3,9800.0,16,Sim,Raramente,1,3,4,4,4,Sim,Sim,2026-07-26 10:54:49.848,Reestruturação organizacional
+COL-0869,48,Não binário,Solteiro(a),Graduação,Atendimento,Analista de Atendimento,4,2016-05-19,10,9650.0,8,Não,Frequentemente,2,3,4,4,6,Não,Não,,Não se aplica
+COL-0870,24,Masculino,Solteiro(a),Graduação,Marketing,Analista de Marketing,2,2025-06-24,1,8550.0,13,Não,Nunca,5,3,5,2,0,Não,Não,,Não se aplica
+COL-0871,31,Feminino,União estável,Graduação,Comercial,Executivo de Contas,2,2025-05-06,0,7350.0,39,Não,Nunca,5,4,4,3,0,Não,Não,,Não se aplica
+COL-0872,57,Feminino,Casado(a),Mestrado,Comercial,Analista Comercial,4,2021-05-24,4,11350.0,43,Sim,Nunca,1,5,3,4,2,Sim,Não,,Não se aplica
+COL-0873,45,Masculino,Casado(a),Graduação,Operações,Coordenador de Operações,3,2025-01-26,1,8600.0,35,Não,Nunca,1,1,3,2,6,Não,Não,,Não se aplica
+COL-0874,21,Masculino,Casado(a),Ensino médio,Operações,Analista de Operações,1,2025-10-02,0,5650.0,39,Não,Raramente,2,1,1,4,2,Não,Não,,Não se aplica
+COL-0875,52,Masculino,União estável,Mestrado,Comercial,Analista Comercial,3,2017-01-27,9,9800.0,32,Não,Raramente,3,1,3,4,6,Não,Não,,Não se aplica
+COL-0876,50,Feminino,Divorciado(a),Ensino médio,Marketing,Especialista de Marketing,4,2022-07-13,4,10450.0,25,Sim,Frequentemente,4,2,3,3,1,Não,Não,,Não se aplica
+COL-0877,34,Masculino,Divorciado(a),Tecnólogo,Marketing,Analista de Marketing,1,2020-05-02,5,6500.0,22,Sim,Frequentemente,5,2,5,5,5,Não,Não,,Não se aplica
+COL-0878,36,Feminino,Casado(a),Ensino médio,Marketing,Analista de Marketing,2,2012-01-04,14,7100.0,12,Não,Nunca,4,5,2,3,0,Sim,Não,,Não se aplica
+COL-0879,30,Masculino,Casado(a),Graduação,Tecnologia,Desenvolvedor,2,2023-02-04,3,9800.0,13,Não,Raramente,5,3,1,3,1,Não,Sim,2025-06-04 22:51:16.205,Mudança de cidade
+COL-0880,58,Feminino,Solteiro(a),Pós-graduação,Financeiro,Controller,4,2022-01-07,4,12150.0,14,Sim,Raramente,5,1,2,4,1,Não,Não,,Não se aplica
+COL-0881,34,Masculino,Casado(a),Pós-graduação,Financeiro,Controller,3,2015-01-08,11,9850.0,31,Não,Nunca,2,4,1,2,0,Não,Não,,Não se aplica
+COL-0882,53,Masculino,União estável,Tecnólogo,Recursos Humanos,Especialista de Pessoas,5,2019-09-27,6,11950.0,24,Sim,Raramente,3,3,1,4,3,Não,Não,,Não se aplica
+COL-0883,54,Feminino,União estável,Graduação,Tecnologia,Analista de Dados,4,2013-03-04,13,12900.0,27,Sim,Nunca,3,2,5,3,5,Sim,Não,,Não se aplica
+COL-0884,43,Masculino,Solteiro(a),Pós-graduação,Atendimento,Analista de Atendimento,3,2022-01-25,4,8400.0,42,Não,Raramente,5,1,4,3,4,Não,Não,,Não se aplica
+COL-0885,42,Feminino,União estável,Graduação,Operações,Coordenador de Operações,3,2016-04-18,9,9600.0,24,Sim,Raramente,1,5,1,5,0,Não,Sim,2024-11-22 09:03:23.880,Falta de perspectiva de crescimento
+COL-0886,35,Masculino,União estável,Graduação,Operações,Coordenador de Operações,3,2016-09-08,10,9650.0,48,Não,Nunca,2,2,2,5,5,Não,Não,,Não se aplica
+COL-0887,34,Masculino,Casado(a),Graduação,Marketing,Analista de Marketing,2,2012-08-16,13,7500.0,36,Não,Raramente,2,2,3,2,2,Sim,Sim,2022-07-16 11:37:30.751,Qualidade de vida
+COL-0888,21,Feminino,Casado(a),Graduação,Marketing,Analista de Marketing,1,2026-07-12,0,5550.0,31,Não,Nunca,1,2,1,4,5,Não,Não,,Não se aplica
+COL-0889,32,Feminino,Solteiro(a),Graduação,Recursos Humanos,Analista de RH,1,2018-05-08,8,6750.0,27,Sim,Raramente,5,2,3,2,2,Sim,Não,,Não se aplica
+COL-0890,33,Masculino,Solteiro(a),Ensino médio,Tecnologia,Desenvolvedor,2,2018-08-16,8,9550.0,34,Não,Frequentemente,4,2,5,3,0,Não,Não,,Não se aplica
+COL-0891,49,Masculino,Divorciado(a),Ensino médio,Marketing,Especialista de Marketing,4,2024-11-15,2,10400.0,6,Não,Raramente,4,2,4,3,4,Não,Sim,2025-08-07 05:09:31.068,Falta de perspectiva de crescimento
+COL-0892,41,Feminino,Casado(a),Ensino médio,Atendimento,Analista de Atendimento,3,2023-03-25,2,7850.0,16,Sim,Nunca,4,4,1,3,0,Não,Não,,Não se aplica
+COL-0893,26,Feminino,Casado(a),Pós-graduação,Atendimento,Assistente de Atendimento,1,2024-11-01,1,4850.0,34,Não,Raramente,4,1,1,3,4,Não,Sim,2026-03-21 20:33:46.615,Nova oportunidade profissional
+COL-0894,58,Feminino,Casado(a),Tecnólogo,Financeiro,Especialista Financeiro,5,2021-01-28,4,12650.0,21,Não,Frequentemente,2,4,2,3,1,Não,Não,,Não se aplica
+COL-0895,45,Feminino,Solteiro(a),Pós-graduação,Atendimento,Analista de Atendimento,3,2022-12-19,4,8500.0,22,Sim,Frequentemente,3,2,1,3,6,Não,Não,,Não se aplica
+COL-0896,21,Masculino,União estável,Graduação,Tecnologia,Desenvolvedor,1,2025-07-13,0,6850.0,10,Não,Raramente,3,5,2,4,0,Não,Não,,Não se aplica
+COL-0897,28,Não binário,Casado(a),Tecnólogo,Financeiro,Analista Financeiro,2,2023-05-10,3,7800.0,27,Sim,Raramente,4,2,2,2,5,Não,Não,,Não se aplica
+COL-0898,51,Masculino,Divorciado(a),Graduação,Operações,Coordenador de Operações,4,2023-02-17,2,10900.0,39,Não,Raramente,4,2,1,2,1,Não,Não,,Não se aplica
+COL-0899,35,Masculino,Divorciado(a),Mestrado,Comercial,Executivo de Contas,1,2017-02-15,8,5800.0,39,Não,Frequentemente,3,5,3,3,0,Não,Sim,2023-09-06 18:07:00.229,Mudança de cidade
+COL-0900,28,Masculino,Casado(a),Mestrado,Marketing,Analista de Marketing,1,2025-12-05,0,5600.0,32,Não,Frequentemente,4,3,1,4,6,Não,Não,,Não se aplica
+COL-0901,30,Masculino,Casado(a),Graduação,Financeiro,Analista Financeiro,1,2020-11-14,5,5900.0,36,Sim,Nunca,2,4,4,3,6,Sim,Não,,Não se aplica
+COL-0902,33,Não binário,Casado(a),Pós-graduação,Operações,Coordenador de Operações,3,2021-01-26,5,8900.0,10,Não,Raramente,1,4,3,3,0,Não,Não,,Não se aplica
+COL-0903,36,Feminino,Casado(a),Tecnólogo,Comercial,Analista Comercial,3,2012-01-18,13,8750.0,23,Não,Nunca,5,4,2,2,2,Não,Não,,Não se aplica
+COL-0904,48,Não binário,Divorciado(a),Graduação,Tecnologia,Analista de Dados,3,2017-03-01,8,10650.0,16,Não,Raramente,5,4,1,4,5,Sim,Não,,Não se aplica
+COL-0905,59,Não binário,Casado(a),Ensino médio,Comercial,Gerente Comercial,5,2015-03-11,11,12200.0,9,Sim,Frequentemente,2,5,3,3,4,Não,Não,,Não se aplica
+COL-0906,22,Não binário,Casado(a),Graduação,Atendimento,Assistente de Atendimento,1,2025-02-08,0,5400.0,32,Não,Nunca,1,1,2,4,1,Não,Não,,Não se aplica
+COL-0907,51,Masculino,União estável,Graduação,Tecnologia,Analista de Dados,4,2025-09-22,0,12150.0,8,Sim,Raramente,5,4,1,4,4,Não,Não,,Não se aplica
+COL-0908,25,Masculino,União estável,Pós-graduação,Operações,Analista de Operações,2,2023-07-24,2,7600.0,44,Não,Frequentemente,1,3,2,5,3,Não,Não,,Não se aplica
+COL-0909,51,Não binário,Divorciado(a),Graduação,Atendimento,Analista de Atendimento,3,2022-01-24,3,7600.0,20,Sim,Frequentemente,4,4,5,3,6,Não,Não,,Não se aplica
+COL-0910,38,Feminino,Casado(a),Graduação,Atendimento,Assistente de Atendimento,2,2014-06-16,11,5900.0,12,Não,Frequentemente,5,1,2,5,2,Não,Não,,Não se aplica
+COL-0911,54,Não binário,Casado(a),Mestrado,Recursos Humanos,Business Partner,4,2019-06-09,6,11350.0,40,Sim,Nunca,2,4,2,4,0,Sim,Não,,Não se aplica
+COL-0912,54,Masculino,Divorciado(a),Ensino médio,Operações,Coordenador de Operações,4,2023-01-24,3,10450.0,30,Sim,Nunca,4,1,1,3,6,Não,Não,,Não se aplica
+COL-0913,58,Masculino,Solteiro(a),Ensino médio,Recursos Humanos,Business Partner,4,2023-06-04,3,11500.0,15,Sim,Nunca,5,3,2,3,5,Não,Não,,Não se aplica
+COL-0914,54,Feminino,Divorciado(a),Mestrado,Tecnologia,Analista de Dados,4,2020-06-04,5,12200.0,50,Não,Nunca,4,1,3,3,0,Não,Não,,Não se aplica
+COL-0915,23,Feminino,Casado(a),Pós-graduação,Financeiro,Analista Financeiro,1,2022-11-23,3,5800.0,35,Não,Raramente,5,5,1,3,1,Não,Não,,Não se aplica
+COL-0916,25,Feminino,Solteiro(a),Graduação,Comercial,Executivo de Contas,1,2019-06-28,6,5600.0,24,Não,Raramente,4,4,2,5,4,Sim,Não,,Não se aplica
+COL-0917,54,Feminino,Casado(a),Tecnólogo,Marketing,Coordenador de Marketing,5,2014-11-17,12,12650.0,15,Não,Frequentemente,2,4,2,4,1,Sim,Não,,Não se aplica
+COL-0918,36,Masculino,União estável,Mestrado,Financeiro,Analista Financeiro,2,2021-08-22,5,8050.0,38,Sim,Frequentemente,1,3,4,3,5,Sim,Não,,Não se aplica
+COL-0919,52,Feminino,Divorciado(a),Tecnólogo,Atendimento,Analista de Atendimento,3,2018-03-11,8,7800.0,35,Sim,Raramente,3,4,2,2,4,Não,Não,,Não se aplica
+COL-0920,23,Feminino,União estável,Mestrado,Marketing,Analista de Marketing,1,2023-03-14,3,6100.0,47,Sim,Nunca,2,3,4,3,2,Não,Não,,Não se aplica
+COL-0921,40,Masculino,Solteiro(a),Pós-graduação,Financeiro,Controller,3,2022-12-03,4,9850.0,37,Não,Raramente,1,1,1,4,4,Não,Sim,2025-11-17 12:36:31.422,Falta de perspectiva de crescimento
+COL-0922,59,Masculino,União estável,Graduação,Financeiro,Especialista Financeiro,5,2023-02-13,2,13850.0,31,Não,Nunca,2,2,1,3,5,Sim,Não,,Não se aplica
+COL-0923,42,Feminino,União estável,Graduação,Comercial,Analista Comercial,3,2021-05-13,4,9400.0,50,Não,Frequentemente,2,1,2,3,5,Não,Não,,Não se aplica
+COL-0924,32,Não binário,Solteiro(a),Tecnólogo,Operações,Analista de Operações,2,2025-03-18,1,8150.0,9,Não,Raramente,4,3,2,2,4,Não,Não,,Não se aplica
+COL-0925,36,Feminino,Divorciado(a),Ensino médio,Tecnologia,Desenvolvedor,2,2021-09-22,4,9550.0,41,Não,Frequentemente,4,5,3,5,1,Sim,Não,,Não se aplica
+COL-0926,35,Masculino,União estável,Pós-graduação,Atendimento,Assistente de Atendimento,2,2019-01-28,7,5750.0,17,Não,Raramente,5,2,2,4,2,Não,Não,,Não se aplica
+COL-0927,57,Masculino,Casado(a),Ensino médio,Recursos Humanos,Business Partner,4,2025-10-09,0,11600.0,5,Sim,Raramente,1,3,2,3,4,Não,Não,,Não se aplica
+COL-0928,56,Feminino,Solteiro(a),Graduação,Atendimento,Analista de Atendimento,3,2019-07-12,7,7750.0,32,Não,Frequentemente,1,4,3,3,0,Sim,Não,,Não se aplica
+COL-0929,22,Masculino,União estável,Ensino médio,Recursos Humanos,Analista de RH,2,2023-01-17,2,7150.0,50,Não,Raramente,1,2,3,2,0,Não,Não,,Não se aplica
+COL-0930,20,Feminino,Divorciado(a),Graduação,Operações,Analista de Operações,1,2025-09-04,0,6050.0,12,Não,Nunca,5,4,3,3,4,Não,Não,,Não se aplica
+COL-0931,46,Não binário,União estável,Ensino médio,Operações,Coordenador de Operações,4,2013-07-03,13,10200.0,5,Não,Raramente,4,3,2,4,0,Sim,Não,,Não se aplica
+COL-0932,44,Não binário,Casado(a),Graduação,Financeiro,Analista Financeiro,2,2013-01-14,12,8000.0,2,Não,Frequentemente,4,2,1,2,4,Não,Sim,2024-05-17 00:28:19.043,Nova oportunidade profissional
+COL-0933,42,Masculino,União estável,Ensino médio,Recursos Humanos,Business Partner,3,2022-09-15,3,8600.0,28,Não,Nunca,1,4,2,3,3,Não,Não,,Não se aplica
+COL-0934,47,Não binário,Solteiro(a),Graduação,Atendimento,Analista de Atendimento,4,2014-08-11,12,9850.0,44,Sim,Raramente,4,4,2,4,4,Sim,Não,,Não se aplica
+COL-0935,50,Feminino,União estável,Graduação,Comercial,Gerente Comercial,5,2019-11-23,7,12750.0,46,Sim,Frequentemente,4,5,4,2,0,Sim,Não,,Não se aplica
+COL-0936,38,Feminino,Divorciado(a),Pós-graduação,Tecnologia,Analista de Dados,3,2021-07-20,4,10900.0,42,Sim,Raramente,1,4,3,3,1,Não,Sim,2022-02-13 23:50:30.029,Nova oportunidade profissional
+COL-0937,23,Não binário,União estável,Pós-graduação,Operações,Analista de Operações,1,2025-12-19,1,5000.0,15,Não,Nunca,1,5,4,3,2,Não,Não,,Não se aplica
+COL-0938,48,Feminino,União estável,Graduação,Tecnologia,Analista de Dados,3,2022-09-09,4,10650.0,19,Sim,Raramente,5,4,4,4,6,Não,Não,,Não se aplica
+COL-0939,59,Feminino,União estável,Ensino médio,Marketing,Coordenador de Marketing,5,2014-04-08,11,12850.0,14,Não,Raramente,2,4,2,3,5,Não,Sim,2025-06-09 09:17:06.268,Reestruturação organizacional
+COL-0940,36,Masculino,Divorciado(a),Mestrado,Operações,Coordenador de Operações,3,2019-01-27,7,8300.0,1,Não,Frequentemente,5,5,4,3,1,Não,Sim,2023-06-29 08:50:54.886,Mudança de cidade
+COL-0941,24,Masculino,União estável,Graduação,Atendimento,Assistente de Atendimento,1,2021-12-20,5,5350.0,22,Não,Frequentemente,4,2,2,3,4,Não,Sim,2024-05-22 00:06:11.346,Mudança de cidade
+COL-0942,24,Feminino,Divorciado(a),Graduação,Tecnologia,Desenvolvedor,1,2021-09-10,4,7350.0,44,Não,Nunca,3,3,1,4,2,Sim,Não,,Não se aplica
+COL-0943,60,Feminino,Casado(a),Ensino médio,Atendimento,Supervisor de Atendimento,5,2024-03-12,2,11250.0,38,Sim,Frequentemente,4,1,1,4,4,Não,Sim,2026-03-30 16:59:02.117,Desempenho abaixo do esperado
+COL-0944,28,Feminino,Casado(a),Ensino médio,Recursos Humanos,Analista de RH,2,2026-07-28,0,8300.0,12,Não,Nunca,1,5,2,5,1,Não,Não,,Não se aplica
+COL-0945,33,Feminino,Casado(a),Pós-graduação,Atendimento,Assistente de Atendimento,1,2018-05-07,8,4450.0,29,Não,Raramente,5,3,2,2,4,Não,Não,,Não se aplica
+COL-0946,56,Masculino,Solteiro(a),Ensino médio,Marketing,Especialista de Marketing,4,2014-08-24,11,10500.0,12,Não,Raramente,2,1,1,3,6,Não,Não,,Não se aplica
+COL-0947,44,Não binário,Solteiro(a),Pós-graduação,Operações,Coordenador de Operações,3,2011-01-13,14,9450.0,30,Sim,Frequentemente,4,5,1,5,5,Sim,Não,,Não se aplica
+COL-0948,23,Feminino,Casado(a),Mestrado,Tecnologia,Desenvolvedor,2,2025-12-10,0,9550.0,48,Sim,Nunca,4,4,1,3,2,Não,Sim,2026-04-19 21:16:32.585,Qualidade de vida
+COL-0949,53,Feminino,Casado(a),Graduação,Operações,Coordenador de Operações,3,2013-04-17,12,9600.0,41,Não,Raramente,5,2,5,4,2,Sim,Não,,Não se aplica
+COL-0950,24,Não binário,Casado(a),Ensino médio,Marketing,Analista de Marketing,1,2023-11-15,2,6400.0,49,Não,Nunca,1,5,1,4,4,Sim,Sim,2025-03-02 13:15:14.040,Nova oportunidade profissional
+COL-0951,27,Feminino,Solteiro(a),Mestrado,Comercial,Executivo de Contas,2,2020-01-28,5,8000.0,31,Não,Raramente,4,4,2,3,2,Não,Não,,Não se aplica
+COL-0952,54,Masculino,Solteiro(a),Graduação,Comercial,Analista Comercial,4,2015-06-24,10,10150.0,20,Sim,Frequentemente,3,3,5,3,6,Não,Não,,Não se aplica
+COL-0953,33,Não binário,Divorciado(a),Mestrado,Financeiro,Controller,3,2017-11-19,8,9650.0,17,Sim,Raramente,5,5,1,4,6,Não,Não,,Não se aplica
+COL-0954,33,Masculino,Casado(a),Ensino médio,Atendimento,Assistente de Atendimento,2,2014-09-14,12,5650.0,43,Não,Nunca,3,5,1,4,4,Sim,Não,,Não se aplica
+COL-0955,37,Masculino,União estável,Pós-graduação,Operações,Analista de Operações,2,2021-10-09,4,7050.0,39,Não,Raramente,4,1,4,3,3,Não,Não,,Não se aplica
+COL-0956,25,Feminino,Solteiro(a),Pós-graduação,Tecnologia,Desenvolvedor,1,2023-04-21,3,6650.0,4,Não,Frequentemente,3,2,3,3,2,Sim,Sim,2026-03-17 05:05:58.188,Falta de perspectiva de crescimento
+COL-0957,59,Masculino,União estável,Tecnólogo,Recursos Humanos,Business Partner,4,2023-01-21,2,11100.0,20,Não,Raramente,1,5,5,4,1,Sim,Sim,2024-06-18 12:11:31.422,Qualidade de vida
+COL-0958,25,Feminino,Casado(a),Mestrado,Comercial,Executivo de Contas,2,2020-03-22,5,8350.0,15,Não,Raramente,4,4,4,3,1,Não,Não,,Não se aplica
+COL-0959,37,Masculino,Solteiro(a),Tecnólogo,Recursos Humanos,Analista de RH,2,2019-12-14,7,7750.0,29,Não,Nunca,5,1,3,4,2,Não,Sim,2024-01-26 07:47:45.193,Reestruturação organizacional
+COL-0960,37,Masculino,Solteiro(a),Mestrado,Atendimento,Assistente de Atendimento,2,2014-04-26,12,7100.0,14,Não,Frequentemente,3,5,4,5,6,Não,Não,,Não se aplica
+COL-0961,28,Masculino,Solteiro(a),Ensino médio,Marketing,Analista de Marketing,2,2017-10-11,8,8600.0,16,Não,Raramente,3,2,3,5,4,Não,Não,,Não se aplica
+COL-0962,45,Masculino,Solteiro(a),Graduação,Tecnologia,Desenvolvedor,2,2016-02-20,9,9600.0,33,Não,Frequentemente,2,4,4,2,3,Não,Não,,Não se aplica
+COL-0963,33,Feminino,Solteiro(a),Mestrado,Tecnologia,Desenvolvedor,2,2021-01-27,5,9400.0,40,Não,Raramente,2,2,2,5,3,Não,Sim,2024-05-23 08:54:43.107,Mudança de cidade
+COL-0964,59,Não binário,Solteiro(a),Tecnólogo,Atendimento,Supervisor de Atendimento,5,2015-04-18,11,11600.0,26,Não,Raramente,2,4,1,5,4,Sim,Não,,Não se aplica
+COL-0965,46,Feminino,Solteiro(a),Tecnólogo,Tecnologia,Analista de Dados,3,2013-10-11,12,10450.0,26,Não,Raramente,4,5,1,5,2,Não,Não,,Não se aplica
+COL-0966,51,Masculino,Casado(a),Graduação,Recursos Humanos,Business Partner,4,2020-09-03,5,11550.0,33,Sim,Raramente,3,5,3,3,1,Não,Não,,Não se aplica
+COL-0967,40,Não binário,Divorciado(a),Pós-graduação,Tecnologia,Analista de Dados,4,2015-12-04,10,12000.0,33,Não,Raramente,4,4,1,4,4,Não,Sim,2025-10-13 11:58:12.198,Remuneração e benefícios
+COL-0968,34,Masculino,Solteiro(a),Ensino médio,Tecnologia,Desenvolvedor,2,2013-08-24,12,9000.0,9,Sim,Raramente,2,2,4,2,6,Não,Não,,Não se aplica
+COL-0969,31,Masculino,União estável,Tecnólogo,Recursos Humanos,Analista de RH,2,2015-10-12,10,8200.0,45,Sim,Frequentemente,5,1,2,3,1,Sim,Sim,2022-01-02 14:00:05.883,Qualidade de vida
+COL-0970,44,Feminino,União estável,Mestrado,Marketing,Especialista de Marketing,3,2017-11-05,9,9650.0,45,Não,Nunca,4,5,2,3,2,Não,Não,,Não se aplica
+COL-0971,22,Feminino,União estável,Mestrado,Financeiro,Analista Financeiro,1,2022-10-15,3,6250.0,30,Não,Frequentemente,3,2,3,3,3,Sim,Não,,Não se aplica
+COL-0972,24,Não binário,União estável,Tecnólogo,Financeiro,Analista Financeiro,1,2024-06-04,1,7300.0,13,Não,Raramente,2,1,4,3,5,Não,Não,,Não se aplica
+COL-0973,49,Feminino,União estável,Mestrado,Tecnologia,Analista de Dados,3,2023-04-22,2,11400.0,42,Sim,Raramente,3,3,3,3,3,Não,Sim,2026-01-05 23:13:07.789,Qualidade de vida
+COL-0974,29,Não binário,Casado(a),Mestrado,Recursos Humanos,Analista de RH,2,2021-04-15,4,7450.0,11,Não,Raramente,1,1,3,5,5,Não,Não,,Não se aplica
+COL-0975,57,Masculino,Casado(a),Ensino médio,Comercial,Analista Comercial,4,2016-02-16,9,10700.0,13,Sim,Raramente,3,3,3,3,3,Não,Não,,Não se aplica
+COL-0976,42,Masculino,Casado(a),Graduação,Tecnologia,Analista de Dados,4,2016-11-16,10,12950.0,34,Não,Frequentemente,1,4,3,2,4,Não,Sim,2022-01-29 19:35:12.024,Qualidade de vida
+COL-0977,43,Não binário,Casado(a),Mestrado,Atendimento,Analista de Atendimento,4,2026-03-17,0,9650.0,46,Sim,Nunca,2,2,5,3,5,Não,Não,,Não se aplica
+COL-0978,41,Feminino,Solteiro(a),Mestrado,Operações,Coordenador de Operações,3,2023-11-21,3,9800.0,1,Não,Frequentemente,5,3,5,3,3,Sim,Sim,2024-08-16 03:42:34.701,Nova oportunidade profissional
+COL-0979,44,Feminino,União estável,Ensino médio,Atendimento,Analista de Atendimento,4,2013-02-06,12,9850.0,4,Sim,Nunca,2,3,3,3,0,Não,Não,,Não se aplica
+COL-0980,51,Não binário,Solteiro(a),Pós-graduação,Atendimento,Analista de Atendimento,3,2023-10-16,2,8000.0,26,Não,Frequentemente,1,1,1,3,1,Sim,Não,,Não se aplica
+COL-0981,21,Masculino,Casado(a),Pós-graduação,Atendimento,Assistente de Atendimento,1,2025-07-04,0,5200.0,20,Não,Raramente,2,5,3,5,4,Não,Sim,2026-01-01 03:10:04.755,Desempenho abaixo do esperado
+COL-0982,56,Masculino,Casado(a),Graduação,Atendimento,Analista de Atendimento,4,2011-10-17,14,10350.0,35,Não,Nunca,2,1,5,4,4,Não,Não,,Não se aplica
+COL-0983,43,Feminino,Divorciado(a),Tecnólogo,Atendimento,Analista de Atendimento,4,2020-03-24,6,9500.0,50,Não,Frequentemente,1,3,4,3,6,Sim,Não,,Não se aplica
+COL-0984,50,Feminino,Solteiro(a),Tecnólogo,Operações,Coordenador de Operações,3,2016-09-24,9,9300.0,32,Não,Nunca,2,1,2,3,3,Não,Não,,Não se aplica
+COL-0985,21,Masculino,Divorciado(a),Graduação,Atendimento,Assistente de Atendimento,1,2024-10-27,1,5050.0,49,Sim,Raramente,2,5,4,3,1,Não,Não,,Não se aplica
+COL-0986,55,Feminino,Casado(a),Tecnólogo,Atendimento,Analista de Atendimento,4,2025-08-28,0,8850.0,25,Não,Frequentemente,4,1,3,4,4,Não,Não,,Não se aplica
+COL-0987,56,Feminino,União estável,Ensino médio,Tecnologia,Engenheiro de Dados,5,2014-01-06,12,13250.0,32,Sim,Raramente,2,3,3,2,6,Não,Não,,Não se aplica
+COL-0988,43,Masculino,Solteiro(a),Graduação,Financeiro,Controller,3,2018-05-27,7,10500.0,19,Não,Nunca,3,2,3,4,5,Sim,Não,,Não se aplica
+COL-0989,60,Feminino,União estável,Tecnólogo,Recursos Humanos,Business Partner,4,2021-03-05,5,10050.0,24,Não,Raramente,4,1,5,5,1,Não,Não,,Não se aplica
+COL-0990,32,Feminino,Divorciado(a),Graduação,Operações,Coordenador de Operações,3,2025-10-05,0,8200.0,33,Sim,Raramente,4,1,1,2,1,Não,Não,,Não se aplica
+COL-0991,51,Não binário,União estável,Graduação,Recursos Humanos,Business Partner,3,2026-01-19,0,9000.0,15,Sim,Raramente,1,1,3,4,5,Não,Sim,2026-05-27 18:48:19.703,Falta de perspectiva de crescimento
+COL-0992,31,Não binário,Casado(a),Mestrado,Atendimento,Assistente de Atendimento,1,2024-09-18,2,4000.0,46,Sim,Raramente,2,5,5,3,0,Sim,Sim,2025-06-09 20:12:10.673,Mudança de cidade
+COL-0993,54,Masculino,Casado(a),Graduação,Financeiro,Controller,4,2025-02-20,0,12100.0,6,Não,Nunca,2,3,2,4,5,Não,Sim,2026-04-04 10:17:33.102,Desempenho abaixo do esperado
+COL-0994,41,Masculino,Casado(a),Graduação,Financeiro,Analista Financeiro,2,2013-04-09,12,8900.0,38,Sim,Nunca,1,1,5,4,4,Sim,Não,,Não se aplica
+COL-0995,53,Masculino,Divorciado(a),Graduação,Atendimento,Supervisor de Atendimento,5,2018-06-11,8,10450.0,19,Sim,Nunca,5,5,4,4,2,Sim,Não,,Não se aplica
+COL-0996,59,Não binário,União estável,Mestrado,Atendimento,Analista de Atendimento,4,2015-10-24,10,10150.0,1,Sim,Raramente,1,4,4,2,5,Não,Não,,Não se aplica
+COL-0997,37,Masculino,Solteiro(a),Tecnólogo,Operações,Coordenador de Operações,3,2023-04-10,2,8400.0,10,Não,Raramente,2,3,1,3,2,Não,Sim,2024-11-26 01:29:20.116,Nova oportunidade profissional
+COL-0998,44,Masculino,Divorciado(a),Graduação,Recursos Humanos,Business Partner,4,2019-10-19,6,10800.0,31,Sim,Nunca,4,3,5,3,6,Sim,Não,,Não se aplica
+COL-0999,23,Não binário,Divorciado(a),Graduação,Financeiro,Analista Financeiro,1,2024-08-07,2,6800.0,1,Sim,Raramente,1,1,2,3,1,Não,Sim,2026-06-30 09:39:44.892,Qualidade de vida
+COL-1000,60,Feminino,União estável,Graduação,Operações,Coordenador de Operações,4,2014-08-06,11,10900.0,36,Não,Nunca,3,1,3,4,2,Não,Sim,2025-07-07 19:01:40.952,Falta de perspectiva de crescimento
+COL-1001,34,Feminino,Solteiro(a),Graduação,Tecnologia,Desenvolvedor,1,2019-01-14,7,6600.0,14,Sim,Nunca,4,5,4,3,3,Não,Não,,Não se aplica
+COL-1002,38,Masculino,Casado(a),Ensino médio,Comercial,Executivo de Contas,2,2024-09-05,1,7900.0,22,Sim,Raramente,5,5,1,3,6,Não,Sim,2025-03-05 13:10:50.148,Reestruturação organizacional
+COL-1003,55,Não binário,Casado(a),Mestrado,Marketing,Especialista de Marketing,4,2020-04-19,5,11050.0,39,Sim,Frequentemente,1,2,2,3,1,Não,Sim,2025-05-02 09:46:44.244,Mudança de cidade
+COL-1004,61,Masculino,Casado(a),Tecnólogo,Tecnologia,Analista de Dados,4,2014-08-09,12,12600.0,33,Não,Frequentemente,3,4,2,2,4,Não,Sim,2026-04-13 21:56:54.672,Reestruturação organizacional
+COL-1005,41,Feminino,União estável,Mestrado,Financeiro,Analista Financeiro,2,2017-10-10,9,8700.0,40,Sim,Raramente,3,2,1,3,0,Não,Não,,Não se aplica
+COL-1006,45,Masculino,Casado(a),Pós-graduação,Financeiro,Controller,3,2016-01-15,9,10100.0,33,Sim,Raramente,4,4,4,4,5,Não,Sim,2025-09-23 20:42:54.715,Qualidade de vida
+COL-1007,52,Masculino,Solteiro(a),Pós-graduação,Atendimento,Analista de Atendimento,3,2015-03-09,10,7800.0,17,Sim,Raramente,2,5,5,3,4,Sim,Sim,2025-06-15 22:20:40.747,Qualidade de vida
+COL-1008,39,Não binário,União estável,Tecnólogo,Tecnologia,Desenvolvedor,2,2014-03-05,11,8450.0,35,Sim,Raramente,3,3,3,2,5,Sim,Não,,Não se aplica
+COL-1009,20,Masculino,Divorciado(a),Mestrado,Comercial,Executivo de Contas,1,2025-12-21,1,6700.0,29,Sim,Raramente,4,4,5,3,5,Não,Sim,2026-03-22 12:29:20.566,Falta de perspectiva de crescimento
+COL-1010,47,Não binário,União estável,Pós-graduação,Operações,Coordenador de Operações,3,2017-07-18,8,8450.0,37,Sim,Raramente,5,1,5,3,1,Não,Não,,Não se aplica
+COL-1011,22,Feminino,Solteiro(a),Ensino médio,Tecnologia,Desenvolvedor,1,2024-01-12,1,7850.0,46,Sim,Raramente,4,1,1,3,2,Não,Não,,Não se aplica
+COL-1012,45,Não binário,Casado(a),Mestrado,Marketing,Analista de Marketing,2,2024-02-11,2,7950.0,42,Não,Raramente,5,2,5,2,2,Não,Não,,Não se aplica
+COL-1013,24,Masculino,Casado(a),Mestrado,Financeiro,Analista Financeiro,1,2019-02-28,6,6750.0,4,Não,Nunca,3,1,5,4,6,Não,Não,,Não se aplica
+COL-1014,30,Feminino,Casado(a),Mestrado,Marketing,Analista de Marketing,2,2019-04-24,6,7150.0,1,Sim,Raramente,4,3,4,3,6,Não,Sim,2026-05-16 08:45:30.495,Qualidade de vida
+COL-1015,47,Não binário,Solteiro(a),Graduação,Comercial,Analista Comercial,4,2016-11-10,10,11000.0,28,Não,Raramente,4,5,3,3,1,Sim,Não,,Não se aplica
+COL-1016,45,Masculino,Divorciado(a),Graduação,Recursos Humanos,Business Partner,3,2023-07-09,2,9250.0,31,Não,Raramente,3,5,1,4,1,Não,Sim,2024-12-16 09:56:07.104,Remuneração e benefícios
+COL-1017,35,Masculino,Casado(a),Pós-graduação,Financeiro,Analista Financeiro,2,2016-10-11,9,8350.0,16,Não,Raramente,1,2,1,3,6,Sim,Não,,Não se aplica
+COL-1018,30,Masculino,Casado(a),Tecnólogo,Tecnologia,Desenvolvedor,2,2026-01-10,0,8650.0,2,Sim,Nunca,2,5,5,4,4,Não,Não,,Não se aplica
+COL-1019,42,Masculino,Casado(a),Mestrado,Marketing,Especialista de Marketing,4,2016-12-13,10,11050.0,52,Não,Raramente,1,2,2,5,6,Não,Sim,2024-03-29 19:32:38.895,Desempenho abaixo do esperado
+COL-1020,52,Masculino,Casado(a),Graduação,Financeiro,Especialista Financeiro,5,2019-10-11,6,13200.0,48,Não,Raramente,2,3,4,4,0,Não,Não,,Não se aplica
+COL-1021,47,Masculino,Casado(a),Pós-graduação,Recursos Humanos,Business Partner,3,2025-11-18,1,9650.0,51,Sim,Frequentemente,5,1,5,4,3,Não,Não,,Não se aplica
+COL-1022,58,Feminino,Casado(a),Tecnólogo,Recursos Humanos,Business Partner,3,2019-10-15,7,9750.0,15,Não,Raramente,4,2,4,2,6,Não,Não,,Não se aplica
+COL-1023,22,Não binário,União estável,Mestrado,Recursos Humanos,Analista de RH,1,2023-12-24,3,5800.0,30,Não,Raramente,2,5,4,4,6,Não,Não,,Não se aplica
+COL-1024,45,Masculino,Divorciado(a),Ensino médio,Atendimento,Analista de Atendimento,4,2014-12-05,11,9800.0,41,Não,Raramente,5,3,1,2,1,Sim,Não,,Não se aplica
+COL-1025,53,Masculino,Casado(a),Graduação,Marketing,Especialista de Marketing,3,2019-02-23,6,8950.0,31,Não,Nunca,4,4,1,3,2,Não,Sim,2022-07-29 16:36:16.407,Desempenho abaixo do esperado
+COL-1026,37,Feminino,Casado(a),Mestrado,Atendimento,Analista de Atendimento,3,2017-09-11,8,7850.0,24,Sim,Raramente,4,1,2,4,6,Não,Não,,Não se aplica
+COL-1027,46,Não binário,Divorciado(a),Tecnólogo,Marketing,Especialista de Marketing,3,2018-11-04,8,9250.0,41,Não,Raramente,1,3,1,2,4,Não,Não,,Não se aplica
+COL-1028,20,Masculino,Casado(a),Mestrado,Tecnologia,Desenvolvedor,2,2025-04-23,0,8800.0,45,Sim,Raramente,4,1,2,3,5,Não,Não,,Não se aplica
+COL-1029,35,Masculino,Casado(a),Ensino médio,Tecnologia,Desenvolvedor,2,2021-02-05,5,8650.0,7,Sim,Raramente,5,5,2,4,6,Não,Sim,2024-06-11 11:13:26.177,Remuneração e benefícios
+COL-1030,30,Masculino,Casado(a),Mestrado,Atendimento,Assistente de Atendimento,1,2021-06-21,5,5250.0,42,Não,Frequentemente,1,3,4,4,3,Não,Não,,Não se aplica
+COL-1031,40,Feminino,União estável,Pós-graduação,Operações,Analista de Operações,2,2012-09-24,13,8150.0,51,Não,Raramente,1,3,1,4,6,Não,Não,,Não se aplica
+COL-1032,34,Feminino,Casado(a),Graduação,Marketing,Analista de Marketing,1,2013-08-20,12,5400.0,30,Não,Raramente,1,3,3,4,4,Não,Não,,Não se aplica
+COL-1033,22,Feminino,Divorciado(a),Ensino médio,Financeiro,Analista Financeiro,1,2026-07-03,0,6450.0,2,Sim,Nunca,2,4,5,2,0,Não,Não,,Não se aplica
+COL-1034,47,Não binário,Casado(a),Graduação,Comercial,Analista Comercial,4,2011-11-09,14,10200.0,19,Não,Raramente,5,3,5,5,0,Não,Não,,Não se aplica
+COL-1035,52,Não binário,Solteiro(a),Mestrado,Atendimento,Analista de Atendimento,3,2016-04-01,10,7600.0,50,Não,Raramente,4,4,5,3,3,Não,Não,,Não se aplica
+COL-1036,48,Masculino,Divorciado(a),Mestrado,Atendimento,Analista de Atendimento,3,2021-07-12,5,7250.0,42,Sim,Raramente,2,3,2,4,0,Não,Sim,2022-01-03 09:35:05.735,Remuneração e benefícios
+COL-1037,22,Masculino,Casado(a),Ensino médio,Tecnologia,Desenvolvedor,1,2024-10-18,2,7450.0,8,Sim,Raramente,4,4,2,3,1,Sim,Não,,Não se aplica
+COL-1038,54,Feminino,União estável,Graduação,Financeiro,Controller,3,2017-05-11,9,10550.0,37,Não,Frequentemente,1,4,1,2,0,Não,Sim,2022-07-18 17:40:52.240,Nova oportunidade profissional
+COL-1039,52,Masculino,Divorciado(a),Mestrado,Financeiro,Controller,4,2018-03-26,7,12050.0,11,Não,Nunca,5,2,4,3,2,Não,Não,,Não se aplica
+COL-1040,50,Masculino,Solteiro(a),Graduação,Comercial,Analista Comercial,3,2022-10-08,4,9450.0,5,Sim,Frequentemente,1,5,3,5,2,Não,Não,,Não se aplica
+COL-1041,50,Masculino,Divorciado(a),Pós-graduação,Recursos Humanos,Business Partner,3,2020-07-10,5,10000.0,36,Não,Raramente,1,4,1,3,5,Não,Não,,Não se aplica
+COL-1042,51,Feminino,União estável,Pós-graduação,Tecnologia,Analista de Dados,3,2015-05-27,11,10500.0,13,Não,Frequentemente,2,5,5,3,6,Não,Sim,2022-09-18 00:40:13.498,Nova oportunidade profissional
+COL-1043,50,Não binário,União estável,Mestrado,Financeiro,Controller,3,2017-02-20,8,10400.0,6,Não,Raramente,4,3,2,5,0,Sim,Não,,Não se aplica
+COL-1044,29,Feminino,Casado(a),Ensino médio,Financeiro,Analista Financeiro,2,2023-09-05,2,7450.0,40,Sim,Frequentemente,4,3,5,4,1,Não,Não,,Não se aplica
+COL-1045,53,Feminino,Casado(a),Ensino médio,Marketing,Coordenador de Marketing,5,2016-08-22,9,12900.0,20,Sim,Nunca,2,3,5,3,6,Não,Não,,Não se aplica
+COL-1046,38,Masculino,Solteiro(a),Graduação,Operações,Analista de Operações,2,2018-08-21,8,8000.0,37,Sim,Raramente,1,5,2,3,4,Não,Sim,2025-11-27 06:13:05.832,Mudança de cidade
+COL-1047,23,Feminino,Casado(a),Mestrado,Atendimento,Assistente de Atendimento,1,2024-01-06,2,4550.0,33,Não,Raramente,2,4,3,2,2,Não,Não,,Não se aplica
+COL-1048,32,Feminino,Divorciado(a),Mestrado,Comercial,Executivo de Contas,2,2021-03-01,5,7900.0,33,Não,Frequentemente,2,3,1,4,6,Não,Não,,Não se aplica
+COL-1049,34,Feminino,Casado(a),Mestrado,Comercial,Executivo de Contas,2,2018-12-20,8,7400.0,27,Sim,Raramente,5,1,3,3,5,Não,Sim,2026-05-20 21:47:53.012,Nova oportunidade profissional
+COL-1050,52,Masculino,Casado(a),Graduação,Financeiro,Controller,4,2023-06-22,3,11700.0,36,Não,Frequentemente,2,1,5,3,5,Sim,Não,,Não se aplica
+COL-1051,38,Não binário,Solteiro(a),Ensino médio,Marketing,Analista de Marketing,2,2019-01-20,6,8550.0,46,Sim,Nunca,2,5,5,3,3,Sim,Sim,2022-12-15 13:20:41.907,Nova oportunidade profissional
+COL-1052,46,Feminino,Solteiro(a),Ensino médio,Atendimento,Analista de Atendimento,4,2024-09-16,1,10300.0,1,Não,Nunca,4,1,1,4,4,Não,Não,,Não se aplica
+COL-1053,43,Não binário,Solteiro(a),Tecnólogo,Financeiro,Controller,3,2024-04-01,1,9000.0,18,Não,Nunca,5,3,5,4,1,Não,Não,,Não se aplica
+COL-1054,26,Feminino,Casado(a),Pós-graduação,Recursos Humanos,Analista de RH,1,2018-10-24,7,5950.0,5,Sim,Frequentemente,4,5,2,2,0,Não,Sim,2026-06-05 09:29:16.589,Reestruturação organizacional
+COL-1055,28,Feminino,Solteiro(a),Mestrado,Operações,Analista de Operações,2,2017-11-17,9,6700.0,32,Não,Raramente,4,5,2,3,5,Não,Não,,Não se aplica
+COL-1056,28,Não binário,Casado(a),Mestrado,Financeiro,Analista Financeiro,2,2015-03-23,10,7850.0,48,Sim,Nunca,1,5,4,2,4,Sim,Não,,Não se aplica
+COL-1057,26,Masculino,Casado(a),Ensino médio,Tecnologia,Desenvolvedor,1,2022-10-10,4,6850.0,28,Sim,Raramente,4,2,1,3,1,Não,Não,,Não se aplica
+COL-1058,55,Masculino,Solteiro(a),Pós-graduação,Operações,Coordenador de Operações,4,2023-09-05,2,9850.0,14,Sim,Frequentemente,5,5,1,4,0,Não,Sim,2025-02-05 14:28:41.262,Mudança de cidade
+COL-1059,21,Não binário,Casado(a),Graduação,Financeiro,Analista Financeiro,1,2025-04-11,0,7100.0,51,Sim,Frequentemente,2,4,2,2,6,Não,Sim,2025-11-04 16:24:01.458,Remuneração e benefícios
+COL-1060,57,Masculino,Casado(a),Graduação,Operações,Coordenador de Operações,4,2016-08-05,10,10650.0,11,Não,Raramente,2,1,5,3,4,Não,Não,,Não se aplica
+COL-1061,20,Feminino,Divorciado(a),Ensino médio,Financeiro,Analista Financeiro,1,2024-03-15,1,7100.0,17,Sim,Frequentemente,5,3,2,3,6,Não,Não,,Não se aplica
+COL-1062,42,Não binário,União estável,Mestrado,Recursos Humanos,Analista de RH,2,2019-04-23,6,8000.0,32,Não,Nunca,5,1,4,3,0,Não,Não,,Não se aplica
+COL-1063,26,Feminino,Casado(a),Mestrado,Recursos Humanos,Analista de RH,2,2025-06-26,0,7350.0,44,Sim,Nunca,4,2,4,3,1,Não,Não,,Não se aplica
+COL-1064,58,Masculino,Divorciado(a),Tecnólogo,Tecnologia,Analista de Dados,4,2022-08-07,3,11550.0,37,Sim,Raramente,1,4,2,4,4,Não,Não,,Não se aplica
+COL-1065,36,Feminino,Casado(a),Graduação,Financeiro,Controller,3,2014-03-26,11,9050.0,49,Não,Raramente,1,3,3,4,6,Não,Sim,2026-04-03 06:37:30.142,Qualidade de vida
+COL-1066,37,Masculino,Casado(a),Tecnólogo,Comercial,Analista Comercial,3,2018-09-21,7,9750.0,14,Sim,Frequentemente,5,3,5,3,2,Sim,Não,,Não se aplica
+COL-1067,20,Feminino,Divorciado(a),Ensino médio,Atendimento,Assistente de Atendimento,1,2025-09-27,0,4600.0,30,Não,Nunca,4,1,3,5,6,Não,Sim,2026-01-07 23:20:54.871,Desempenho abaixo do esperado
+COL-1068,44,Não binário,Casado(a),Graduação,Tecnologia,Analista de Dados,3,2017-04-27,9,10900.0,2,Não,Frequentemente,3,1,4,2,3,Não,Não,,Não se aplica
+COL-1069,20,Não binário,Casado(a),Pós-graduação,Comercial,Executivo de Contas,2,2023-09-24,2,8350.0,48,Não,Frequentemente,3,2,1,4,2,Não,Não,,Não se aplica
+COL-1070,44,Não binário,Casado(a),Graduação,Financeiro,Controller,3,2017-09-27,9,9450.0,39,Não,Frequentemente,4,5,1,3,3,Não,Sim,2022-09-30 12:52:26.090,Falta de perspectiva de crescimento
+COL-1071,29,Feminino,Solteiro(a),Mestrado,Tecnologia,Analista de Dados,3,2025-10-13,0,11300.0,5,Não,Raramente,5,2,1,4,4,Não,Não,,Não se aplica
+COL-1072,60,Masculino,Divorciado(a),Ensino médio,Operações,Coordenador de Operações,4,2014-11-26,12,10800.0,21,Sim,Nunca,4,1,5,4,5,Não,Não,,Não se aplica
+COL-1073,35,Feminino,União estável,Graduação,Operações,Coordenador de Operações,3,2015-08-10,10,9800.0,16,Sim,Raramente,1,2,5,3,5,Não,Sim,2025-07-12 23:57:25.309,Mudança de cidade
+COL-1074,58,Feminino,Casado(a),Mestrado,Tecnologia,Analista de Dados,4,2015-02-20,11,13150.0,37,Não,Raramente,4,4,3,3,0,Não,Não,,Não se aplica
+COL-1075,24,Masculino,Divorciado(a),Ensino médio,Marketing,Analista de Marketing,2,2019-01-05,6,8200.0,39,Não,Frequentemente,1,2,3,4,5,Não,Não,,Não se aplica
+COL-1076,57,Masculino,Solteiro(a),Pós-graduação,Marketing,Especialista de Marketing,4,2015-12-04,10,11750.0,33,Sim,Raramente,5,3,3,3,3,Sim,Sim,2026-02-28 00:55:36.012,Reestruturação organizacional
+COL-1077,56,Feminino,Solteiro(a),Ensino médio,Operações,Coordenador de Operações,3,2021-10-12,4,8250.0,15,Não,Raramente,5,2,5,3,2,Sim,Não,,Não se aplica
+COL-1078,43,Não binário,Casado(a),Pós-graduação,Atendimento,Analista de Atendimento,3,2015-03-14,10,8400.0,50,Não,Raramente,3,1,1,4,3,Não,Não,,Não se aplica
+COL-1079,51,Não binário,Casado(a),Tecnólogo,Operações,Coordenador de Operações,3,2011-07-16,14,9000.0,25,Não,Frequentemente,1,4,1,3,5,Não,Não,,Não se aplica
+COL-1080,47,Masculino,Solteiro(a),Ensino médio,Operações,Coordenador de Operações,4,2023-09-08,2,11350.0,28,Não,Raramente,3,4,3,2,0,Sim,Não,,Não se aplica
+COL-1081,26,Masculino,Casado(a),Pós-graduação,Comercial,Executivo de Contas,2,2020-06-10,6,8250.0,4,Não,Raramente,5,3,5,4,2,Sim,Não,,Não se aplica
+COL-1082,60,Masculino,Casado(a),Mestrado,Atendimento,Supervisor de Atendimento,5,2015-03-28,10,11500.0,18,Sim,Raramente,3,5,2,3,3,Não,Não,,Não se aplica
+COL-1083,28,Masculino,Solteiro(a),Mestrado,Financeiro,Analista Financeiro,1,2015-12-19,10,5750.0,16,Não,Raramente,3,3,4,3,5,Não,Não,,Não se aplica
+COL-1084,47,Não binário,Casado(a),Mestrado,Comercial,Analista Comercial,4,2019-12-18,7,11600.0,13,Sim,Raramente,5,4,5,3,4,Não,Não,,Não se aplica
+COL-1085,51,Não binário,Casado(a),Pós-graduação,Recursos Humanos,Business Partner,4,2016-10-06,10,10050.0,3,Não,Nunca,3,4,5,2,4,Sim,Não,,Não se aplica
+COL-1086,42,Não binário,Casado(a),Ensino médio,Tecnologia,Analista de Dados,3,2013-04-01,12,10000.0,22,Sim,Raramente,3,1,1,5,2,Não,Não,,Não se aplica
+COL-1087,28,Feminino,União estável,Graduação,Recursos Humanos,Analista de RH,2,2019-10-20,7,6750.0,52,Não,Nunca,3,1,5,5,0,Não,Não,,Não se aplica
+COL-1088,38,Feminino,União estável,Ensino médio,Comercial,Analista Comercial,3,2019-02-20,6,8900.0,11,Não,Nunca,1,2,3,3,0,Não,Sim,2024-03-28 13:00:13.215,Nova oportunidade profissional
+COL-1089,60,Masculino,Divorciado(a),Pós-graduação,Tecnologia,Analista de Dados,4,2020-01-10,5,12850.0,44,Sim,Frequentemente,5,3,2,3,5,Não,Sim,2024-08-12 16:41:35.640,Qualidade de vida
+COL-1090,45,Masculino,União estável,Graduação,Recursos Humanos,Business Partner,3,2013-03-05,13,8500.0,45,Não,Raramente,5,1,2,3,2,Não,Não,,Não se aplica
+COL-1091,56,Feminino,Divorciado(a),Ensino médio,Tecnologia,Engenheiro de Dados,5,2014-02-18,12,13650.0,25,Não,Nunca,3,1,5,2,3,Não,Não,,Não se aplica
+COL-1092,23,Feminino,União estável,Pós-graduação,Marketing,Analista de Marketing,1,2026-01-24,0,6900.0,52,Não,Raramente,4,5,2,3,3,Não,Não,,Não se aplica
+COL-1093,24,Não binário,Casado(a),Graduação,Recursos Humanos,Analista de RH,1,2024-09-25,2,6600.0,42,Sim,Frequentemente,1,1,3,5,5,Não,Não,,Não se aplica
+COL-1094,49,Masculino,Divorciado(a),Pós-graduação,Tecnologia,Analista de Dados,4,2023-09-26,2,13000.0,7,Não,Raramente,4,4,3,3,3,Sim,Sim,2025-11-09 12:30:24.857,Nova oportunidade profissional
+COL-1095,43,Masculino,União estável,Mestrado,Tecnologia,Analista de Dados,3,2017-08-21,9,10100.0,46,Não,Raramente,2,5,2,4,5,Sim,Sim,2025-12-28 08:53:52.946,Nova oportunidade profissional
+COL-1096,30,Feminino,Casado(a),Graduação,Financeiro,Analista Financeiro,2,2014-10-17,12,8900.0,41,Não,Frequentemente,1,3,4,2,6,Não,Não,,Não se aplica
+COL-1097,45,Feminino,Casado(a),Graduação,Tecnologia,Analista de Dados,3,2020-03-11,5,10700.0,13,Não,Frequentemente,2,4,4,5,2,Não,Não,,Não se aplica
+COL-1098,22,Feminino,Divorciado(a),Pós-graduação,Financeiro,Analista Financeiro,1,2024-10-05,1,6150.0,27,Não,Raramente,3,2,4,3,6,Não,Sim,2025-07-15 12:05:56.415,Mudança de cidade
+COL-1099,30,Masculino,Divorciado(a),Ensino médio,Marketing,Analista de Marketing,2,2013-06-21,12,7450.0,25,Não,Frequentemente,4,2,3,2,0,Não,Sim,2025-09-09 11:14:30.010,Desempenho abaixo do esperado
+COL-1100,33,Masculino,Casado(a),Pós-graduação,Financeiro,Analista Financeiro,2,2021-04-02,4,8350.0,26,Não,Raramente,3,2,2,5,3,Sim,Não,,Não se aplica
+COL-1101,31,Feminino,Divorciado(a),Tecnólogo,Comercial,Executivo de Contas,2,2020-10-04,5,8050.0,8,Não,Nunca,2,3,4,3,3,Não,Não,,Não se aplica
+COL-1102,45,Feminino,Casado(a),Mestrado,Operações,Coordenador de Operações,3,2012-11-09,14,9500.0,52,Não,Raramente,4,2,2,4,1,Não,Não,,Não se aplica
+COL-1103,38,Feminino,Casado(a),Graduação,Recursos Humanos,Analista de RH,2,2019-03-14,7,7550.0,47,Sim,Raramente,1,5,3,3,5,Não,Não,,Não se aplica
+COL-1104,44,Feminino,Casado(a),Ensino médio,Tecnologia,Analista de Dados,4,2017-10-05,9,13200.0,40,Não,Raramente,5,3,2,3,0,Não,Não,,Não se aplica
+COL-1105,52,Masculino,Casado(a),Graduação,Operações,Coordenador de Operações,4,2019-08-20,7,10400.0,37,Não,Raramente,3,4,1,2,2,Não,Sim,2025-10-04 09:18:04.763,Nova oportunidade profissional
+COL-1106,52,Feminino,Casado(a),Graduação,Operações,Coordenador de Operações,4,2021-08-13,4,10950.0,23,Não,Nunca,4,1,5,3,0,Não,Não,,Não se aplica
+COL-1107,40,Masculino,Casado(a),Graduação,Operações,Coordenador de Operações,3,2016-01-15,10,8350.0,45,Não,Frequentemente,4,4,4,2,3,Sim,Não,,Não se aplica
+COL-1108,36,Feminino,Casado(a),Mestrado,Comercial,Analista Comercial,3,2012-10-09,14,9150.0,40,Não,Raramente,5,2,1,5,6,Não,Não,,Não se aplica
+COL-1109,57,Não binário,Divorciado(a),Mestrado,Comercial,Analista Comercial,4,2013-11-14,12,10600.0,33,Não,Raramente,5,1,4,3,0,Sim,Não,,Não se aplica
+COL-1110,58,Feminino,Casado(a),Tecnólogo,Tecnologia,Engenheiro de Dados,5,2023-10-03,3,14800.0,4,Sim,Frequentemente,5,3,2,3,2,Não,Não,,Não se aplica
+COL-1111,45,Masculino,Solteiro(a),Graduação,Operações,Coordenador de Operações,3,2015-04-08,10,8950.0,1,Não,Frequentemente,1,4,1,5,0,Sim,Não,,Não se aplica
+COL-1112,30,Feminino,Casado(a),Graduação,Marketing,Analista de Marketing,2,2023-08-25,2,7200.0,31,Não,Raramente,5,2,3,2,3,Não,Não,,Não se aplica
+COL-1113,20,Masculino,Solteiro(a),Pós-graduação,Tecnologia,Desenvolvedor,1,2025-01-22,0,6700.0,46,Sim,Raramente,2,1,1,4,6,Não,Sim,2026-04-27 22:47:30.444,Qualidade de vida
+COL-1114,50,Feminino,União estável,Pós-graduação,Atendimento,Analista de Atendimento,4,2020-02-11,6,8750.0,41,Não,Nunca,5,5,5,3,1,Não,Não,,Não se aplica
+COL-1115,23,Feminino,Casado(a),Graduação,Financeiro,Analista Financeiro,2,2025-11-24,0,8850.0,52,Não,Raramente,2,3,2,3,5,Não,Não,,Não se aplica
+COL-1116,24,Feminino,Casado(a),Graduação,Marketing,Analista de Marketing,2,2022-08-04,3,8000.0,10,Não,Raramente,1,4,2,3,2,Não,Sim,2025-06-03 16:50:52.021,Qualidade de vida
+COL-1117,53,Feminino,Solteiro(a),Ensino médio,Tecnologia,Analista de Dados,3,2021-03-11,5,10650.0,32,Sim,Frequentemente,5,3,4,4,4,Não,Sim,2024-07-03 19:10:38.885,Falta de perspectiva de crescimento
+COL-1118,47,Feminino,Solteiro(a),Graduação,Marketing,Especialista de Marketing,4,2020-06-18,5,11700.0,38,Não,Frequentemente,3,2,4,3,6,Não,Não,,Não se aplica
+COL-1119,34,Feminino,Casado(a),Graduação,Operações,Coordenador de Operações,3,2013-07-25,12,8550.0,8,Sim,Nunca,4,3,3,3,6,Não,Não,,Não se aplica
+COL-1120,50,Masculino,Solteiro(a),Graduação,Financeiro,Controller,3,2025-03-04,0,9500.0,42,Sim,Raramente,5,4,2,3,5,Não,Sim,2026-06-22 13:29:20.237,Desempenho abaixo do esperado
+COL-1121,33,Não binário,Solteiro(a),Graduação,Comercial,Executivo de Contas,2,2018-12-06,7,8350.0,12,Sim,Raramente,3,3,4,2,2,Sim,Não,,Não se aplica
+COL-1122,45,Feminino,União estável,Pós-graduação,Recursos Humanos,Analista de RH,2,2012-11-22,14,7150.0,2,Não,Nunca,2,5,4,3,5,Sim,Sim,2025-11-11 18:42:26.866,Nova oportunidade profissional
+COL-1123,55,Masculino,Solteiro(a),Tecnólogo,Financeiro,Controller,4,2023-04-04,2,12050.0,3,Não,Raramente,2,3,5,4,5,Sim,Não,,Não se aplica
+COL-1124,51,Masculino,Casado(a),Mestrado,Financeiro,Controller,4,2017-01-15,9,11450.0,26,Não,Raramente,3,3,4,3,0,Não,Não,,Não se aplica
+COL-1125,56,Masculino,União estável,Mestrado,Recursos Humanos,Especialista de Pessoas,5,2016-09-02,9,13200.0,10,Sim,Raramente,1,5,1,4,5,Não,Não,,Não se aplica
+COL-1126,33,Masculino,Solteiro(a),Graduação,Financeiro,Analista Financeiro,1,2021-04-06,4,5700.0,18,Não,Raramente,1,2,4,3,3,Não,Não,,Não se aplica
+COL-1127,39,Feminino,Solteiro(a),Tecnólogo,Recursos Humanos,Business Partner,3,2013-07-10,13,10050.0,26,Sim,Frequentemente,5,5,2,3,4,Sim,Não,,Não se aplica
+COL-1128,47,Feminino,Casado(a),Tecnólogo,Tecnologia,Analista de Dados,3,2023-08-15,3,10150.0,45,Sim,Raramente,5,1,3,2,4,Não,Não,,Não se aplica
+COL-1129,60,Masculino,Divorciado(a),Graduação,Recursos Humanos,Business Partner,4,2023-09-26,2,11050.0,27,Não,Nunca,4,2,3,4,4,Não,Não,,Não se aplica
+COL-1130,59,Feminino,Divorciado(a),Graduação,Atendimento,Supervisor de Atendimento,5,2019-06-18,7,11400.0,20,Sim,Raramente,4,3,2,3,6,Não,Sim,2024-10-21 23:48:46.281,Reestruturação organizacional
+COL-1131,43,Feminino,União estável,Mestrado,Marketing,Especialista de Marketing,3,2014-07-25,11,9250.0,42,Não,Nunca,4,2,3,2,2,Não,Sim,2025-03-23 02:36:54.457,Falta de perspectiva de crescimento
+COL-1132,32,Masculino,Casado(a),Mestrado,Tecnologia,Analista de Dados,3,2015-10-26,10,11200.0,51,Sim,Raramente,4,4,5,3,0,Não,Não,,Não se aplica
+COL-1133,26,Feminino,União estável,Tecnólogo,Marketing,Analista de Marketing,2,2018-12-01,7,6950.0,11,Sim,Frequentemente,5,5,4,3,4,Não,Não,,Não se aplica
+COL-1134,30,Feminino,Divorciado(a),Pós-graduação,Comercial,Executivo de Contas,2,2024-05-04,2,6900.0,14,Não,Frequentemente,1,4,2,3,0,Sim,Sim,2026-07-03 05:43:58.405,Remuneração e benefícios
+COL-1135,53,Não binário,Solteiro(a),Pós-graduação,Recursos Humanos,Business Partner,4,2018-01-08,7,10050.0,17,Não,Nunca,1,3,3,5,3,Não,Sim,2023-04-15 04:47:26.673,Desempenho abaixo do esperado
+COL-1136,30,Masculino,União estável,Mestrado,Financeiro,Analista Financeiro,2,2017-11-25,8,7550.0,23,Sim,Frequentemente,2,3,1,3,2,Não,Sim,2024-12-01 00:29:11.150,Remuneração e benefícios
+COL-1137,28,Masculino,Casado(a),Mestrado,Tecnologia,Desenvolvedor,2,2022-10-11,3,9100.0,40,Não,Frequentemente,1,4,3,5,3,Não,Não,,Não se aplica
+COL-1138,40,Não binário,União estável,Mestrado,Atendimento,Assistente de Atendimento,2,2016-12-16,9,6950.0,26,Não,Frequentemente,5,5,3,2,6,Não,Não,,Não se aplica
+COL-1139,39,Feminino,União estável,Mestrado,Marketing,Analista de Marketing,2,2018-02-27,7,7400.0,28,Não,Frequentemente,1,3,5,4,2,Sim,Não,,Não se aplica
+COL-1140,42,Não binário,Divorciado(a),Mestrado,Operações,Coordenador de Operações,4,2015-06-15,10,10800.0,7,Sim,Raramente,3,4,5,3,4,Sim,Não,,Não se aplica
+COL-1141,29,Masculino,Solteiro(a),Graduação,Operações,Analista de Operações,2,2024-11-08,1,6550.0,1,Não,Frequentemente,1,4,4,4,0,Não,Sim,2026-01-22 15:34:26.276,Mudança de cidade
+COL-1142,48,Masculino,Divorciado(a),Ensino médio,Financeiro,Controller,3,2021-12-25,4,9350.0,49,Não,Raramente,2,2,5,2,0,Não,Não,,Não se aplica
+COL-1143,57,Feminino,Casado(a),Pós-graduação,Comercial,Analista Comercial,4,2018-02-26,7,10950.0,7,Não,Raramente,5,2,4,4,2,Não,Não,,Não se aplica
+COL-1144,36,Feminino,União estável,Ensino médio,Financeiro,Analista Financeiro,2,2014-10-12,11,7900.0,7,Não,Nunca,5,3,1,4,4,Não,Não,,Não se aplica
+COL-1145,22,Feminino,Divorciado(a),Ensino médio,Marketing,Analista de Marketing,1,2024-09-16,1,6750.0,13,Não,Raramente,1,5,4,2,6,Não,Não,,Não se aplica
+COL-1146,55,Feminino,União estável,Ensino médio,Operações,Coordenador de Operações,4,2012-02-24,14,10500.0,10,Não,Frequentemente,3,4,4,2,5,Sim,Não,,Não se aplica
+COL-1147,60,Feminino,União estável,Mestrado,Financeiro,Controller,4,2013-08-02,13,10700.0,40,Sim,Nunca,4,3,2,3,4,Sim,Sim,2023-01-21 03:07:43.176,Nova oportunidade profissional
+COL-1148,43,Feminino,Casado(a),Pós-graduação,Tecnologia,Analista de Dados,3,2016-03-17,10,10750.0,15,Sim,Frequentemente,3,3,3,3,1,Não,Não,,Não se aplica
+COL-1149,54,Masculino,Casado(a),Mestrado,Atendimento,Analista de Atendimento,4,2022-05-24,3,10400.0,42,Não,Nunca,1,2,2,3,1,Sim,Sim,2026-07-28 14:15:17.237,Falta de perspectiva de crescimento
+COL-1150,27,Feminino,Casado(a),Graduação,Financeiro,Analista Financeiro,2,2024-01-22,2,8700.0,44,Não,Raramente,2,5,1,3,2,Sim,Sim,2024-05-25 12:51:24.928,Falta de perspectiva de crescimento
+COL-1151,49,Masculino,Solteiro(a),Mestrado,Comercial,Analista Comercial,3,2020-06-20,6,9700.0,39,Não,Nunca,3,2,4,3,4,Sim,Não,,Não se aplica
+COL-1152,41,Feminino,Solteiro(a),Mestrado,Atendimento,Analista de Atendimento,3,2025-12-21,0,8500.0,4,Não,Frequentemente,3,4,5,3,4,Não,Não,,Não se aplica
+COL-1153,25,Masculino,Divorciado(a),Ensino médio,Recursos Humanos,Analista de RH,1,2022-04-09,3,6650.0,16,Não,Frequentemente,1,1,1,3,1,Não,Não,,Não se aplica
+COL-1154,32,Não binário,Divorciado(a),Ensino médio,Financeiro,Analista Financeiro,2,2014-03-11,11,8900.0,42,Não,Raramente,2,5,1,4,1,Não,Não,,Não se aplica
+COL-1155,29,Não binário,Casado(a),Pós-graduação,Tecnologia,Desenvolvedor,1,2023-08-01,2,6750.0,37,Não,Frequentemente,4,2,5,4,3,Não,Não,,Não se aplica
+COL-1156,59,Masculino,União estável,Mestrado,Operações,Especialista de Processos,5,2014-01-15,11,11750.0,34,Não,Raramente,4,1,4,4,1,Sim,Não,,Não se aplica
+COL-1157,50,Masculino,Casado(a),Graduação,Comercial,Analista Comercial,4,2013-06-09,13,11350.0,6,Sim,Nunca,5,2,5,2,5,Não,Não,,Não se aplica
+COL-1158,20,Feminino,Solteiro(a),Tecnólogo,Operações,Analista de Operações,1,2025-11-16,0,6250.0,39,Não,Raramente,5,4,3,2,4,Não,Não,,Não se aplica
+COL-1159,30,Não binário,Solteiro(a),Pós-graduação,Recursos Humanos,Analista de RH,1,2020-04-15,6,5650.0,14,Sim,Raramente,4,2,4,4,2,Não,Sim,2022-10-22 15:35:17.582,Nova oportunidade profissional
+COL-1160,24,Feminino,Casado(a),Graduação,Atendimento,Assistente de Atendimento,1,2022-03-09,4,5250.0,38,Não,Nunca,5,1,3,5,3,Não,Não,,Não se aplica
+COL-1161,33,Masculino,Solteiro(a),Graduação,Atendimento,Assistente de Atendimento,2,2025-11-24,1,6450.0,27,Não,Raramente,5,1,2,3,4,Não,Não,,Não se aplica
+COL-1162,46,Masculino,União estável,Graduação,Financeiro,Controller,4,2012-09-27,13,10650.0,24,Não,Nunca,5,4,2,2,5,Não,Não,,Não se aplica
+COL-1163,34,Feminino,Divorciado(a),Tecnólogo,Recursos Humanos,Analista de RH,2,2016-06-24,9,8000.0,29,Não,Raramente,5,3,2,3,6,Sim,Não,,Não se aplica
+COL-1164,55,Não binário,União estável,Graduação,Operações,Coordenador de Operações,4,2014-04-11,11,10450.0,52,Não,Frequentemente,5,3,5,4,3,Não,Não,,Não se aplica
+COL-1165,28,Feminino,Casado(a),Pós-graduação,Marketing,Analista de Marketing,2,2020-07-27,5,7800.0,20,Não,Raramente,2,2,5,3,1,Não,Não,,Não se aplica
+COL-1166,25,Masculino,Solteiro(a),Tecnólogo,Comercial,Executivo de Contas,2,2025-08-20,1,8400.0,34,Não,Frequentemente,5,1,3,2,3,Não,Não,,Não se aplica
+COL-1167,47,Não binário,Solteiro(a),Graduação,Operações,Coordenador de Operações,3,2022-10-28,4,8400.0,17,Sim,Frequentemente,2,1,5,4,3,Não,Não,,Não se aplica
+COL-1168,55,Masculino,Solteiro(a),Pós-graduação,Operações,Coordenador de Operações,4,2018-10-12,7,10500.0,25,Não,Raramente,3,2,5,4,3,Sim,Não,,Não se aplica
+COL-1169,26,Feminino,Casado(a),Tecnólogo,Financeiro,Analista Financeiro,1,2025-05-22,0,5750.0,25,Não,Raramente,2,5,2,4,5,Não,Sim,2026-03-23 20:45:27.110,Falta de perspectiva de crescimento
+COL-1170,28,Masculino,União estável,Graduação,Atendimento,Assistente de Atendimento,2,2021-10-18,5,5500.0,46,Não,Frequentemente,3,4,4,2,4,Não,Não,,Não se aplica
+COL-1171,29,Feminino,União estável,Ensino médio,Comercial,Executivo de Contas,2,2018-09-23,8,7250.0,22,Não,Nunca,1,2,5,3,0,Não,Não,,Não se aplica
+COL-1172,54,Não binário,União estável,Mestrado,Operações,Especialista de Processos,5,2020-04-09,5,12050.0,8,Não,Nunca,4,4,3,3,4,Sim,Não,,Não se aplica
+COL-1173,42,Feminino,Divorciado(a),Tecnólogo,Comercial,Executivo de Contas,2,2022-04-28,3,7300.0,26,Sim,Raramente,2,4,4,3,0,Não,Sim,2026-05-17 08:33:41.756,Reestruturação organizacional
+COL-1174,49,Feminino,Divorciado(a),Ensino médio,Atendimento,Analista de Atendimento,3,2021-04-07,4,8000.0,28,Sim,Frequentemente,5,3,4,4,6,Sim,Não,,Não se aplica
+COL-1175,52,Feminino,Solteiro(a),Ensino médio,Marketing,Especialista de Marketing,3,2020-09-23,5,9950.0,35,Não,Frequentemente,4,4,3,4,3,Não,Não,,Não se aplica
+COL-1176,41,Feminino,Casado(a),Graduação,Operações,Coordenador de Operações,3,2023-03-16,2,9300.0,42,Sim,Frequentemente,2,4,1,2,2,Não,Não,,Não se aplica
+COL-1177,42,Feminino,Divorciado(a),Graduação,Operações,Analista de Operações,2,2021-05-27,5,7600.0,45,Sim,Raramente,2,5,3,3,5,Não,Não,,Não se aplica
+COL-1178,49,Masculino,Solteiro(a),Graduação,Financeiro,Controller,3,2020-02-28,6,10150.0,38,Sim,Raramente,4,3,4,2,0,Não,Não,,Não se aplica
+COL-1179,46,Feminino,Casado(a),Mestrado,Comercial,Analista Comercial,3,2014-01-07,11,8800.0,39,Não,Frequentemente,2,1,2,3,1,Não,Sim,2022-04-02 06:49:23.020,Qualidade de vida
+COL-1180,35,Masculino,Solteiro(a),Mestrado,Operações,Analista de Operações,2,2012-07-07,13,6950.0,50,Não,Raramente,4,5,2,2,6,Sim,Não,,Não se aplica
+COL-1181,61,Masculino,Casado(a),Ensino médio,Tecnologia,Analista de Dados,4,2014-10-20,11,12000.0,23,Não,Frequentemente,1,1,5,3,1,Não,Sim,2024-08-17 14:11:53.094,Nova oportunidade profissional
+COL-1182,61,Feminino,Casado(a),Mestrado,Operações,Especialista de Processos,5,2012-06-07,14,12900.0,28,Não,Nunca,5,3,1,4,2,Não,Não,,Não se aplica
+COL-1183,53,Masculino,Solteiro(a),Graduação,Marketing,Especialista de Marketing,4,2025-01-07,0,11600.0,12,Sim,Raramente,3,4,2,5,6,Não,Não,,Não se aplica
+COL-1184,23,Não binário,União estável,Pós-graduação,Tecnologia,Desenvolvedor,2,2025-04-08,0,8600.0,45,Sim,Frequentemente,2,1,4,3,2,Não,Não,,Não se aplica
+COL-1185,26,Feminino,Divorciado(a),Mestrado,Tecnologia,Desenvolvedor,1,2024-06-02,1,7600.0,49,Não,Nunca,2,4,1,3,5,Não,Não,,Não se aplica
+COL-1186,52,Feminino,União estável,Graduação,Recursos Humanos,Business Partner,4,2021-03-11,5,11150.0,17,Não,Raramente,1,5,1,4,3,Não,Sim,2026-01-18 22:19:20.243,Remuneração e benefícios
+COL-1187,31,Masculino,União estável,Tecnólogo,Atendimento,Assistente de Atendimento,2,2016-12-23,9,6100.0,51,Não,Nunca,1,2,3,4,5,Não,Não,,Não se aplica
+COL-1188,52,Feminino,Casado(a),Mestrado,Marketing,Especialista de Marketing,4,2018-04-18,8,10450.0,30,Sim,Raramente,5,5,3,4,4,Sim,Não,,Não se aplica
+COL-1189,30,Não binário,União estável,Pós-graduação,Comercial,Executivo de Contas,2,2015-04-17,10,8500.0,51,Não,Frequentemente,2,1,2,2,0,Não,Sim,2023-04-24 15:26:44.638,Desempenho abaixo do esperado
+COL-1190,37,Feminino,Casado(a),Tecnólogo,Atendimento,Analista de Atendimento,3,2011-04-17,14,7400.0,5,Sim,Frequentemente,4,3,3,4,0,Não,Sim,2023-11-23 18:44:06.748,Qualidade de vida
+COL-1191,38,Feminino,Solteiro(a),Ensino médio,Recursos Humanos,Analista de RH,2,2025-09-20,0,8050.0,41,Não,Raramente,3,3,4,5,6,Não,Não,,Não se aplica
+COL-1192,58,Feminino,Casado(a),Tecnólogo,Comercial,Gerente Comercial,5,2023-09-27,3,13250.0,42,Não,Nunca,2,4,4,5,2,Não,Não,,Não se aplica
+COL-1193,54,Masculino,Casado(a),Mestrado,Comercial,Analista Comercial,4,2023-12-16,3,10500.0,35,Sim,Nunca,2,1,4,2,1,Sim,Sim,2024-12-04 00:19:27.042,Falta de perspectiva de crescimento
+COL-1194,20,Masculino,União estável,Graduação,Comercial,Executivo de Contas,1,2024-05-17,2,6300.0,42,Sim,Raramente,2,2,3,3,5,Não,Não,,Não se aplica
+COL-1195,54,Masculino,Solteiro(a),Ensino médio,Marketing,Coordenador de Marketing,5,2017-12-02,8,12750.0,14,Sim,Frequentemente,3,5,4,4,5,Não,Não,,Não se aplica
+COL-1196,29,Feminino,Solteiro(a),Graduação,Operações,Analista de Operações,2,2021-05-04,4,7100.0,6,Não,Raramente,2,4,2,2,5,Não,Não,,Não se aplica
+COL-1197,33,Feminino,Divorciado(a),Graduação,Tecnologia,Analista de Dados,3,2018-01-14,7,11050.0,11,Não,Raramente,2,3,1,4,4,Não,Não,,Não se aplica
+COL-1198,31,Feminino,Solteiro(a),Graduação,Recursos Humanos,Analista de RH,2,2020-11-26,5,7950.0,19,Não,Frequentemente,2,3,4,3,2,Não,Sim,2025-09-29 01:31:21.030,Reestruturação organizacional
+COL-1199,43,Masculino,Solteiro(a),Graduação,Recursos Humanos,Business Partner,3,2026-04-27,0,9150.0,24,Não,Raramente,3,2,4,5,6,Não,Não,,Não se aplica
+COL-1200,57,Feminino,União estável,Tecnólogo,Operações,Coordenador de Operações,4,2025-07-22,0,10700.0,38,Não,Frequentemente,1,3,5,3,6,Não,Sim,2025-10-26 11:13:11.669,Remuneração e benefícios
