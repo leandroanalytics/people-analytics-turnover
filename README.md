@@ -204,36 +204,44 @@ A base utilizada é sintética e os resultados representam associações present
 
 O indicador de fatores acumulados possui caráter exploratório. Ele deve ser utilizado para análises agregadas e planejamento organizacional, nunca para classificar, punir ou tomar decisões individuais sobre colaboradores.
 
+
 ## Como Executar o Projeto
 
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
-cd NOME_DO_REPOSITORIO
+# Clona o repositório
+git clone https://github.com/leandroanalytics/python-eda.git
+
+# Acessa a pasta do projeto
+cd python-eda
 ```
 
 Crie o ambiente virtual:
 
 ```bash
+# Cria o ambiente virtual
 python -m venv .venv
 ```
 
 Ative o ambiente no Windows:
 
 ```powershell
+# Ativa o ambiente virtual no Windows
 .venv\Scripts\activate
 ```
 
 No Linux ou macOS:
 
 ```bash
+# Ativa o ambiente virtual no Linux ou macOS
 source .venv/bin/activate
 ```
 
 Instale as dependências:
 
 ```bash
+# Instala as bibliotecas necessárias
 pip install -r requirements.txt
 ```
 
