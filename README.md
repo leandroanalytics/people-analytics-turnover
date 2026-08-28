@@ -128,6 +128,8 @@ Atendimento apresentou a maior taxa de rotatividade, com 33,5%, enquanto Tecnolo
 
 ### Horas extras
 
+![Taxa de rotatividade por horas extras](imagens/rotatividade_por_horas_extras.png)
+
 Colaboradores que realizam horas extras apresentaram taxa de 29,2%, contra 25,6% entre aqueles que não realizam.
 
 ### Satisfação no trabalho
@@ -138,6 +140,8 @@ Os níveis baixos de satisfação apresentaram taxas superiores a 32%. Entre col
 
 ### Tempo de empresa
 
+![Taxa de rotatividade por tempo de empresa](imagens/rotatividade_por_tempo_empresa.png)
+
 O período de maior rotatividade está concentrado nos três primeiros anos:
 
 * Até 1 ano: 31,9%
@@ -146,6 +150,8 @@ O período de maior rotatividade está concentrado nos três primeiros anos:
 
 ### Faixa salarial
 
+![Taxa de rotatividade por faixa salarial](imagens/rotatividade_por_faixa_salarial.png)
+
 A rotatividade apresentou redução conforme o nível salarial aumentou:
 
 * Menores salários: 30,0%
@@ -153,9 +159,13 @@ A rotatividade apresentou redução conforme o nível salarial aumentou:
 
 ### Promoção
 
+![Taxa de rotatividade por histórico de promoção](imagens/rotatividade_por_promocao.png)
+
 Colaboradores sem promoção nos últimos cinco anos apresentaram taxa de 28,52%. Entre os promovidos, o indicador foi de 22,07%.
 
 ### Equilíbrio entre vida e trabalho
+
+![Taxa de rotatividade por equilíbrio entre vida e trabalho](imagens/rotatividade_por_equilibrio_vida_trabalho.png)
 
 O nível mais baixo de equilíbrio apresentou taxa de 33,5%. Nos níveis moderados e altos, os indicadores permaneceram abaixo da taxa geral.
 
