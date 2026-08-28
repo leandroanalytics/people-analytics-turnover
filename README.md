@@ -52,8 +52,9 @@ A base não contém dados pessoais reais.
 ## Estrutura do Projeto
 
 ```text
-RH Analytics
+python-eda
 ├── data
+│   ├── People_Analytics_Analise_de_Rotatividade_de_Colaboradores.xlsx
 │   ├── People_Analytics_Base_Tratada.csv
 │   ├── People_Analytics_Base_Tratada.xlsx
 │   ├── People_Analytics_Base_Analitica.csv
@@ -73,7 +74,6 @@ RH Analytics
 │   └── 02_eda.ipynb
 ├── powerBi
 │   └── People_Analytics_Resumo_Executivo.xlsx
-├── sql
 ├── .gitignore
 ├── README.md
 └── requirements.txt
