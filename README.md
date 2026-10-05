@@ -54,7 +54,7 @@ A base não contém dados pessoais reais.
 ## Estrutura do Projeto
 
 ```text
-python-eda
+people-analytics-turnover
 ├── data
 │   ├── People_Analytics_Analise_de_Rotatividade_de_Colaboradores.xlsx
 │   ├── People_Analytics_Base_Tratada.csv
@@ -233,10 +233,10 @@ Clone o repositório:
 
 ```bash
 # Clona o repositório
-git clone https://github.com/leandroanalytics/python-eda.git
+git clone https://github.com/leandroanalytics/people-analytics-turnover.git
 
 # Acessa a pasta do projeto
-cd python-eda
+cd people-analytics-turnover
 ```
 
 Crie o ambiente virtual:
