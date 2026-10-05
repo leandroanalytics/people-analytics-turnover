@@ -1,280 +1,202 @@
 # People Analytics — Análise de Rotatividade de Colaboradores
 
-Projeto de análise de dados desenvolvido para investigar os principais fatores associados à rotatividade de colaboradores e transformar os resultados em recomendações para retenção, desenvolvimento e gestão de pessoas.
+![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-2.3-150458?logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-testes%20estatísticos-8CAAE6?logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-regressão%20logística-4B8BBE)
+![Power BI](https://img.shields.io/badge/Power%20BI-dashboard-F2C811?logo=powerbi&logoColor=black)
 
-A solução contempla preparação dos dados, análise exploratória com Python, visualizações, indicadores executivos e geração de arquivos para utilização no Power BI.
+Análise ponta a ponta da rotatividade de 1.200 colaboradores: tratamento dos dados, análise exploratória com testes estatísticos, evolução do turnover ao longo do tempo e um modelo de regressão logística para identificar o que realmente explica as saídas voluntárias.
+
+## Resumo em 30 segundos
+
+- **O turnover anual mais que dobrou:** foi de 5,2% em 2022 para 9,6% em 2025 e caminha para **14,0% em 2026** (anualizado). Cerca de 3 em cada 4 saídas são voluntárias.
+- **O primeiro ano é o período crítico:** **46,9%** dos colaboradores com até 1 ano de casa foram desligados, contra 13,6% entre os que têm mais de 10 anos.
+- **Só três fatores se sustentam no modelo:** tempo de empresa, satisfação no trabalho e equilíbrio entre vida e trabalho. Cada nível a mais de satisfação reduz a chance de saída em cerca de 15%.
+- **Nem toda diferença é real:** área, salário e horas extras mostram diferenças nos gráficos, mas **não são estatisticamente significativas**. O efeito da promoção **desaparece** quando se controla o tempo de empresa.
+
+![Evolução do turnover anual](imagens/evolucao_turnover_anual.png)
+
+**Recomendação principal:** concentrar as ações de retenção no primeiro ano do colaborador (onboarding, acompanhamento de 30/60/90 dias e conversas de permanência) e monitorar mensalmente satisfação e equilíbrio entre vida e trabalho.
+
+---
 
 ## Problema de Negócio
 
-A rotatividade pode gerar custos com recrutamento, seleção, treinamento e perda de conhecimento. Para apoiar decisões de People Analytics, este projeto busca responder:
+A rotatividade gera custos com recrutamento, seleção, treinamento e perda de conhecimento. O projeto responde:
 
-* Qual é a taxa geral de rotatividade?
-* Quais áreas apresentam maior proporção de desligamentos?
-* Horas extras estão associadas à maior rotatividade?
-* Como satisfação e equilíbrio entre vida e trabalho se relacionam com os desligamentos?
-* Em qual período da jornada do colaborador ocorre maior risco de saída?
-* Remuneração e promoção estão associadas à permanência?
-* O acúmulo de fatores aumenta a taxa de rotatividade?
+1. Qual é o nível de rotatividade e como ele evolui ao longo do tempo?
+2. Em qual momento da jornada do colaborador o risco de saída é maior?
+3. Quais fatores estão associados às saídas e quais diferenças podem ser apenas variação aleatória?
+4. Quando todos os fatores são avaliados em conjunto, quais continuam relevantes?
+5. Onde a área de RH deve concentrar as ações de retenção?
 
-## Base de Dados
+## Principais Resultados
 
-A base sintética foi criada exclusivamente para fins educacionais e de portfólio.
+### 1. O turnover está acelerando
 
-### Estrutura inicial
+| Ano | Headcount médio | Desligamentos | Turnover anual | Turnover voluntário |
+| --- | ---: | ---: | ---: | ---: |
+| 2022 | 766 | 40 | 5,2% | 3,4% |
+| 2023 | 818 | 47 | 5,7% | 4,2% |
+| 2024 | 873 | 60 | 6,9% | 5,3% |
+| 2025 | 920 | 88 | 9,6% | 7,0% |
+| 2026* | 910 | 88 | 14,0% | 10,7% |
 
-* 1.212 registros brutos
-* 23 variáveis
-* 12 registros duplicados
-* 43 valores ausentes intencionais
+\* Dados até 09/09/2026, valores anualizados. Turnover = desligamentos ÷ headcount médio do ano.
 
-### Estrutura após o tratamento
+Em 2026 também houve forte redução de contratações (22 admissões até setembro, contra 135 em 2025), e o headcount caiu 6,9% no ano.
 
-* 1.200 registros únicos
-* Nenhuma duplicidade
-* Valores ausentes tratados
-* Tempo de empresa recalculado a partir das datas de admissão e desligamento
-* Tipos de dados padronizados
-* Regras de qualidade validadas
+### 2. Quase metade dos colaboradores sai no primeiro ano
 
-A base não contém dados pessoais reais.
+![Taxa de rotatividade por tempo de empresa](imagens/rotatividade_por_tempo_empresa.png)
 
-## Tecnologias Utilizadas
+### 3. O que é significativo e o que não é
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* SciPy (testes estatísticos)
-* OpenPyXL
-* Jupyter Notebook
-* Power BI
-* Git e GitHub
+Cada recorte foi avaliado com o **teste qui-quadrado de independência** (nível de significância de 5%):
+
+| Fator | Resultado | p-valor | Significativo? |
+| --- | --- | ---: | :---: |
+| Tempo de empresa | 46,9% no 1º ano vs. 13,6% acima de 10 anos | < 0,001 | Sim |
+| Satisfação no trabalho | 32,9%–34,2% nos níveis 1–2 vs. 21,6% no nível 5 | 0,002 | Sim |
+| Equilíbrio vida-trabalho | 33,5% no nível 1 vs. 21,6% no nível 4 | 0,031 | Sim |
+| Promoção nos últimos 5 anos | 28,5% sem promoção vs. 22,1% com promoção | 0,035 | Sim* |
+| Horas extras | 29,2% com vs. 25,6% sem | 0,20 | Não |
+| Área | 33,5% em Atendimento vs. 20,9% em Tecnologia | 0,27 | Não |
+| Faixa salarial | 30,0% no 1º quartil vs. 23,7% no 4º quartil | 0,38 | Não |
+
+\* Deixa de ser significativo no modelo multivariado (ver abaixo).
+
+### 4. O que explica a saída voluntária (regressão logística)
+
+Avaliando todos os fatores ao mesmo tempo, apenas três continuam associados à saída voluntária:
+
+| Fator | Odds ratio | Leitura |
+| --- | ---: | --- |
+| Tempo de empresa (+1 ano) | 0,86 | Reduz a chance de saída em ~14% |
+| Satisfação no trabalho (+1 nível) | 0,85 | Reduz a chance de saída em ~15% |
+| Equilíbrio vida-trabalho (+1 nível) | 0,87 | Reduz a chance de saída em ~13% |
+
+![Odds ratio do modelo](imagens/modelo_odds_ratio.png)
+
+A promoção, que parecia relevante na análise isolada, **não tem efeito** quando o tempo de empresa é controlado (odds ratio = 1,01; p = 0,94): quem está há mais tempo na empresa foi mais promovido e também sai menos.
+
+O modelo obteve **AUC de 0,68** em uma base de teste separada (30%). Ele é útil para **explicar** quais alavancas importam, mas não é preciso o suficiente para prever saídas individuais, e não deve ser usado para isso.
+
+### 5. Motivos de desligamento
+
+Os motivos estão distribuídos de forma equilibrada. Cerca de 27% das saídas foram por iniciativa da empresa (desempenho e reestruturação) e 73% por iniciativa do colaborador, com destaque para nova oportunidade profissional, qualidade de vida e falta de perspectiva de crescimento.
+
+<details>
+<summary><b>Ver todos os gráficos da análise exploratória</b></summary>
+
+![Satisfação](imagens/rotatividade_por_satisfacao_trabalho.png)
+![Equilíbrio](imagens/rotatividade_por_equilibrio_vida_trabalho.png)
+![Promoção](imagens/rotatividade_por_promocao.png)
+![Motivos](imagens/motivos_desligamento.png)
+![Área](imagens/rotatividade_por_area.png)
+![Horas extras](imagens/rotatividade_por_horas_extras.png)
+![Faixa salarial](imagens/rotatividade_por_faixa_salarial.png)
+![Acúmulo de fatores](imagens/rotatividade_por_acumulo_de_fatores.png)
+![Curva ROC](imagens/modelo_curva_roc.png)
+
+</details>
+
+## Recomendações
+
+| Prioridade | Evidência | Ação recomendada | Indicador de acompanhamento |
+| :---: | --- | --- | --- |
+| 1 | Turnover anual subiu de 5,2% para 14,0% | Definir meta anual de turnover e acompanhar mensalmente | Turnover 12 meses (total e voluntário) |
+| 2 | 46,9% de saída no primeiro ano | Onboarding com metas de 30/60/90 dias e conversas de permanência aos 3, 6 e 12 meses | Turnover em até 12 meses de casa |
+| 3 | Satisfação: −15% de chance de saída por nível | Pesquisas rápidas de clima e desenvolvimento de lideranças | Satisfação média por equipe |
+| 4 | Equilíbrio: −13% de chance de saída por nível | Revisar carga de trabalho, escalas e flexibilidade | Índice de equilíbrio vida-trabalho |
+| 5 | Área, salário e horas extras sem significância | Não priorizar ações com base nesses recortes; coletar dados mais detalhados | Horas extras em quantidade; salário vs. mercado |
+
+## Metodologia
+
+```text
+data/raw  ──►  01_etl  ──►  data/processed  ──►  02_eda  ──►  03_modelo  ──►  Power BI
+ (Excel)      limpeza e       base tratada       testes e      regressão       dashboard
+              validação       e analítica        evolução      logística
+```
+
+| Etapa | Notebook | Principais técnicas |
+| --- | --- | --- |
+| Preparação | [`01_etl.ipynb`](notebooks/01_etl.ipynb) | Remoção de 12 duplicidades, tratamento de 43 ausentes (mediana por grupo), recálculo do tempo de empresa a partir das datas, 14 testes automatizados de qualidade |
+| Análise exploratória | [`02_eda.ipynb`](notebooks/02_eda.ipynb) | Turnover anual e mensal (headcount médio), voluntário vs. involuntário, taxas por segmento, qui-quadrado e V de Cramér |
+| Modelo | [`03_modelo_rotatividade.ipynb`](notebooks/03_modelo_rotatividade.ipynb) | Regressão logística (statsmodels), odds ratio com IC 95%, validação treino/teste e AUC |
+| Dashboard | [`powerBi/GUIA_DASHBOARD.md`](powerBi/GUIA_DASHBOARD.md) | Modelo de dados, medidas DAX e layout das páginas |
+
+As funções reutilizáveis (cálculo de taxas, teste estatístico e padrão dos gráficos) ficam em [`src/people_analytics.py`](src/people_analytics.py), evitando repetição de código nos notebooks.
 
 ## Estrutura do Projeto
 
 ```text
 people-analytics-turnover
 ├── data
-│   ├── People_Analytics_Analise_de_Rotatividade_de_Colaboradores.xlsx
-│   ├── People_Analytics_Base_Tratada.csv
-│   ├── People_Analytics_Base_Tratada.xlsx
-│   ├── People_Analytics_Base_Analitica.csv
-│   └── People_Analytics_Resumo_KPIs.csv
+│   ├── raw
+│   │   └── People_Analytics_Analise_de_Rotatividade_de_Colaboradores.xlsx
+│   └── processed
+│       ├── People_Analytics_Base_Tratada.csv / .xlsx
+│       ├── People_Analytics_Base_Analitica.csv
+│       ├── People_Analytics_Rotatividade_Anual.csv
+│       ├── People_Analytics_Rotatividade_Mensal.csv
+│       ├── People_Analytics_Modelo_Odds_Ratio.csv
+│       └── People_Analytics_Resumo_KPIs.csv
 ├── imagens
-│   ├── distribuicao_rotatividade.png
-│   ├── motivos_desligamento.png
-│   ├── rotatividade_por_area.png
-│   ├── rotatividade_por_horas_extras.png
-│   ├── rotatividade_por_satisfacao_trabalho.png
-│   ├── rotatividade_por_tempo_empresa.png
-│   ├── rotatividade_por_faixa_salarial.png
-│   ├── rotatividade_por_promocao.png
-│   ├── rotatividade_por_equilibrio_vida_trabalho.png
-│   └── rotatividade_por_acumulo_de_fatores.png
 ├── notebooks
 │   ├── 01_etl.ipynb
-│   └── 02_eda.ipynb
+│   ├── 02_eda.ipynb
+│   └── 03_modelo_rotatividade.ipynb
 ├── powerBi
+│   ├── GUIA_DASHBOARD.md
 │   └── People_Analytics_Resumo_Executivo.xlsx
-├── .gitignore
+├── src
+│   └── people_analytics.py
 ├── README.md
 └── requirements.txt
 ```
 
-## Metodologia
+## Base de Dados
 
-### 1. Preparação e tratamento
+Base **sintética**, criada para fins educacionais e de portfólio. Não contém dados pessoais reais.
 
-* Importação da base em Excel
-* Diagnóstico da estrutura
-* Identificação de duplicidades
-* Identificação de valores ausentes
-* Preservação da base bruta
-* Remoção de 12 duplicidades
-* Tratamento de 43 valores ausentes
-* Padronização dos tipos de dados
-* Recálculo do tempo de empresa (o campo original contava o tempo dos desligados até a data atual, e não até a saída)
-* Validação de regras de qualidade
-* Exportação da base tratada
+- 1.212 registros brutos e 23 variáveis (dados demográficos, cargo, salário, satisfação, desempenho, promoção, data e motivo de desligamento);
+- 12 duplicidades e 43 valores ausentes intencionais;
+- Após o tratamento: 1.200 colaboradores únicos, 323 desligamentos (237 voluntários e 86 involuntários).
 
-### 2. Análise exploratória
-
-* Cálculo dos KPIs gerais
-* Rotatividade por área
-* Relação com horas extras
-* Satisfação no trabalho
-* Tempo de empresa
-* Faixa salarial
-* Histórico de promoção
-* Equilíbrio entre vida e trabalho
-* Motivos de desligamento
-* Acúmulo de fatores associados
-* Teste qui-quadrado de independência e V de Cramér em cada recorte
-
-## Principais Indicadores
-
-| Indicador                  |   Resultado |
-| -------------------------- | ----------: |
-| Total de colaboradores     |       1.200 |
-| Colaboradores ativos       |         877 |
-| Colaboradores desligados   |         323 |
-| Taxa acumulada de rotatividade |  26,92% |
-| Idade média                |   41,1 anos |
-| Tempo médio de empresa     |    5,9 anos |
-| Salário médio              | R$ 9.086,42 |
-
-> A taxa de rotatividade corresponde a desligados ÷ total de registros. Como os desligamentos estão distribuídos entre 2022 e 2026, trata-se de uma taxa **acumulada do período**, e não de um turnover anual.
-
-## Principais Resultados
-
-Cada recorte foi avaliado com o **teste qui-quadrado de independência** (nível de significância de 5%), para separar diferenças reais de variações que podem ocorrer por acaso.
-
-| Fator | Resultado | p-valor | Significativo? |
-| --- | --- | ---: | :---: |
-| Tempo de empresa | 46,9% no 1º ano vs. 13,6% acima de 10 anos | < 0,001 | Sim |
-| Acúmulo de fatores | 10,8% sem fatores vs. 39,6% com 3 ou mais | < 0,001 | Sim* |
-| Satisfação no trabalho | 32,9%–34,2% nos níveis 1–2 vs. 21,6% no nível 5 | 0,002 | Sim |
-| Equilíbrio vida-trabalho | 33,5% no nível 1 vs. 21,6% no nível 4 | 0,031 | Sim |
-| Promoção nos últimos 5 anos | 28,5% sem promoção vs. 22,1% com promoção | 0,035 | Sim |
-| Horas extras | 29,2% com vs. 25,6% sem | 0,20 | Não |
-| Área | 33,5% em Atendimento vs. 20,9% em Tecnologia | 0,27 | Não |
-| Faixa salarial | 30,0% no 1º quartil vs. 23,7% no 4º quartil | 0,38 | Não |
-
-\* Resultado parcialmente circular: os fatores foram escolhidos a partir desta mesma base (ver abaixo).
-
-### Tempo de empresa
-
-O primeiro ano é o período mais crítico: quase metade dos colaboradores com até 1 ano de casa foi desligada. O risco cai de forma consistente com o tempo de empresa. É o fator com a associação mais forte da análise.
-
-![Taxa de rotatividade por tempo de empresa](imagens/rotatividade_por_tempo_empresa.png)
-
-### Satisfação no trabalho
-
-Os níveis 1 e 2 de satisfação apresentam taxas acima de 32%. A partir do nível 3, a taxa cai para menos de 24%.
-
-![Taxa de rotatividade por satisfação](imagens/rotatividade_por_satisfacao_trabalho.png)
-
-### Equilíbrio entre vida e trabalho
-
-O nível mais baixo de equilíbrio apresentou taxa de 33,5%. Nos níveis 3 a 5, os indicadores ficaram abaixo da taxa geral.
-
-![Taxa de rotatividade por equilíbrio entre vida e trabalho](imagens/rotatividade_por_equilibrio_vida_trabalho.png)
-
-### Promoção
-
-Colaboradores sem promoção nos últimos cinco anos apresentaram taxa de 28,5%, contra 22,1% entre os promovidos. A associação é fraca e pode ser influenciada pelo tempo de empresa (quem tem pouco tempo de casa teve menos oportunidade de ser promovido).
-
-![Taxa de rotatividade por histórico de promoção](imagens/rotatividade_por_promocao.png)
-
-### Motivos de desligamento
-
-Os motivos estão distribuídos de forma equilibrada. Cerca de 27% das saídas foram de iniciativa da empresa (desempenho abaixo do esperado e reestruturação) e 73% de iniciativa do colaborador.
-
-![Motivos de desligamento](imagens/motivos_desligamento.png)
-
-### Área, horas extras e faixa salarial
-
-Esses recortes mostram diferenças visuais (por exemplo, Atendimento com 33,5% e Tecnologia com 20,9%), mas **nenhuma delas é estatisticamente significativa**. Com cerca de 170 colaboradores por área, diferenças dessa magnitude podem ocorrer por acaso, por isso não devem orientar decisões isoladamente.
-
-<details>
-<summary>Ver gráficos</summary>
-
-![Taxa de rotatividade por área](imagens/rotatividade_por_area.png)
-
-![Taxa de rotatividade por horas extras](imagens/rotatividade_por_horas_extras.png)
-
-![Taxa de rotatividade por faixa salarial](imagens/rotatividade_por_faixa_salarial.png)
-
-</details>
-
-### Acúmulo de fatores
-
-A taxa aumenta conforme os fatores se acumulam: 10,8% (nenhum), 20,8% (1), 29,2% (2) e 39,6% (3 ou mais).
-
-Esse resultado é **parcialmente circular**: os cinco fatores foram escolhidos porque já apresentavam taxas maiores nesta mesma base. Ele ilustra o efeito combinado, mas não é uma validação independente.
-
-![Rotatividade por acúmulo de fatores](imagens/rotatividade_por_acumulo_de_fatores.png)
-
-## Decisões Orientadas pelos Dados
-
-| Evidência | Força | Decisão recomendada |
-| --- | --- | --- |
-| 46,9% de rotatividade no primeiro ano | Forte | Reestruturar onboarding e acompanhamento inicial |
-| Satisfação baixa associada a desligamentos | Moderada | Desenvolver ações de clima e liderança |
-| Equilíbrio baixo associado a desligamentos | Fraca | Ampliar iniciativas de flexibilidade e bem-estar |
-| Não promovidos apresentam maior rotatividade | Fraca | Estruturar carreira e mobilidade interna |
-| 73% das saídas são voluntárias | Descritiva | Monitorar a rotatividade voluntária separadamente |
-| Área, salário e horas extras | Não significativa | Não priorizar; monitorar a série histórica |
-
-## Recomendações
-
-1. Reestruturar o onboarding com metas de 30, 60 e 90 dias.
-2. Realizar conversas de permanência aos 3, 6 e 12 meses.
-3. Desenvolver planos de ação para satisfação e clima.
-4. Criar critérios transparentes de promoção e ampliar a mobilidade interna.
-5. Separar rotatividade voluntária e involuntária nos indicadores.
-6. Coletar dados mais detalhados: quantidade de horas extras e salário comparado ao mercado.
-7. Construir um dashboard mensal de People Analytics.
-8. Comparar os indicadores antes e depois das iniciativas.
-
-## Limitações e Uso Responsável
-
-A base utilizada é sintética e os resultados representam associações presentes nos dados, não relações comprovadas de causa e efeito.
-
-Os testes qui-quadrado avaliam cada fator isoladamente e não controlam a influência de uma variável sobre outra (por exemplo, tempo de empresa sobre promoção). Um próximo passo natural seria um modelo multivariado, como uma regressão logística, validado em dados separados.
-
-O indicador de fatores acumulados possui caráter exploratório. Ele deve ser utilizado para análises agregadas e planejamento organizacional, nunca para classificar, punir ou tomar decisões individuais sobre colaboradores.
-
-
-## Como Executar o Projeto
-
-Clone o repositório:
+## Como Executar
 
 ```bash
-# Clona o repositório
 git clone https://github.com/leandroanalytics/people-analytics-turnover.git
-
-# Acessa a pasta do projeto
 cd people-analytics-turnover
-```
 
-Crie o ambiente virtual:
-
-```bash
-# Cria o ambiente virtual
 python -m venv .venv
-```
-
-Ative o ambiente no Windows:
-
-```powershell
-# Ativa o ambiente virtual no Windows
+# Windows
 .venv\Scripts\activate
-```
-
-No Linux ou macOS:
-
-```bash
-# Ativa o ambiente virtual no Linux ou macOS
+# Linux ou macOS
 source .venv/bin/activate
-```
 
-Instale as dependências:
-
-```bash
-# Instala as bibliotecas necessárias
 pip install -r requirements.txt
 ```
 
-Execute os notebooks na seguinte ordem:
+Execute os notebooks na ordem: `01_etl` → `02_eda` → `03_modelo_rotatividade`.
 
-1. `notebooks/01_etl.ipynb`
-2. `notebooks/02_eda.ipynb`
+## Limitações e Uso Responsável
+
+- A base é sintética, e os resultados representam **associações**, não relações de causa e efeito.
+- O tempo de empresa dos desligados é medido até a saída e o dos ativos até a data de referência. Uma análise de sobrevivência trataria essa diferença de forma mais adequada.
+- O modelo e o indicador de fatores acumulados devem ser usados apenas em **análises agregadas**, nunca para classificar, punir ou tomar decisões sobre colaboradores individualmente.
+
+## Próximos Passos
+
+- Publicar o dashboard no Power BI seguindo o [guia](powerBi/GUIA_DASHBOARD.md);
+- Aplicar análise de sobrevivência (curva de Kaplan-Meier e modelo de Cox) ao tempo até o desligamento;
+- Incorporar dados de horas extras em quantidade e de salário comparado ao mercado.
 
 ## Autor
 
-Leandro Gomes
+**Leandro Gomes**
 Profissional em transição para Dados e Business Intelligence, com experiência em gestão de negócios, indicadores, rentabilidade e apoio à tomada de decisão.
 
 [GitHub — leandroanalytics](https://github.com/leandroanalytics)
