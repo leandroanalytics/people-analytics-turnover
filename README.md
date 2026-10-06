@@ -4,7 +4,7 @@
 ![pandas](https://img.shields.io/badge/pandas-2.3-150458?logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-testes%20estatísticos-8CAAE6?logo=scipy&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-regressão%20logística-4B8BBE)
-![Power BI](https://img.shields.io/badge/Power%20BI-dashboard-F2C811?logo=powerbi&logoColor=black)
+[![Power BI](https://img.shields.io/badge/Power%20BI-dashboard-F2C811?logo=powerbi&logoColor=black)](#dashboard-power-bi)
 
 Análise ponta a ponta da rotatividade de 1.200 colaboradores: tratamento dos dados, análise exploratória com testes estatísticos, evolução do turnover ao longo do tempo e um modelo de regressão logística para identificar o que realmente explica as saídas voluntárias.
 
@@ -102,6 +102,30 @@ Os motivos estão distribuídos de forma equilibrada. Cerca de 27% das saídas f
 
 </details>
 
+## Dashboard Power BI
+
+Dashboard interativo com 4 páginas, construído a partir das bases geradas pelos notebooks. Arquivo: [`powerBi/People Analytics Dashboard.pbix`](powerBi/People%20Analytics%20Dashboard.pbix).
+
+### 1. Visão Geral: como está o turnover?
+Indicadores principais, evolução anual do turnover (total e voluntário), admissões × desligamentos e motivos de saída.
+
+![Dashboard - Visão Geral](imagens/dashboard_pagina_1.png)
+
+### 2. Quem Sai: onde está o risco?
+Taxa de rotatividade por tempo de empresa, satisfação e equilíbrio vida-trabalho, com destaque automático para os grupos acima da taxa geral e filtros por área, nível, horas extras, faixa salarial e tipo de desligamento.
+
+![Dashboard - Quem Sai](imagens/dashboard_pagina_2.png)
+
+### 3. O que explica: o que realmente importa?
+Resultado da regressão logística: efeito de cada fator na chance de saída voluntária, com os fatores significativos destacados.
+
+![Dashboard - O que explica](imagens/dashboard_pagina_3.png)
+
+### 4. Como ler
+Página de apoio para quem não é da área de dados: definição dos indicadores, o que significa "estatisticamente significativo", como interpretar a AUC e orientações de uso responsável.
+
+**Técnicas utilizadas:** modelo estrela com tabela calendário, medidas DAX (turnover anualizado, turnover 12 meses com `DATESINPERIOD`, taxa geral com `REMOVEFILTERS`), formatação condicional por medida e navegação entre páginas.
+
 ## Recomendações
 
 | Prioridade | Evidência | Ação recomendada | Indicador de acompanhamento |
@@ -125,7 +149,7 @@ data/raw  ──►  01_etl  ──►  data/processed  ──►  02_eda  ─�
 | Preparação | [`01_etl.ipynb`](notebooks/01_etl.ipynb) | Remoção de 12 duplicidades, tratamento de 43 ausentes (mediana por grupo), recálculo do tempo de empresa a partir das datas, 14 testes automatizados de qualidade |
 | Análise exploratória | [`02_eda.ipynb`](notebooks/02_eda.ipynb) | Turnover anual e mensal (headcount médio), voluntário vs. involuntário, taxas por segmento, qui-quadrado e V de Cramér |
 | Modelo | [`03_modelo_rotatividade.ipynb`](notebooks/03_modelo_rotatividade.ipynb) | Regressão logística (statsmodels), odds ratio com IC 95%, validação treino/teste e AUC |
-| Dashboard | [`powerBi/GUIA_DASHBOARD.md`](powerBi/GUIA_DASHBOARD.md) | Modelo de dados, medidas DAX e layout das páginas |
+| Dashboard | [`powerBi/`](powerBi/) | Power BI com 4 páginas: modelo estrela, medidas DAX, formatação condicional e navegação |
 
 As funções reutilizáveis (cálculo de taxas, teste estatístico e padrão dos gráficos) ficam em [`src/people_analytics.py`](src/people_analytics.py), evitando repetição de código nos notebooks.
 
@@ -149,6 +173,8 @@ people-analytics-turnover
 │   ├── 02_eda.ipynb
 │   └── 03_modelo_rotatividade.ipynb
 ├── powerBi
+│   ├── People Analytics Dashboard.pbix
+│   ├── Tema.json
 │   ├── GUIA_DASHBOARD.md
 │   └── People_Analytics_Resumo_Executivo.xlsx
 ├── src
@@ -190,7 +216,6 @@ Execute os notebooks na ordem: `01_etl` → `02_eda` → `03_modelo_rotatividade
 
 ## Próximos Passos
 
-- Publicar o dashboard no Power BI seguindo o [guia](powerBi/GUIA_DASHBOARD.md);
 - Aplicar análise de sobrevivência (curva de Kaplan-Meier e modelo de Cox) ao tempo até o desligamento;
 - Incorporar dados de horas extras em quantidade e de salário comparado ao mercado.
 
