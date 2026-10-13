@@ -221,7 +221,5 @@ Execute os notebooks na ordem: `01_etl` → `02_eda` → `03_modelo_rotatividade
 
 ## Autor
 
-**Leandro Gomes**
-Profissional em transição para Dados e Business Intelligence, com experiência em gestão de negócios, indicadores, rentabilidade e apoio à tomada de decisão.
-
-[GitHub — leandroanalytics](https://github.com/leandroanalytics)
+**Leandro Gomes** · Analista de Dados<br>
+[GitHub](https://github.com/leandroanalytics) · [LinkedIn](https://www.linkedin.com/in/leandroanalytics)
